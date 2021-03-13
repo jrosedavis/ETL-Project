@@ -19,14 +19,9 @@ CREATE TABLE "reservations" (
     "EndDate" date   ,
     "NumberOfPeople" float  
 );
-​
-CREATE TABLE "nps_comments" (
-    "Park" varchar   NOT NULL,
-    "State" varchar   NOT NULL,
-    "Year" date   NOT NULL,
-    "CollectedDate" date   NOT NULL,
-    "Comments" varchar   NOT NULL
-);
+
+ALTER TABLE reservations
+ADD Primary Key ("OrderNumber")
 ​
 CREATE TABLE "nps_summary" (
     "Park" varchar   NOT NULL,
@@ -44,6 +39,26 @@ CREATE TABLE "nps_summary" (
     "Misc_Campers" int  ,
     "Total_Overnight_Stays" int  
 );
+
+CREATE TABLE "nps_comments" (
+    "Park" varchar   ,
+    "State" varchar   ,
+    "Year" int   ,
+    "CollectedDate" date   ,
+    "Comments" varchar   NOT NULL
+);
+
+CREATE TABLE "geocode_info" (
+    "RegionDescription" varchar   ,
+    "Park" varchar   NOT NULL,
+    "FacilityID" int   ,
+    "FacilityState" varchar   ,
+    "FacilityLongitude" int   ,
+    "FacilityLatitude" int   ,
+    "CityPlace" varchar  ,
+    "County" varchar   
+);
+
 ​
 ALTER TABLE "reservations" ADD CONSTRAINT "fk_reservations_Park" FOREIGN KEY("Park")
 REFERENCES "nps_comments" ("Park");
@@ -63,11 +78,26 @@ REFERENCES "reservations" ("Park");
 ALTER TABLE "nps_summary" ADD CONSTRAINT "fk_nps_summary_Year" FOREIGN KEY("State", "Year")
 REFERENCES "nps_comments" ("State", "Year");
 
+-- drop table reservations
+
+select * from reservations
+
 select count(*) from reservations
 
-drop table reservations
+-- drop table nps_summary
 
 select * from nps_summary
 
 select count(*) from nps_summary
-drop table nps_summary
+
+drop table geocode_info
+
+select * from geocode_info
+
+select count(*) from geocode_info
+
+-- drop table nps_comments
+
+select * from nps_comments
+
+select count(*) from nps_comments
