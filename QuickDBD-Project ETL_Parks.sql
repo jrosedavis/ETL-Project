@@ -28,7 +28,18 @@ CREATE TABLE "NatPark_All_Comments" (
     "Comments" varchar   NOT NULL
 );
 
-CREATE TABLE "NatPark_All_Clean_Summary_Visitor_Use" (
+CREATE TABLE "Reverse_GeocodeInfo" (
+    "RegionDescription" varchar   NOT NULL,
+    "Park" varchar   NOT NULL,
+    "FacilityID" int   NOT NULL,
+    "FacilityState" varchar   NOT NULL,
+    "FacilityLongitude" int   NOT NULL,
+    "FacilityLatitude" int   NOT NULL,
+    "CityPlace" varchar   NOT NULL,
+    "County" varchar   NOT NULL
+);
+
+CREATE TABLE "nps_summary" (
     "Park" varchar   NOT NULL,
     "State" varchar   NOT NULL,
     "Year" date   NOT NULL,
@@ -46,20 +57,20 @@ CREATE TABLE "NatPark_All_Clean_Summary_Visitor_Use" (
 );
 
 ALTER TABLE "reservations" ADD CONSTRAINT "fk_reservations_Park" FOREIGN KEY("Park")
-REFERENCES "NatPark_All_Comments" ("Park");
+REFERENCES "Reverse_GeocodeInfo" ("RegionDescription");
 
 ALTER TABLE "reservations" ADD CONSTRAINT "fk_reservations_FacilityState" FOREIGN KEY("FacilityState")
-REFERENCES "NatPark_All_Clean_Summary_Visitor_Use" ("State");
+REFERENCES "nps_summary" ("State");
 
 ALTER TABLE "NatPark_All_Comments" ADD CONSTRAINT "fk_NatPark_All_Comments_Park" FOREIGN KEY("Park")
-REFERENCES "NatPark_All_Clean_Summary_Visitor_Use" ("Park");
+REFERENCES "nps_summary" ("Park");
 
 ALTER TABLE "NatPark_All_Comments" ADD CONSTRAINT "fk_NatPark_All_Comments_State" FOREIGN KEY("State")
 REFERENCES "reservations" ("FacilityState");
 
-ALTER TABLE "NatPark_All_Clean_Summary_Visitor_Use" ADD CONSTRAINT "fk_NatPark_All_Clean_Summary_Visitor_Use_Park" FOREIGN KEY("Park")
-REFERENCES "reservations" ("Park");
+ALTER TABLE "Reverse_GeocodeInfo" ADD CONSTRAINT "fk_Reverse_GeocodeInfo_RegionDescription" FOREIGN KEY("RegionDescription")
+REFERENCES "nps_summary" ("Park");
 
-ALTER TABLE "NatPark_All_Clean_Summary_Visitor_Use" ADD CONSTRAINT "fk_NatPark_All_Clean_Summary_Visitor_Use_State_Year" FOREIGN KEY("State", "Year")
+ALTER TABLE "nps_summary" ADD CONSTRAINT "fk_nps_summary_State_Year" FOREIGN KEY("State", "Year")
 REFERENCES "NatPark_All_Comments" ("State", "Year");
 
