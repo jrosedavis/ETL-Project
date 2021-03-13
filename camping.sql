@@ -1,14 +1,3 @@
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/mH3E2h
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-​
--- Modify this code to update the DB schema diagram.
--- -     - one TO one
--- -<    - one TO many
--- >-    - many TO one
--- >-<   - many TO many
--- For this ERD, all relationships are many to many
-​
 CREATE TABLE "reservations" (
     "OrderNumber" varchar   NOT NULL,
     "Park" varchar  ,
