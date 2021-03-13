@@ -1,181 +1,181 @@
-﻿Park,State,Year,CollectedDate,Comments
-Mesa Verde NP,CO,2010,1/1/2010,Park closed January 21-24 due to weather.
-Great Sand Dunes NP & PRES,CO,2010,3/1/2010,Our campground was closed in March 2010 for septic tank & sewer line construction.
-Great Sand Dunes NP & PRES,CO,2010,6/1/2010,"There was a forest fire in the northern part of the park in June this year.  Mosca, Medano & Music Passes were closed for extended periods of time throughout June.  Categories marked with ""0"" are directly affected by closures due to this fire."
-Mesa Verde NP,CO,2010,10/1/2010,Morefield Campground closed for the season Oct 13 and Far View Lodge closed October 21.
-Rocky Mountain NP,CO,2010,10/1/2010,"Much of October 2010 was unseasonably warm, especially compared to October 2009, when the last day Trail Ridge Road was open was October 3. October 2 was the second busiest day in the park in 2010. This year, Trail Ridge Road was open through October 21, and officially closed for the season on October 29.
+﻿ID,Park,State,Year,CollectedDate,Comments
+1,Mesa Verde NP,CO,2010,1/1/10,Park closed January 21-24 due to weather.
+2,Great Sand Dunes NP & PRES,CO,2010,3/1/10,Our campground was closed in March 2010 for septic tank & sewer line construction.
+3,Great Sand Dunes NP & PRES,CO,2010,6/1/10,"There was a forest fire in the northern part of the park in June this year.  Mosca, Medano & Music Passes were closed for extended periods of time throughout June.  Categories marked with ""0"" are directly affected by closures due to this fire."
+4,Mesa Verde NP,CO,2010,10/1/10,Morefield Campground closed for the season Oct 13 and Far View Lodge closed October 21.
+5,Rocky Mountain NP,CO,2010,10/1/10,"Much of October 2010 was unseasonably warm, especially compared to October 2009, when the last day Trail Ridge Road was open was October 3. October 2 was the second busiest day in the park in 2010. This year, Trail Ridge Road was open through October 21, and officially closed for the season on October 29.
   "
-Mesa Verde NP,CO,2010,11/1/2010,"Wetherill Mesa, Far View Lodge, and Morefield Campground closed for winter season."
-Mesa Verde NP,CO,2010,12/1/2010,"Winter closures for lodge, campground, and Wetherill Mesa."
-Mesa Verde NP,CO,2011,1/1/2011,Campground and lodge closed for winter.
-Mesa Verde NP,CO,2011,4/1/2011,"Far View Lodge opened 4/21/11, Morefield CG and Wetherill Mesa still closed."
-Black Canyon of the Gunnison NP,CO,2011,4/1/2011,"Lots of rain and stormy weather, esp. on weekends.  "
-Mesa Verde NP,CO,2011,5/1/2011,Edited per conversation with Butch Street regarding skewed counter data. 9/21/2011
-Rocky Mountain NP,CO,2011,5/1/2011,"RMNP experienced a very late spring. May had a lot of cold, wet weather and several snowstorms. Trail Ridge Road did not open on Memorial Day Weekend, but on June 6, 2011. Timber Creek Campground was temporarily closed in May due to snow. Also, park trails were very snowy, affecting hikers. All of these affected visitation.
+6,Mesa Verde NP,CO,2010,11/1/10,"Wetherill Mesa, Far View Lodge, and Morefield Campground closed for winter season."
+7,Mesa Verde NP,CO,2010,12/1/10,"Winter closures for lodge, campground, and Wetherill Mesa."
+8,Mesa Verde NP,CO,2011,1/1/11,Campground and lodge closed for winter.
+9,Mesa Verde NP,CO,2011,4/1/11,"Far View Lodge opened 4/21/11, Morefield CG and Wetherill Mesa still closed."
+10,Black Canyon of the Gunnison NP,CO,2011,4/1/11,"Lots of rain and stormy weather, esp. on weekends.  "
+11,Mesa Verde NP,CO,2011,5/1/11,Edited per conversation with Butch Street regarding skewed counter data. 9/21/2011
+12,Rocky Mountain NP,CO,2011,5/1/11,"RMNP experienced a very late spring. May had a lot of cold, wet weather and several snowstorms. Trail Ridge Road did not open on Memorial Day Weekend, but on June 6, 2011. Timber Creek Campground was temporarily closed in May due to snow. Also, park trails were very snowy, affecting hikers. All of these affected visitation.
   "
-Black Canyon of the Gunnison NP,CO,2011,5/1/2011,"An unusual cool and wet spring; not as many visitors, including climbers and hikers.  "
-Mesa Verde NP,CO,2011,6/1/2011,"  Wetherill traffic counter information unavailable.
+13,Black Canyon of the Gunnison NP,CO,2011,5/1/11,"An unusual cool and wet spring; not as many visitors, including climbers and hikers.  "
+14,Mesa Verde NP,CO,2011,6/1/11,"  Wetherill traffic counter information unavailable.
   Edited per conversation with Butch Street regarding skewed counter data. 9/21/2011"
-Rocky Mountain NP,CO,2011,6/1/2011,"  Trail Ridge Road did not open for the season until June 6, 2011, which is about 10 days later than normal. The Bear Lake area and most trail were very snowy and the first couple of weeks were chilly. June 21, the first day of summer, was a fee-free day. Despite the cold and snow, June was busy with lots of visitors.
+15,Rocky Mountain NP,CO,2011,6/1/11,"  Trail Ridge Road did not open for the season until June 6, 2011, which is about 10 days later than normal. The Bear Lake area and most trail were very snowy and the first couple of weeks were chilly. June 21, the first day of summer, was a fee-free day. Despite the cold and snow, June was busy with lots of visitors.
   
   "
-Black Canyon of the Gunnison NP,CO,2011,6/1/2011,"Road re-surfacing, blocked traffic, and closed parking lot at Visitor Center for a period of about 3 days. Visitors left park before entering, or did not want to wait in construction lines. "
-Mesa Verde NP,CO,2011,7/1/2011,"  Traffic counters at entrance at Wetherill Mesa both not working this month. Stats compiled from entrance kiosk data. 
+16,Black Canyon of the Gunnison NP,CO,2011,6/1/11,"Road re-surfacing, blocked traffic, and closed parking lot at Visitor Center for a period of about 3 days. Visitors left park before entering, or did not want to wait in construction lines. "
+17,Mesa Verde NP,CO,2011,7/1/11,"  Traffic counters at entrance at Wetherill Mesa both not working this month. Stats compiled from entrance kiosk data. 
   
 Edited per conversation with Butch Street regarding skewed counter data. 9/21/2011"
-Mesa Verde NP,CO,2011,8/1/2011,Edited per conversation with Butch Street regarding skewed counter data. 9/21/2011
-Great Sand Dunes NP & PRES,CO,2011,9/1/2011,Medano Pass was closed for most of the month of September 2011
-Mesa Verde NP,CO,2011,9/1/2011,Traffic counters still off-line. Edited per conversation with Butch Street.
-Rocky Mountain NP,CO,2011,9/1/2011,"Due to a formula error that was discovered in August for Longs Peak and Wild Basin traffic counts, a correction was made for all months in 2011. These formula corrections resulted in overall visitation at Wild Basin increasing 1,344 for the January-July period, and Longs Peak increasing 43,782 for January-July. Historical data cannot be changed, and previous years cannot be corrected. Therefore, direct comparisons to data in previous years are no longer possible for these two areas, nor for the overall total visits and total year-to-date figures at Rocky Mountain National Park. 
+18,Mesa Verde NP,CO,2011,8/1/11,Edited per conversation with Butch Street regarding skewed counter data. 9/21/2011
+19,Great Sand Dunes NP & PRES,CO,2011,9/1/11,Medano Pass was closed for most of the month of September 2011
+20,Mesa Verde NP,CO,2011,9/1/11,Traffic counters still off-line. Edited per conversation with Butch Street.
+21,Rocky Mountain NP,CO,2011,9/1/11,"Due to a formula error that was discovered in August for Longs Peak and Wild Basin traffic counts, a correction was made for all months in 2011. These formula corrections resulted in overall visitation at Wild Basin increasing 1,344 for the January-July period, and Longs Peak increasing 43,782 for January-July. Historical data cannot be changed, and previous years cannot be corrected. Therefore, direct comparisons to data in previous years are no longer possible for these two areas, nor for the overall total visits and total year-to-date figures at Rocky Mountain National Park. 
 
 However, the overall percentage increase of these two locations is minor compared to main entrances in the park. Reflecting trends at main entrances, which is where the majority of park visitors access the park, can still be compared by looking at main entrance figures on the park visitation website. "
-Great Sand Dunes NP & PRES,CO,2011,10/1/2011,Medano Pass continued to be closed due to flood damage and only reopened in late October 2012....hence the very low figure for this month
-Mesa Verde NP,CO,2011,10/1/2011,Lodging closed mid-month for the winter.
-Rocky Mountain NP,CO,2011,10/1/2011,"Old Fall River Road closed 10/14/11 for the season. Trail Ridge Road officially closed for the season 10/27/11 but did not open after 10/22 due to snow, and it was closed Columbus Day Weekend due to snow. Longs Peak Campground closed 10/11/11 for the winter for hazard tree mitigation (it is usually open year-round)."
-Mesa Verde NP,CO,2011,11/1/2011,Park lodging closed for winter.
-Black Canyon of the Gunnison NP,CO,2011,11/1/2011,A warm and wonderful month of November with an increase of visitor use.  No fee collection.  
-Mesa Verde NP,CO,2012,1/1/2012,"  Entrance kiosk was closed for January and February. No count on non-recs and commercial vehicles. Non-rec number from 2011 was used as estimate.
+22,Great Sand Dunes NP & PRES,CO,2011,10/1/11,Medano Pass continued to be closed due to flood damage and only reopened in late October 2012....hence the very low figure for this month
+23,Mesa Verde NP,CO,2011,10/1/11,Lodging closed mid-month for the winter.
+24,Rocky Mountain NP,CO,2011,10/1/11,"Old Fall River Road closed 10/14/11 for the season. Trail Ridge Road officially closed for the season 10/27/11 but did not open after 10/22 due to snow, and it was closed Columbus Day Weekend due to snow. Longs Peak Campground closed 10/11/11 for the winter for hazard tree mitigation (it is usually open year-round)."
+25,Mesa Verde NP,CO,2011,11/1/11,Park lodging closed for winter.
+26,Black Canyon of the Gunnison NP,CO,2011,11/1/11,A warm and wonderful month of November with an increase of visitor use.  No fee collection.  
+27,Mesa Verde NP,CO,2012,1/1/12,"  Entrance kiosk was closed for January and February. No count on non-recs and commercial vehicles. Non-rec number from 2011 was used as estimate.
   "
-Rocky Mountain NP,CO,2012,1/1/2012,"Rocky Mountain National Park is correcting and aligning its public use statistics procedures. Starting in January 2012, traffic is counted at Lumpy Ridge and Lily Lake on the park’s east side; regression formulas rather than counters are used for west side minor entrances; Sun Valley Road, a county road across from the Kawuneeche Visitor Center, is no longer counted as non-recreation visitation as this road is not administered by the park; and Hiker Shuttle riders and visitors who enter the park on horseback are counted as recreational visits. These changes will help correctly align the park’s Recreational and Non-Recreational visitation. 
+28,Rocky Mountain NP,CO,2012,1/1/12,"Rocky Mountain National Park is correcting and aligning its public use statistics procedures. Starting in January 2012, traffic is counted at Lumpy Ridge and Lily Lake on the park’s east side; regression formulas rather than counters are used for west side minor entrances; Sun Valley Road, a county road across from the Kawuneeche Visitor Center, is no longer counted as non-recreation visitation as this road is not administered by the park; and Hiker Shuttle riders and visitors who enter the park on horseback are counted as recreational visits. These changes will help correctly align the park’s Recreational and Non-Recreational visitation. 
 
 Due to our visitation calculations changing this year, the only way to compare this year to previous year's visitation is to look at the major entrance stations.  Comparing other statistics would be inaccurate.
 
 A Person Per Vehicle (PPV) study is being conducted from December 2011 through October 2012 to determine whether currently-used multipliers are still correct or should be adjusted.
 "
-Black Canyon of the Gunnison NP,CO,2012,1/1/2012,Broken Traffic Counter on the South Rim.  
-Mesa Verde NP,CO,2012,2/1/2012,Entrance station was closed for January and February. Feb. 2011 data used for non-rec count.
-Black Canyon of the Gunnison NP,CO,2012,2/1/2012,Broken Traffic Counter on the South Rim
-Rocky Mountain NP,CO,2012,3/1/2012,"Exceptionally warm, mild weather in March."
-Mesa Verde NP,CO,2012,4/1/2012,Campground opened to primitive camping for the last few days of April.
-Rocky Mountain NP,CO,2012,4/1/2012,"The park had unseasonably warm weather and low snowpack in April. In 2011, the park had an unseasonably wet spring.
+29,Black Canyon of the Gunnison NP,CO,2012,1/1/12,Broken Traffic Counter on the South Rim.  
+30,Mesa Verde NP,CO,2012,2/1/12,Entrance station was closed for January and February. Feb. 2011 data used for non-rec count.
+31,Black Canyon of the Gunnison NP,CO,2012,2/1/12,Broken Traffic Counter on the South Rim
+32,Rocky Mountain NP,CO,2012,3/1/12,"Exceptionally warm, mild weather in March."
+33,Mesa Verde NP,CO,2012,4/1/12,Campground opened to primitive camping for the last few days of April.
+34,Rocky Mountain NP,CO,2012,4/1/12,"The park had unseasonably warm weather and low snowpack in April. In 2011, the park had an unseasonably wet spring.
   "
-Black Canyon of the Gunnison NP,CO,2012,4/1/2012,The weather in April was warmer and drier than normal so visitation was up as compared to other years.  
-Rocky Mountain NP,CO,2012,5/1/2012,"May was unseasonably warm and dry in Rocky. Trail Ridge Road opened on May 14, which was 9 days earlier than scheduled. "
-Black Canyon of the Gunnison NP,CO,2012,5/1/2012,South Rim VC numbers are coming.
-Rocky Mountain NP,CO,2012,6/1/2012,"June 2012 was uncommonly warm and dry so many trails melted out early and the park started out the month very busy. However, Colorado experienced several major wildfires that caused national media attention and visitation dropped off later in the month."
-Rocky Mountain NP,CO,2012,7/1/2012,"June and early July saw several major Colorado wildfires. Though none were in the park, national attention and media coverage of the fires likely affected Colorado visitation in July, including RMNP. The first part of July was hot and dry. 
+35,Black Canyon of the Gunnison NP,CO,2012,4/1/12,The weather in April was warmer and drier than normal so visitation was up as compared to other years.  
+36,Rocky Mountain NP,CO,2012,5/1/12,"May was unseasonably warm and dry in Rocky. Trail Ridge Road opened on May 14, which was 9 days earlier than scheduled. "
+37,Black Canyon of the Gunnison NP,CO,2012,5/1/12,South Rim VC numbers are coming.
+38,Rocky Mountain NP,CO,2012,6/1/12,"June 2012 was uncommonly warm and dry so many trails melted out early and the park started out the month very busy. However, Colorado experienced several major wildfires that caused national media attention and visitation dropped off later in the month."
+39,Rocky Mountain NP,CO,2012,7/1/12,"June and early July saw several major Colorado wildfires. Though none were in the park, national attention and media coverage of the fires likely affected Colorado visitation in July, including RMNP. The first part of July was hot and dry. 
 The Longs Peak Campground figure is a 5-year average (2007-2011), as the original worksheet was lost when the campground hosts had a personal emergency, had to depart suddenly, and left no records"
-Rocky Mountain NP,CO,2012,8/1/2012,"August was unusually hot and dry. Though the park only had one very small wildfire that did not impact park operations, large wildfires in Colorado affected visitation statewide. The Longs Peak Campground had no host, as the hosts had to leave for a medical emergency, so the figure used was a 5-year average."
-Rocky Mountain NP,CO,2012,9/1/2012,Beaver Meadows Entrance Station is a 5-year average. Longs Peak Campground is a 4-year average. Lumpy Ridge traffic count is an average. 
-Mesa Verde NP,CO,2012,10/1/2012,Far View Lodge and Morefield CG closed mid-month
-Rocky Mountain NP,CO,2012,10/1/2012,"Trail Ridge Road closed open for the season 10-11-12, and last year in 2011 it closed on 10-22-11. 
+40,Rocky Mountain NP,CO,2012,8/1/12,"August was unusually hot and dry. Though the park only had one very small wildfire that did not impact park operations, large wildfires in Colorado affected visitation statewide. The Longs Peak Campground had no host, as the hosts had to leave for a medical emergency, so the figure used was a 5-year average."
+41,Rocky Mountain NP,CO,2012,9/1/12,Beaver Meadows Entrance Station is a 5-year average. Longs Peak Campground is a 4-year average. Lumpy Ridge traffic count is an average. 
+42,Mesa Verde NP,CO,2012,10/1/12,Far View Lodge and Morefield CG closed mid-month
+43,Rocky Mountain NP,CO,2012,10/1/12,"Trail Ridge Road closed open for the season 10-11-12, and last year in 2011 it closed on 10-22-11. 
 Old Fall River Road closed for the season on 10-10-12, and last year in 2011 it closed on 10-14-11.
 The Bear Lake Road Reconstruction Project continues. Mandatory use of shuttle buses in the Bear Lake Corridor was through 10-9-12.
 The Fern Lake Fire started 10-9-12. There were some temporary trail and road closures as a resuit.
 Longs Peak Campground had no host, so this figure is a 5-year average.
 "
-Black Canyon of the Gunnison NP,CO,2012,10/1/2012,As soon as I receive the visitor center numbers I will update this field.  
-Rocky Mountain NP,CO,2012,11/1/2012,"November was unseasonably warm and dry.
+44,Black Canyon of the Gunnison NP,CO,2012,10/1/12,As soon as I receive the visitor center numbers I will update this field.  
+45,Rocky Mountain NP,CO,2012,11/1/12,"November was unseasonably warm and dry.
 Wild Basin Entrance is a 5-year average.
 "
-Mesa Verde NP,CO,2012,12/1/2012,Traffic counter appears to have malfunctioned on Luminaria Night. Last year we showed 572 vehicles that night. This year visitation was slightly up and the counter showed 89 vehicles. 500 vehicles added to the month to account for discrepancy.
-Rocky Mountain NP,CO,2012,12/1/2012,"The Fern Lake Fire blew up during the night of 11/30-12/1/12.
+46,Mesa Verde NP,CO,2012,12/1/12,Traffic counter appears to have malfunctioned on Luminaria Night. Last year we showed 572 vehicles that night. This year visitation was slightly up and the counter showed 89 vehicles. 500 vehicles added to the month to account for discrepancy.
+47,Rocky Mountain NP,CO,2012,12/1/12,"The Fern Lake Fire blew up during the night of 11/30-12/1/12.
 12/1/12, Hwys 36 & 35 closed at Beaver Point & Fall River Entrance. 
 12/7/12 Hwys 36 & 34 reopened to regular winter closure points.
 12/12/12 Bear Lake Road reopened.
 12/21/12 All trail & area closures related to the Fern Lake Fire in RMNP were lifted.
 Wild Basin traffic counter was broken; this figure is a 5-year average.
 "
-Mesa Verde NP,CO,2013,1/1/2013,"Entrace station closed, non-rec numbers came from VRC. Actual numbers for commercial vehicles likely higher."
-Mesa Verde NP,CO,2013,2/1/2013,The entrance station was closed for February. All data is from the traffic counters.
-Rocky Mountain NP,CO,2013,3/1/2013,"Weather in March 2013 was likely the biggest contributing factor to visitation numbers. March 2012, last year, was very warm and sunny."
-Rocky Mountain NP,CO,2013,4/1/2013,April 2013 was very snowy parkwide.
-Rocky Mountain NP,CO,2013,5/1/2013,"May 2013 was very snowy and cold. Moraine Park Campground was closed for repaving April 30-May 21. Aspenglen Campground  opened early, on April 30, for campers. Trail Ridge Road opened for the season on May 24. "
-Rocky Mountain NP,CO,2013,8/1/2013,"In general, August had beautiful weather, no forest fires, no major issues."
-Rocky Mountain NP,CO,2013,9/1/2013,"The week of 9-12-13, the northern portion of Colorado's Front Range experienced an historic and devastating flood. The Estes Park area was one of the hardest hit, affecting all highways that access the community, businesses, homes, and services. The main access roads to the east side of the park, highways 34 and 36, were closed from September 12 through October. 
+48,Mesa Verde NP,CO,2013,1/1/13,"Entrace station closed, non-rec numbers came from VRC. Actual numbers for commercial vehicles likely higher."
+49,Mesa Verde NP,CO,2013,2/1/13,The entrance station was closed for February. All data is from the traffic counters.
+50,Rocky Mountain NP,CO,2013,3/1/13,"Weather in March 2013 was likely the biggest contributing factor to visitation numbers. March 2012, last year, was very warm and sunny."
+51,Rocky Mountain NP,CO,2013,4/1/13,April 2013 was very snowy parkwide.
+52,Rocky Mountain NP,CO,2013,5/1/13,"May 2013 was very snowy and cold. Moraine Park Campground was closed for repaving April 30-May 21. Aspenglen Campground  opened early, on April 30, for campers. Trail Ridge Road opened for the season on May 24. "
+53,Rocky Mountain NP,CO,2013,8/1/13,"In general, August had beautiful weather, no forest fires, no major issues."
+54,Rocky Mountain NP,CO,2013,9/1/13,"The week of 9-12-13, the northern portion of Colorado's Front Range experienced an historic and devastating flood. The Estes Park area was one of the hardest hit, affecting all highways that access the community, businesses, homes, and services. The main access roads to the east side of the park, highways 34 and 36, were closed from September 12 through October. 
 In the park, many bridges, trails, and some roads were damaged. Repairs started immediately, but recreation visitation was tremendously affected (-51.9%). Most of the park reopened by 9/26/13, but Aspenglen and Longs Peak campgrounds, and Old Fall River Road closed for the season as a result of flood damage."
-Great Sand Dunes NP & PRES,CO,2013,10/1/2013,"Federal Shut down Octber 1-16, 2013....Figures given represent 1/2 of the Month of October in actuality."
-Mesa Verde NP,CO,2013,10/1/2013,"Government shutdown left the park closed from October 1-17, 2013. Visitation stats will be very low for the month."
-Rocky Mountain NP,CO,2013,10/1/2013,"The US government experienced a shutdown in early October. The State of Colorado funded a few days of park operations before the federal government reopened. RMNP was shutdown 10/1 through 10/11/13. Additionally, the Estes Park area, which is the gateway community on the east side of the park, continues to experience damaged roads, businesses, homes, and interruptions to services as a result of the September 2013 flood. In the park, many bridges, trails, and some roads were damaged. Repairs stared immediately but recreation visitation was tremendously affected (-69.9%). Most of the park reopened by 9/26/13, but Aspenglen and Longs Peak campgrounds, and Old Fall River Road closed for the season as a result of flood damage. Trail Ridge Road closed for the season 10/22/13."
-Mesa Verde NP,CO,2013,11/1/2013,All concession facilities closed for winter season.
-Rocky Mountain NP,CO,2013,11/1/2013,"The east side of the park, including the gateway community of Estes Park, continues to recover from the floods in September."
-Rocky Mountain NP,CO,2013,12/1/2013,"Traffic Count at Grand Lake Entrance includes an average for Dec 29-30, when the counter was not working. Traffic count at Wild Basin is a 5-year average."
-Mesa Verde NP,CO,2014,1/1/2014,No non-rec count since entrance station is closed for January - February 2014.
-Rocky Mountain NP,CO,2014,1/1/2014,"Winter weather was generally colder and snowier than the winter of 2012-2013.
+55,Great Sand Dunes NP & PRES,CO,2013,10/1/13,"Federal Shut down Octber 1-16, 2013....Figures given represent 1/2 of the Month of October in actuality."
+56,Mesa Verde NP,CO,2013,10/1/13,"Government shutdown left the park closed from October 1-17, 2013. Visitation stats will be very low for the month."
+57,Rocky Mountain NP,CO,2013,10/1/13,"The US government experienced a shutdown in early October. The State of Colorado funded a few days of park operations before the federal government reopened. RMNP was shutdown 10/1 through 10/11/13. Additionally, the Estes Park area, which is the gateway community on the east side of the park, continues to experience damaged roads, businesses, homes, and interruptions to services as a result of the September 2013 flood. In the park, many bridges, trails, and some roads were damaged. Repairs stared immediately but recreation visitation was tremendously affected (-69.9%). Most of the park reopened by 9/26/13, but Aspenglen and Longs Peak campgrounds, and Old Fall River Road closed for the season as a result of flood damage. Trail Ridge Road closed for the season 10/22/13."
+58,Mesa Verde NP,CO,2013,11/1/13,All concession facilities closed for winter season.
+59,Rocky Mountain NP,CO,2013,11/1/13,"The east side of the park, including the gateway community of Estes Park, continues to recover from the floods in September."
+60,Rocky Mountain NP,CO,2013,12/1/13,"Traffic Count at Grand Lake Entrance includes an average for Dec 29-30, when the counter was not working. Traffic count at Wild Basin is a 5-year average."
+61,Mesa Verde NP,CO,2014,1/1/14,No non-rec count since entrance station is closed for January - February 2014.
+62,Rocky Mountain NP,CO,2014,1/1/14,"Winter weather was generally colder and snowier than the winter of 2012-2013.
 
 The Grand Lake Entrance Station traffic counter is broken so the count given is a six year average."
-Mesa Verde NP,CO,2014,2/1/2014,"Entrance kiosk was closed, no non-rec or commercial vehicles were recorded."
-Rocky Mountain NP,CO,2014,2/1/2014,"Winter weather was generally colder and snowier than the winter of 2012-2013.
+63,Mesa Verde NP,CO,2014,2/1/14,"Entrance kiosk was closed, no non-rec or commercial vehicles were recorded."
+64,Rocky Mountain NP,CO,2014,2/1/14,"Winter weather was generally colder and snowier than the winter of 2012-2013.
 The Grand Lake Entrance Station traffic counter is broken so the count given is a six year average."
-Black Canyon of the Gunnison NP,CO,2014,2/1/2014,North Rim Area closed due to snow
-Rocky Mountain NP,CO,2014,3/1/2014,Grand Lake Entrance Station counter is broken; this is a 5-year average 2009-2013. Lumpy Ridge counter is broken; this is a 2-year average 2012-2013 (counts were not taken at Lumpy prior to 2012).
-Black Canyon of the Gunnison NP,CO,2014,3/1/2014,North Rim Drive and South Rim Drive closed due to snow.
-Rocky Mountain NP,CO,2014,5/1/2014,"Weather in the spring can have a great affect on visitation. Significant snowstorms affected the park in mid-May. All roads to RMNP are open, but two, US 34 from Loveland and US 36 from Lyons, have had traffic delays due to flood damage repairs and rock scaling. Trail Ridge Road opened for the season as scheduled on May 23."
-Rocky Mountain NP,CO,2014,6/1/2014,"Likely the number of Hiker Shuttle Riders is very different this year from last because this year the buses only ran for the last four days of June this year, and last year they started much earlier because of the Bear Lake Road Reconstruction project."
-Rocky Mountain NP,CO,2014,8/1/2014,Grand Lake Entrance is a 5 year average.
-Mesa Verde NP,CO,2014,9/1/2014,Traffic counter down due to construction at fee office. Stats obtained from entrance station count.
-Rocky Mountain NP,CO,2014,9/1/2014,"Last year was the September 2013 Flood. 
+65,Black Canyon of the Gunnison NP,CO,2014,2/1/14,North Rim Area closed due to snow
+66,Rocky Mountain NP,CO,2014,3/1/14,Grand Lake Entrance Station counter is broken; this is a 5-year average 2009-2013. Lumpy Ridge counter is broken; this is a 2-year average 2012-2013 (counts were not taken at Lumpy prior to 2012).
+67,Black Canyon of the Gunnison NP,CO,2014,3/1/14,North Rim Drive and South Rim Drive closed due to snow.
+68,Rocky Mountain NP,CO,2014,5/1/14,"Weather in the spring can have a great affect on visitation. Significant snowstorms affected the park in mid-May. All roads to RMNP are open, but two, US 34 from Loveland and US 36 from Lyons, have had traffic delays due to flood damage repairs and rock scaling. Trail Ridge Road opened for the season as scheduled on May 23."
+69,Rocky Mountain NP,CO,2014,6/1/14,"Likely the number of Hiker Shuttle Riders is very different this year from last because this year the buses only ran for the last four days of June this year, and last year they started much earlier because of the Bear Lake Road Reconstruction project."
+70,Rocky Mountain NP,CO,2014,8/1/14,Grand Lake Entrance is a 5 year average.
+71,Mesa Verde NP,CO,2014,9/1/14,Traffic counter down due to construction at fee office. Stats obtained from entrance station count.
+72,Rocky Mountain NP,CO,2014,9/1/14,"Last year was the September 2013 Flood. 
 Glacier Basin Campground closed for the season 9/8/14. Moraine Park Campground closed 9/30/14 for repaving. Timber Creek Campground had no visitation figures for 5 days in September, so this figure is a 3-year average, 2010-2012."
-Rocky Mountain NP,CO,2014,10/1/2014,"The last day Trail Ridge Road was open for the season was 10/26/14. It was an unseasonably nice autumn.
+73,Rocky Mountain NP,CO,2014,10/1/14,"The last day Trail Ridge Road was open for the season was 10/26/14. It was an unseasonably nice autumn.
 Longs Peak Campground is a 4-year average, 2012-2009.
 Moraine Park Campground figure includes tents, RVs, and group campers."
-Black Canyon of the Gunnison NP,CO,2014,10/1/2014,Broken traffic counter found at North Rim Entrance Road. Park will attempt to fix ASAP. Traffic counter number used was estimated
-Mesa Verde NP,CO,2014,11/1/2014,Traffic counter down due to entrance station construction.
-Rocky Mountain NP,CO,2014,11/1/2014,"The last day Trail Ridge Road was open for the season was October 26, but it officially closed for the season on November 4. All park campgrounds were essentially closed except the B Loop in Moraine Park Campground. The Hidden Valley sledding hill didn’t open until Thanksgiving-time."
-Rocky Mountain NP,CO,2014,12/1/2014,"December had some snowstorms and several days with below zero temperatures, especially during the holidays. The day after Christmas is usually one of the busiest winter days, but this year it was snowing on the Front Range and quieter in the park than normal."
-Black Canyon of the Gunnison NP,CO,2014,12/1/2014,North Rim of Black Canyon was closed in December due to snowy conditions.
-Mesa Verde NP,CO,2015,1/1/2015,Visitation and non-rec data pulled from 5 year stats due to construction related traffic counter issues. Bus count is correct.
-Rocky Mountain NP,CO,2015,1/1/2015,January had a lot of seasonally mild weather but enough snow in the high country for recreating.
-Black Canyon of the Gunnison NP,CO,2015,1/1/2015,North Rim Area closed due to snow
-Mesa Verde NP,CO,2015,2/1/2015,Visitation and non-rec data pulled from 5 year stats due to construction related traffic counter issues. Bus count is correct.
-Rocky Mountain NP,CO,2015,2/1/2015,"The first half of February was busier than the second half because of weather: it was warm and sunny early in the month, and cold and snowy later in the month."
-Black Canyon of the Gunnison NP,CO,2015,2/1/2015,North Rim Closed due to snow
-Mesa Verde NP,CO,2015,3/1/2015,Visitation and non-rec data pulled from 5 year stats due to construction related traffic counter issues. Bus count is correct.
-Rocky Mountain NP,CO,2015,3/1/2015,"Rocky is a popular spring break destination. The weather parkwide for most of March was exceptionally beautiful and warm, which had an impact on visitation both east and west sides."
-Black Canyon of the Gunnison NP,CO,2015,3/1/2015,North Rim closed due to snow
-Mesa Verde NP,CO,2015,4/1/2015,"Traffic counter data received, average used to fill in missing data."
-Black Canyon of the Gunnison NP,CO,2015,4/1/2015,North traffic counter has been invaded by a red ant colony. Ants are going to be mitigated soon to get this back operational.  Five year estimate used for north traffic count (psz).
-Mesa Verde NP,CO,2015,5/1/2015,Traffic counter data entered.
-Rocky Mountain NP,CO,2015,5/1/2015,"Trail Ridge Road opened for the season on 5/29/15. This date is one week later than the planned date of 5/22, which was the Friday of Memorial Day Weekend. All summer campgrounds opened on 5/21 or 22. All park visitor centers opened in May. In general, May was quite wet and chilly."
-Rocky Mountain NP,CO,2015,6/1/2015,Late season snowfalls resulted in trails conditions being snowy and wet into the summer.
-Rocky Mountain NP,CO,2015,7/1/2015,The weather in July was very nice.
-Rocky Mountain NP,CO,2015,8/1/2015,August weather was very mild. The park continued to celebrate its Centennial in August.
-Rocky Mountain NP,CO,2015,9/1/2015,"Weather overall in September was warm and beautiful. 
+74,Black Canyon of the Gunnison NP,CO,2014,10/1/14,Broken traffic counter found at North Rim Entrance Road. Park will attempt to fix ASAP. Traffic counter number used was estimated
+75,Mesa Verde NP,CO,2014,11/1/14,Traffic counter down due to entrance station construction.
+76,Rocky Mountain NP,CO,2014,11/1/14,"The last day Trail Ridge Road was open for the season was October 26, but it officially closed for the season on November 4. All park campgrounds were essentially closed except the B Loop in Moraine Park Campground. The Hidden Valley sledding hill didn’t open until Thanksgiving-time."
+77,Rocky Mountain NP,CO,2014,12/1/14,"December had some snowstorms and several days with below zero temperatures, especially during the holidays. The day after Christmas is usually one of the busiest winter days, but this year it was snowing on the Front Range and quieter in the park than normal."
+78,Black Canyon of the Gunnison NP,CO,2014,12/1/14,North Rim of Black Canyon was closed in December due to snowy conditions.
+79,Mesa Verde NP,CO,2015,1/1/15,Visitation and non-rec data pulled from 5 year stats due to construction related traffic counter issues. Bus count is correct.
+80,Rocky Mountain NP,CO,2015,1/1/15,January had a lot of seasonally mild weather but enough snow in the high country for recreating.
+81,Black Canyon of the Gunnison NP,CO,2015,1/1/15,North Rim Area closed due to snow
+82,Mesa Verde NP,CO,2015,2/1/15,Visitation and non-rec data pulled from 5 year stats due to construction related traffic counter issues. Bus count is correct.
+83,Rocky Mountain NP,CO,2015,2/1/15,"The first half of February was busier than the second half because of weather: it was warm and sunny early in the month, and cold and snowy later in the month."
+84,Black Canyon of the Gunnison NP,CO,2015,2/1/15,North Rim Closed due to snow
+85,Mesa Verde NP,CO,2015,3/1/15,Visitation and non-rec data pulled from 5 year stats due to construction related traffic counter issues. Bus count is correct.
+86,Rocky Mountain NP,CO,2015,3/1/15,"Rocky is a popular spring break destination. The weather parkwide for most of March was exceptionally beautiful and warm, which had an impact on visitation both east and west sides."
+87,Black Canyon of the Gunnison NP,CO,2015,3/1/15,North Rim closed due to snow
+88,Mesa Verde NP,CO,2015,4/1/15,"Traffic counter data received, average used to fill in missing data."
+89,Black Canyon of the Gunnison NP,CO,2015,4/1/15,North traffic counter has been invaded by a red ant colony. Ants are going to be mitigated soon to get this back operational.  Five year estimate used for north traffic count (psz).
+90,Mesa Verde NP,CO,2015,5/1/15,Traffic counter data entered.
+91,Rocky Mountain NP,CO,2015,5/1/15,"Trail Ridge Road opened for the season on 5/29/15. This date is one week later than the planned date of 5/22, which was the Friday of Memorial Day Weekend. All summer campgrounds opened on 5/21 or 22. All park visitor centers opened in May. In general, May was quite wet and chilly."
+92,Rocky Mountain NP,CO,2015,6/1/15,Late season snowfalls resulted in trails conditions being snowy and wet into the summer.
+93,Rocky Mountain NP,CO,2015,7/1/15,The weather in July was very nice.
+94,Rocky Mountain NP,CO,2015,8/1/15,August weather was very mild. The park continued to celebrate its Centennial in August.
+95,Rocky Mountain NP,CO,2015,9/1/15,"Weather overall in September was warm and beautiful. 
 Glacier Basin and Longs Peak campgrounds closed after 9/7. Aspenglen CG closed after 9/27. Hiker Shuttle buses has daily service through 9/13, and then weekend service into October. The Bear Lake and Moraine Park shuttle routes had daily service through September into October. Trail Ridge Road did not close, even temporarily, in September due to poor weather."
-Mesa Verde NP,CO,2015,10/1/2015,Campground and lodge closed late in the month and were not open the full 31 days.
-Rocky Mountain NP,CO,2015,10/1/2015,"October was exceptionally busy up until October 21, when Trail Ridge Road was closed. Several park facilities closed for the season in October, including Old Fall River Road (10/7), Alpine and Fall River Visitor Centers (10/12), and Moraine Park Discovery Center (10/12)."
-Rocky Mountain NP,CO,2015,11/1/2015,"November was very mild for most of the month, but did have some bitter cold days too."
-Black Canyon of the Gunnison NP,CO,2015,11/1/2015,North Rim Ranger Station closed on 11/1/15. North Rim Road closed for year on 11/16/15 due to deep snow.
-Rocky Mountain NP,CO,2015,12/1/2015,"Counters at Grand Lake and Wild Basin entrances did not record properly in December. 
+96,Mesa Verde NP,CO,2015,10/1/15,Campground and lodge closed late in the month and were not open the full 31 days.
+97,Rocky Mountain NP,CO,2015,10/1/15,"October was exceptionally busy up until October 21, when Trail Ridge Road was closed. Several park facilities closed for the season in October, including Old Fall River Road (10/7), Alpine and Fall River Visitor Centers (10/12), and Moraine Park Discovery Center (10/12)."
+98,Rocky Mountain NP,CO,2015,11/1/15,"November was very mild for most of the month, but did have some bitter cold days too."
+99,Black Canyon of the Gunnison NP,CO,2015,11/1/15,North Rim Ranger Station closed on 11/1/15. North Rim Road closed for year on 11/16/15 due to deep snow.
+100,Rocky Mountain NP,CO,2015,12/1/15,"Counters at Grand Lake and Wild Basin entrances did not record properly in December. 
 
 December had some bitter cold days but yet visitors enjoyed the park."
-Black Canyon of the Gunnison NP,CO,2015,12/1/2015,North Rim Road closed due to deep snow conditions
-Rocky Mountain NP,CO,2016,1/1/2016,"Despite some bitter cold days, January was busy in ROMO"
-Black Canyon of the Gunnison NP,CO,2016,1/1/2016,North Rim Road closed due to deep snow.
-Mesa Verde NP,CO,2016,2/1/2016,Entrance station closed for February. No Non-recs or commercial vehicles recorded at Visitor Center. I used the Feb 2015 non-rec count.
-Rocky Mountain NP,CO,2016,2/1/2016,February was very mild - warm and little new snow.
-Black Canyon of the Gunnison NP,CO,2016,2/1/2016,North Rim Closed due to snow
-Rocky Mountain NP,CO,2016,3/1/2016,The west side of the park experienced bitterly cold weather in March.
-Black Canyon of the Gunnison NP,CO,2016,3/1/2016,North Rim Closed due to winter snow still melting
-Rocky Mountain NP,CO,2016,6/1/2016,"Lily Lake count is an average.
+101,Black Canyon of the Gunnison NP,CO,2015,12/1/15,North Rim Road closed due to deep snow conditions
+102,Rocky Mountain NP,CO,2016,1/1/16,"Despite some bitter cold days, January was busy in ROMO"
+103,Black Canyon of the Gunnison NP,CO,2016,1/1/16,North Rim Road closed due to deep snow.
+104,Mesa Verde NP,CO,2016,2/1/16,Entrance station closed for February. No Non-recs or commercial vehicles recorded at Visitor Center. I used the Feb 2015 non-rec count.
+105,Rocky Mountain NP,CO,2016,2/1/16,February was very mild - warm and little new snow.
+106,Black Canyon of the Gunnison NP,CO,2016,2/1/16,North Rim Closed due to snow
+107,Rocky Mountain NP,CO,2016,3/1/16,The west side of the park experienced bitterly cold weather in March.
+108,Black Canyon of the Gunnison NP,CO,2016,3/1/16,North Rim Closed due to winter snow still melting
+109,Rocky Mountain NP,CO,2016,6/1/16,"Lily Lake count is an average.
 It was a very busy month in Rocky, with beautiful weather most of the time.
 Trails were busy despite snowy conditions on many of them for much of the month."
-Rocky Mountain NP,CO,2016,7/1/2016,Very busy in ROMO. Most days were warm and sunny.
-Rocky Mountain NP,CO,2016,8/1/2016,"August 2016 the NPS celebrated its 100th Birthday including 4 fee-free entrance days 8/25-28. 2015 was Rocky's Centennial, this year is the NPS Centennial, and 2017 will be the Town of Estes Park Centennial."
-Rocky Mountain NP,CO,2016,10/1/2016,"Exceptionally nice weather in October kept Trail Ridge Road open(except for temporary closures) the entire month, trails were not very snowy, and RMNP was very busy."
-Great Sand Dunes NP & PRES,CO,2016,11/1/2016,Campground is now closed for the Winter season.  It will re-open in April 2017.
-Rocky Mountain NP,CO,2016,11/1/2016,"November weather was exceptionally nice the first half of the month. Trail Ridge Road stayed open until November 18, 2016, when it closed for the season, which is later than many years (the average closing date is Oct 22). Most secondary roads closed for the season on Nov 17."
-Rocky Mountain NP,CO,2016,12/1/2016,"Bitterly cold, sub-zero temperatures earlier in December."
-Black Canyon of the Gunnison NP,CO,2016,12/1/2016,North Rim closed for winter due to deep snow.
-Rocky Mountain NP,CO,2017,1/1/2017,"Bitter cold and icy conditions parkwide most of January, plus deep snow, especially on the west side. Also, US 34 from Estes Park to Loveland is closed Oct-May for reconstruction, which affects some visitors."
-Black Canyon of the Gunnison NP,CO,2017,1/1/2017,North Rim closed due to deep snow.
-Mesa Verde NP,CO,2017,2/1/2017,Entrance kiosk closed for winter. No non-rec or bus counts available.
-Rocky Mountain NP,CO,2017,2/1/2017,US 34 between Loveland and Estes Park remained closed in February. It is closed from mid-October 2016 through May 2017 for construction/repairs related to the 2013 Flood.
-Black Canyon of the Gunnison NP,CO,2017,2/1/2017,North Rim Closed due to deep snow
-Rocky Mountain NP,CO,2017,3/1/2017,"Lots of people chose to come to ROMO for their spring breaks. In general, March weather was warm and dry.
+110,Rocky Mountain NP,CO,2016,7/1/16,Very busy in ROMO. Most days were warm and sunny.
+111,Rocky Mountain NP,CO,2016,8/1/16,"August 2016 the NPS celebrated its 100th Birthday including 4 fee-free entrance days 8/25-28. 2015 was Rocky's Centennial, this year is the NPS Centennial, and 2017 will be the Town of Estes Park Centennial."
+112,Rocky Mountain NP,CO,2016,10/1/16,"Exceptionally nice weather in October kept Trail Ridge Road open(except for temporary closures) the entire month, trails were not very snowy, and RMNP was very busy."
+113,Great Sand Dunes NP & PRES,CO,2016,11/1/16,Campground is now closed for the Winter season.  It will re-open in April 2017.
+114,Rocky Mountain NP,CO,2016,11/1/16,"November weather was exceptionally nice the first half of the month. Trail Ridge Road stayed open until November 18, 2016, when it closed for the season, which is later than many years (the average closing date is Oct 22). Most secondary roads closed for the season on Nov 17."
+115,Rocky Mountain NP,CO,2016,12/1/16,"Bitterly cold, sub-zero temperatures earlier in December."
+116,Black Canyon of the Gunnison NP,CO,2016,12/1/16,North Rim closed for winter due to deep snow.
+117,Rocky Mountain NP,CO,2017,1/1/17,"Bitter cold and icy conditions parkwide most of January, plus deep snow, especially on the west side. Also, US 34 from Estes Park to Loveland is closed Oct-May for reconstruction, which affects some visitors."
+118,Black Canyon of the Gunnison NP,CO,2017,1/1/17,North Rim closed due to deep snow.
+119,Mesa Verde NP,CO,2017,2/1/17,Entrance kiosk closed for winter. No non-rec or bus counts available.
+120,Rocky Mountain NP,CO,2017,2/1/17,US 34 between Loveland and Estes Park remained closed in February. It is closed from mid-October 2016 through May 2017 for construction/repairs related to the 2013 Flood.
+121,Black Canyon of the Gunnison NP,CO,2017,2/1/17,North Rim Closed due to deep snow
+122,Rocky Mountain NP,CO,2017,3/1/17,"Lots of people chose to come to ROMO for their spring breaks. In general, March weather was warm and dry.
 US 34 between Loveland and Estes Park remained closed in March. It is closed from mid-October 2016 through May 2017 for construction/repairs related to the 2013 Flood."
-Black Canyon of the Gunnison NP,CO,2017,3/1/2017,North Rim Road Closed due to deep snow
-Mesa Verde NP,CO,2017,4/1/2017,Aramark facilities only open from April 13 on. No tent count provided. CRL
-Rocky Mountain NP,CO,2017,4/1/2017,"April had many warm, sunny days, especially in the first half of the month.
+123,Black Canyon of the Gunnison NP,CO,2017,3/1/17,North Rim Road Closed due to deep snow
+124,Mesa Verde NP,CO,2017,4/1/17,Aramark facilities only open from April 13 on. No tent count provided. CRL
+125,Rocky Mountain NP,CO,2017,4/1/17,"April had many warm, sunny days, especially in the first half of the month.
 US 34 between Loveland and Estes Park remained closed in April. It is closed from mid-October 2016 through May 2017 for construction/repairs related to the 2013 Flood."
-Rocky Mountain NP,CO,2017,5/1/2017,Weather in the spring can have a great affect on visitation. A significant snowstorm on May 18-19 (about 3 feet on much of the east side and more at higher elevations) impacted late-May visitation. Trail Ridge Road opening was delayed 5 days due to conditions. US 34 between Loveland and Estes Park reopened on May 25. It had been closed since mid-October 2016 for construction/repairs related to the 2013 Flood.
-Great Sand Dunes NP & PRES,CO,2017,6/1/2017,"Counts for number of tents/RVs at Pinyon Flats are low. These statistics were not recorded for 13 days in June due to changes in Campground Hosts.  Updated/estimated counts for tents/RVs based on 10-year averages.
+126,Rocky Mountain NP,CO,2017,5/1/17,Weather in the spring can have a great affect on visitation. A significant snowstorm on May 18-19 (about 3 feet on much of the east side and more at higher elevations) impacted late-May visitation. Trail Ridge Road opening was delayed 5 days due to conditions. US 34 between Loveland and Estes Park reopened on May 25. It had been closed since mid-October 2016 for construction/repairs related to the 2013 Flood.
+127,Great Sand Dunes NP & PRES,CO,2017,6/1/17,"Counts for number of tents/RVs at Pinyon Flats are low. These statistics were not recorded for 13 days in June due to changes in Campground Hosts.  Updated/estimated counts for tents/RVs based on 10-year averages.
 
 Medano Pass Road opened late June - AD"
-Rocky Mountain NP,CO,2017,8/1/2017,"August weather was very seasonal. A lot of road work did occur in the park during the first half of August, which caused some temporary closures and delays on various parking areas and roads.
+128,Rocky Mountain NP,CO,2017,8/1/17,"August weather was very seasonal. A lot of road work did occur in the park during the first half of August, which caused some temporary closures and delays on various parking areas and roads.
 This summer the park had a ranger (or Volunteer) at the Estes Park Visitor Center daily to assist visitors with taking the Hiker Shuttle into ROMO."
-Rocky Mountain NP,CO,2017,9/1/2017,Closed for season: Aspenglen Campground 9/26; Glacier Basin Campground 9/11; Longs Peak Campground 9/14
-Rocky Mountain NP,CO,2017,10/1/2017,"Closed for the 2017 Season:
+129,Rocky Mountain NP,CO,2017,9/1/17,Closed for season: Aspenglen Campground 9/26; Glacier Basin Campground 9/11; Longs Peak Campground 9/14
+130,Rocky Mountain NP,CO,2017,10/1/17,"Closed for the 2017 Season:
 Old Fall River Rd 10/2 (9/23); 
 Trail Ridge Rd 10/27 (10/20) & Alpine Visitor Center; 
 Fall River Visitor Center 10/10; 
@@ -183,34 +183,34 @@ Moraine Park Campground 1st-come, 1st-served starting 10/10;
 Moraine Park Discovery Center 10/10; 
 Shuttle bus service ended in October; 
 Timber Creek Campground 10/10."
-Great Sand Dunes NP & PRES,CO,2017,11/1/2017,Pinon Flats Campground closed for the season - AD
-Rocky Mountain NP,CO,2017,11/1/2017,"This year Trail Ridge Road closed in October. Most seasonal secondary roads closed in November. 
+131,Great Sand Dunes NP & PRES,CO,2017,11/1/17,Pinon Flats Campground closed for the season - AD
+132,Rocky Mountain NP,CO,2017,11/1/17,"This year Trail Ridge Road closed in October. Most seasonal secondary roads closed in November. 
 The weather in fall and spring affects visitation greatly. November of 2016 was much milder than this November."
-Black Canyon of the Gunnison NP,CO,2017,11/1/2017,North Rim Ranger Station closed for Month of November
-Great Sand Dunes NP & PRES,CO,2017,12/1/2017,Medano Pass Road and Pinon Flats CG closed for season
-Mesa Verde NP,CO,2017,12/1/2017,Entrance kiosk not open. Annual Holiday Open House on December 14.
-Rocky Mountain NP,CO,2017,12/1/2017,The weather during most of December 2017 was exceptionally nice.
-Black Canyon of the Gunnison NP,CO,2017,12/1/2017,North Rim closed for winter on 12/20/17
-Great Sand Dunes NP & PRES,CO,2018,1/1/2018,Traffic counter went down during the government shutdown. It was not working for about a week
-Mesa Verde NP,CO,2018,1/1/2018,Entrance station closed. Non-Rec Data Updated. CRL
-Rocky Mountain NP,CO,2018,1/1/2018,"January 2017 was super snowy and January 2018 has been very mild.
+133,Black Canyon of the Gunnison NP,CO,2017,11/1/17,North Rim Ranger Station closed for Month of November
+134,Great Sand Dunes NP & PRES,CO,2017,12/1/17,Medano Pass Road and Pinon Flats CG closed for season
+135,Mesa Verde NP,CO,2017,12/1/17,Entrance kiosk not open. Annual Holiday Open House on December 14.
+136,Rocky Mountain NP,CO,2017,12/1/17,The weather during most of December 2017 was exceptionally nice.
+137,Black Canyon of the Gunnison NP,CO,2017,12/1/17,North Rim closed for winter on 12/20/17
+138,Great Sand Dunes NP & PRES,CO,2018,1/1/18,Traffic counter went down during the government shutdown. It was not working for about a week
+139,Mesa Verde NP,CO,2018,1/1/18,Entrance station closed. Non-Rec Data Updated. CRL
+140,Rocky Mountain NP,CO,2018,1/1/18,"January 2017 was super snowy and January 2018 has been very mild.
 RMNP visitor centers (Beaver Meadows & Kawuneeche) were closed three days during the government shutdown."
-Black Canyon of the Gunnison NP,CO,2018,1/1/2018,North Rim closed for the entire month due to snow.
-Rocky Mountain NP,CO,2018,2/1/2018,"In general, February 2018 weather was cold and windy, and not very snowy in RMNP.
+141,Black Canyon of the Gunnison NP,CO,2018,1/1/18,North Rim closed for the entire month due to snow.
+142,Rocky Mountain NP,CO,2018,2/1/18,"In general, February 2018 weather was cold and windy, and not very snowy in RMNP.
 • Weather can have a big effect on visitation, especially October through May.
 • US 34 between Loveland and Estes Park was closed in from mid-October 2016 through May 2017, and from mid-October 2017 through May 2018 for construction/repairs related to the 2013 Flood."
-Black Canyon of the Gunnison NP,CO,2018,2/1/2018,North Rim closed due to snow
-Rocky Mountain NP,CO,2018,3/1/2018,"March visitation can depend greatly on weather; it can be very cold and snowy – it can be warm and dry. This year, March weather was warm with no major snow events. 
+143,Black Canyon of the Gunnison NP,CO,2018,2/1/18,North Rim closed due to snow
+144,Rocky Mountain NP,CO,2018,3/1/18,"March visitation can depend greatly on weather; it can be very cold and snowy – it can be warm and dry. This year, March weather was warm with no major snow events. 
 It seems that there is an increasing number of visitors that choose to come here for their spring breaks. On the weekends of March 10 & 11 and 17 & 18, both Sat/Sun, Bear Lake road restrictions were in place (most likely during spring breaks). 
 Grand Lake Entrance is an estimate."
-Black Canyon of the Gunnison NP,CO,2018,3/1/2018,North Rim closed due to snow.
-Rocky Mountain NP,CO,2018,4/1/2018,"April visitation can be very weather-depend; April can be very cold and snowy – it can be warm and dry. This year, April had several spring snowstorms come through the park."
-Rocky Mountain NP,CO,2018,5/1/2018,"For the most part, the weather in May was uncommonly warm and dry."
-Rocky Mountain NP,CO,2018,6/1/2018,"June was uncommonly warm and dry. Trails melted out earlier than usual. Winter ice and snow on Long Peak was pretty much melted by mid-June (it usually melts late June-mid July). Trail Ridge Road had no night closures due to weather or conditions. Old Fall River Road opened earlier than usual, on June 23.
+145,Black Canyon of the Gunnison NP,CO,2018,3/1/18,North Rim closed due to snow.
+146,Rocky Mountain NP,CO,2018,4/1/18,"April visitation can be very weather-depend; April can be very cold and snowy – it can be warm and dry. This year, April had several spring snowstorms come through the park."
+147,Rocky Mountain NP,CO,2018,5/1/18,"For the most part, the weather in May was uncommonly warm and dry."
+148,Rocky Mountain NP,CO,2018,6/1/18,"June was uncommonly warm and dry. Trails melted out earlier than usual. Winter ice and snow on Long Peak was pretty much melted by mid-June (it usually melts late June-mid July). Trail Ridge Road had no night closures due to weather or conditions. Old Fall River Road opened earlier than usual, on June 23.
 The counter for Longs Peak Road was broken in June; an estimation based on a five-year average was used"
-Black Canyon of the Gunnison NP,CO,2018,6/1/2018,Traffic count is an estimate (psz)
-Rocky Mountain NP,CO,2018,7/1/2018,"Unseasonably warm, dry weather in July. No road or other projects to affect park visitation."
-Rocky Mountain NP,CO,2018,9/1/2018,"September is always a very busy time in ROMO, with the elk rut and fall colors. Usually several of the Top 10 Busiest Days of the year are in September.
+149,Black Canyon of the Gunnison NP,CO,2018,6/1/18,Traffic count is an estimate (psz)
+150,Rocky Mountain NP,CO,2018,7/1/18,"Unseasonably warm, dry weather in July. No road or other projects to affect park visitation."
+151,Rocky Mountain NP,CO,2018,9/1/18,"September is always a very busy time in ROMO, with the elk rut and fall colors. Usually several of the Top 10 Busiest Days of the year are in September.
 This September had very warm and dry weather this year.
 Aspenglen Campground closed for season noon Sept 25.
 Glacier Basin Campground closed for season noon Sept 10.
@@ -218,123 +218,123 @@ Holzwarth Historic Site closed for season Sept 3.
 Longs Peak Campground closed for season noon Sept 10.
 Last day Old Fall River Road open to vehicles was Sept 30.
 Timber Creek Campground closed for season noon Oct 1."
-Rocky Mountain NP,CO,2018,10/1/2018,"Winter came early to ROMO this year. Trail Ridge Road closed early on 10/5/18 and did not reopen the rest of October (it closed officially for the season on 10/31/18). Many of the secondary roads were closed most of October because of wintry conditions. Weekends remained extremely busy despite the weather and conditions.
+152,Rocky Mountain NP,CO,2018,10/1/18,"Winter came early to ROMO this year. Trail Ridge Road closed early on 10/5/18 and did not reopen the rest of October (it closed officially for the season on 10/31/18). Many of the secondary roads were closed most of October because of wintry conditions. Weekends remained extremely busy despite the weather and conditions.
 Fall River Visitor Center and Moraine Park Discovery Center closed for the season on Oct 9 (day after Columbus Day). Moraine Park Campground (the only park campground open after the end of September) changed to winter status on 10/9/18."
-Rocky Mountain NP,CO,2018,11/1/2018,"November was quite snowy and wintry.
+153,Rocky Mountain NP,CO,2018,11/1/18,"November was quite snowy and wintry.
 Wild Basin Entrance and Longs Peak Entrance are estimates based on 5-year averages."
-Black Canyon of the Gunnison NP,CO,2018,11/1/2018,North Rim Visitor Center Closed for entire November of 2018
-Great Sand Dunes NP & PRES,CO,2018,12/1/2018,"Government shutdown from 12/22/18 to 1/26/19.
+154,Black Canyon of the Gunnison NP,CO,2018,11/1/18,North Rim Visitor Center Closed for entire November of 2018
+155,Great Sand Dunes NP & PRES,CO,2018,12/1/18,"Government shutdown from 12/22/18 to 1/26/19.
 
 Traffic data is inaccurate. Data was taken from the total number of vehicles in December  2018 and January 2019 and divided by two. 
 
 Visitor center was closed during shutdown, so no backcountry permits were issued for that period of time."
-Mesa Verde NP,CO,2018,12/1/2018,Federal government shutdown and weather closures affected stats. Traffic counter failure after 1/26. The park gate remained open despite the shutdown so visitation was estimated for this time period.
-Rocky Mountain NP,CO,2018,12/1/2018,"The U.S. Government experienced a shutdown from 10 pm MST Friday, December 21, 2018, through 10 pm MST Friday, January 25, 2019. During the shutdown:
+156,Mesa Verde NP,CO,2018,12/1/18,Federal government shutdown and weather closures affected stats. Traffic counter failure after 1/26. The park gate remained open despite the shutdown so visitation was estimated for this time period.
+157,Rocky Mountain NP,CO,2018,12/1/18,"The U.S. Government experienced a shutdown from 10 pm MST Friday, December 21, 2018, through 10 pm MST Friday, January 25, 2019. During the shutdown:
 • Some entrances and trailheads were open during the shutdown including Lily Lake, Longs Peak, and Lumpy Ridge.  All RMNP visitor centers and facilities were closed during the shutdown except for Fall River Visitor Center, which is located outside the park boundary and was operated by the park’s Friends Group, the Rocky Mountain Conservancy.
 •  Due to road conditions from snowfall late Saturday, December 23 and blowing and drifting snow and ice combined with the inability to snowplow, sand or otherwise maintain the roads, gates were closed on December 24 past the Beaver Meadows Visitor Center on US 36, past the Fall River Entrance on US 34, past the Wild Basin Entrance on the Wild Basin Road and at the Grand Lake Entrance on US 34.  These entrances experienced walk-in visitors during the closure. The park is estimating an average parkwide of 500 walk-in visitors daily. For December this is 8 days (Monday, Dec 24, through Mon, Dec 31) x 500/day = 4000 walk-ins, and this estimate is added to the Beaver Meadows Entrance December count."
-Black Canyon of the Gunnison NP,CO,2018,12/1/2018,"South Rim Visitor Center Closed from 12/22/18 through 12/31
+158,Black Canyon of the Gunnison NP,CO,2018,12/1/18,"South Rim Visitor Center Closed from 12/22/18 through 12/31
 North Rim Area closed due to snow"
-Great Sand Dunes NP & PRES,CO,2019,1/1/2019,"Government shutdown from 12/22/18 to 1/26/19.
+159,Great Sand Dunes NP & PRES,CO,2019,1/1/19,"Government shutdown from 12/22/18 to 1/26/19.
 
 Traffic data is inaccurate. Data was taken from the total number of vehicles in December  2018 and January 2019 and divided by two. 
 
 Visitor center was closed during shutdown, so no backcountry permits were issued for that period of time."
-Mesa Verde NP,CO,2019,1/1/2019,The park closed after January 5th due to the federal government shutdown and rockfall damage to the main park road. The park remained closed to the public through early February.
-Rocky Mountain NP,CO,2019,1/1/2019,"The U.S. Government experienced a shutdown from 10 pm MST Friday, December 21, 2018, through 10 pm MST Friday, January 25, 2019. During the shutdown
+160,Mesa Verde NP,CO,2019,1/1/19,The park closed after January 5th due to the federal government shutdown and rockfall damage to the main park road. The park remained closed to the public through early February.
+161,Rocky Mountain NP,CO,2019,1/1/19,"The U.S. Government experienced a shutdown from 10 pm MST Friday, December 21, 2018, through 10 pm MST Friday, January 25, 2019. During the shutdown
 • Some entrances and trailheads were open during the shutdown including Lily Lake, Longs Peak, and Lumpy Ridge.  All RMNP visitor centers and facilities were closed during the shutdown except for Fall River Visitor Center, which is located outside the park boundary and was operated by the park’s Friends Group, the Rocky Mountain Conservancy. 
 • Although the government shutdown continued through January 25, on January 12, Rocky Mountain National Park was able to fund basic services with revenue generated by recreation fees. National Park Service officials determined that by using Federal Land and Recreation Enhancement funds to bring back limited park maintenance staff to plow roads, clean restrooms, and remove trash, the park could restore accessibility to the park for visitors. After roads were plowed and sanded, park staff reopened roads on January 14 to their normal winter status.   
 • For the time period in January that roads were not accessible by vehicles, the park is estimating an average parkwide of 200 walk-in visitors daily. For January this is 13 days (Tuesday, January 1, through Sunday, January 13) x 200/day = 2600 walk-ins, and this estimate is added to the Beaver Meadows Entrance January count."
-Black Canyon of the Gunnison NP,CO,2019,1/1/2019,"North Rim closed due to snow.
+162,Black Canyon of the Gunnison NP,CO,2019,1/1/19,"North Rim closed due to snow.
 South Rim VC closed through 1/27/19 due to Govt shutdown"
-Mesa Verde NP,CO,2019,2/1/2019,The park was closed for 17 days due to rockfall on the road and multiple significant snowstorms.
-Rocky Mountain NP,CO,2019,2/1/2019,Some windy days. Conditions at Hidden Valley snowplay area often poor.
-Black Canyon of the Gunnison NP,CO,2019,2/1/2019,North Rim closed due to snow
-Rocky Mountain NP,CO,2019,3/1/2019,"""Springtime in the Rockies"" in March typically means a lot of snow, this year it included a blizzard on March 13. 
+163,Mesa Verde NP,CO,2019,2/1/19,The park was closed for 17 days due to rockfall on the road and multiple significant snowstorms.
+164,Rocky Mountain NP,CO,2019,2/1/19,Some windy days. Conditions at Hidden Valley snowplay area often poor.
+165,Black Canyon of the Gunnison NP,CO,2019,2/1/19,North Rim closed due to snow
+166,Rocky Mountain NP,CO,2019,3/1/19,"""Springtime in the Rockies"" in March typically means a lot of snow, this year it included a blizzard on March 13. 
 Lily Lake is a 5-year average."
-Black Canyon of the Gunnison NP,CO,2019,3/1/2019,North Rim closed for winter due to snow
-Great Sand Dunes NP & PRES,CO,2019,4/1/2019,Half of the Pinon Flats campground was closed for 18 days due to renovation of the water line system.
-Rocky Mountain NP,CO,2019,4/1/2019,"April visitation can depend greatly on weather; it can be very cold and snowy – it can be warm and dry. This year, April in RMNP had several snowstorms. Trails and roads were snowy much of the month. However there was also a lot of nice weather. Bear Lake Road had Restricted Vehicle Access several weekend days."
-Black Canyon of the Gunnison NP,CO,2019,4/1/2019,North Rim Road closed in April due to snow and road maintenance
-Rocky Mountain NP,CO,2019,5/1/2019,"Weather in the spring can have a great affect on visitation. May saw several snowstorms, rain, and a colder, later spring. Trail Ridge Road opened later than planned; it was scheduled to open on May 24 but did not open until June 6 due to wintry weather and conditions."
-Rocky Mountain NP,CO,2019,6/1/2019,"The first part of June was generally more wintry than usual, including snow and unseasonably colder temperatures. Trail Ridge Road opened for the season on June 5, rather than May 24 as scheduled, due to snow. Trails are typically snowy in June, especially higher trails, but this year they were even snowier. 
+167,Black Canyon of the Gunnison NP,CO,2019,3/1/19,North Rim closed for winter due to snow
+168,Great Sand Dunes NP & PRES,CO,2019,4/1/19,Half of the Pinon Flats campground was closed for 18 days due to renovation of the water line system.
+169,Rocky Mountain NP,CO,2019,4/1/19,"April visitation can depend greatly on weather; it can be very cold and snowy – it can be warm and dry. This year, April in RMNP had several snowstorms. Trails and roads were snowy much of the month. However there was also a lot of nice weather. Bear Lake Road had Restricted Vehicle Access several weekend days."
+170,Black Canyon of the Gunnison NP,CO,2019,4/1/19,North Rim Road closed in April due to snow and road maintenance
+171,Rocky Mountain NP,CO,2019,5/1/19,"Weather in the spring can have a great affect on visitation. May saw several snowstorms, rain, and a colder, later spring. Trail Ridge Road opened later than planned; it was scheduled to open on May 24 but did not open until June 6 due to wintry weather and conditions."
+172,Rocky Mountain NP,CO,2019,6/1/19,"The first part of June was generally more wintry than usual, including snow and unseasonably colder temperatures. Trail Ridge Road opened for the season on June 5, rather than May 24 as scheduled, due to snow. Trails are typically snowy in June, especially higher trails, but this year they were even snowier. 
 Trail Ridge Road was closed because of a late spring snowstorm starting the afternoon of June 21 and reopened on June 25. 
 Old Fall River Road opened later than usual, in July, due to wintry conditions."
-Rocky Mountain NP,CO,2019,7/1/2019,"All roads and facilities were open in July, although there was quite a lot of roadwork both in RMNP and the local areas. Very seasonal weather, with frequent afternoon showers."
-Rocky Mountain NP,CO,2019,8/1/2019,"Very seasonal weather in RMNP in August. Roadwork on Trail Ridge Road and Bear Lake Road. Plus there was roadwork in Estes Park and Highway 7 south of Estes, and Highway 34 south of Grand Lake."
-Black Canyon of the Gunnison NP,CO,2019,8/1/2019,Additional Stats will be added once Ryan Thrush is contacted. I'm working with BLCA staff to get the rest imputed.
-Rocky Mountain NP,CO,2019,9/1/2019,"As with the rest of this summer, there was considerable roadwork on Trail Ridge Road and Bear Lake Road.
+173,Rocky Mountain NP,CO,2019,7/1/19,"All roads and facilities were open in July, although there was quite a lot of roadwork both in RMNP and the local areas. Very seasonal weather, with frequent afternoon showers."
+174,Rocky Mountain NP,CO,2019,8/1/19,"Very seasonal weather in RMNP in August. Roadwork on Trail Ridge Road and Bear Lake Road. Plus there was roadwork in Estes Park and Highway 7 south of Estes, and Highway 34 south of Grand Lake."
+175,Black Canyon of the Gunnison NP,CO,2019,8/1/19,Additional Stats will be added once Ryan Thrush is contacted. I'm working with BLCA staff to get the rest imputed.
+176,Rocky Mountain NP,CO,2019,9/1/19,"As with the rest of this summer, there was considerable roadwork on Trail Ridge Road and Bear Lake Road.
 Several of the top 10 busiest days in RMNP every year are on September weekends, including this year's busiest day, Sat, Sept 28 (National Public Lands Day, which is fee-free entrance, plus the elk rut and colorful fall leaves).
 September weather was mild with very little snow; Trail Ridge Road only closed temporarily once overnight."
-Black Canyon of the Gunnison NP,CO,2019,9/1/2019,Additional data will be entered once Ryan Thrush comes back and or BLCA staff can provide them to me.
-Rocky Mountain NP,CO,2019,10/1/2019,"Old Fall River Road closed for the season on Oct. 7. Trail Ridge Road closed for the season on Oct. 24, although the last day the road was open to vehicles was Oct. 9. In general, October was much busier later into the month than last year; weather was generally less wintry and more fall-like, and last year Trail Ridge Road closed very early, on Oct. 5, 2018.
+177,Black Canyon of the Gunnison NP,CO,2019,9/1/19,Additional data will be entered once Ryan Thrush comes back and or BLCA staff can provide them to me.
+178,Rocky Mountain NP,CO,2019,10/1/19,"Old Fall River Road closed for the season on Oct. 7. Trail Ridge Road closed for the season on Oct. 24, although the last day the road was open to vehicles was Oct. 9. In general, October was much busier later into the month than last year; weather was generally less wintry and more fall-like, and last year Trail Ridge Road closed very early, on Oct. 5, 2018.
 RMNP has new cash registers at all entrances, and these new machines do not yet produce reports like the previous ones did, so the number of buses and passengers at entrances are based on 5-year averages."
-Black Canyon of the Gunnison NP,CO,2019,10/1/2019,South tent and RV numbers are estimates (psz)
-Rocky Mountain NP,CO,2019,11/1/2019,"Weather was a factor in RMNP visitation. Conditions were especially wintry the week of Thanksgiving.
+179,Black Canyon of the Gunnison NP,CO,2019,10/1/19,South tent and RV numbers are estimates (psz)
+180,Rocky Mountain NP,CO,2019,11/1/19,"Weather was a factor in RMNP visitation. Conditions were especially wintry the week of Thanksgiving.
 The number of buses and bus passengers is a total for all entrances (a breakout of entrances is not available)."
-Black Canyon of the Gunnison NP,CO,2019,11/1/2019,North Rim Ranger Station closed for November due to seasonal employee lay offs.
-Rocky Mountain NP,CO,2019,12/1/2019,"December had some very wintry weather, but also saw a lot of visitors.
+181,Black Canyon of the Gunnison NP,CO,2019,11/1/19,North Rim Ranger Station closed for November due to seasonal employee lay offs.
+182,Rocky Mountain NP,CO,2019,12/1/19,"December had some very wintry weather, but also saw a lot of visitors.
 The number of buses is a total for all entrances; a breakout of entrances is not available. The number of bus passengers is an estimate; the actual number is not available due to complications with the new cash register system. 
 A year ago, the U.S. Government experienced a shutdown from 10 pm MST Friday, December 21, 2018, through 10 pm MST Friday, January 25, 2019. In December during the shutdown, RMNP experienced winter weather conditions and an inability to snowplow and grade main park roads, so gates were closed Dec 24-31, 2018. The park did estimate walk-in and minor entrance visitation during this time."
-Black Canyon of the Gunnison NP,CO,2019,12/1/2019,North Rim closed sue to deep snow
-Rocky Mountain NP,CO,2020,1/1/2020,January 2020 was very cold and snowy.
-Black Canyon of the Gunnison NP,CO,2020,1/1/2020,North Rim closed due to snow
-Rocky Mountain NP,CO,2020,2/1/2020,"February 2020 was a Leap Year. 
+183,Black Canyon of the Gunnison NP,CO,2019,12/1/19,North Rim closed sue to deep snow
+184,Rocky Mountain NP,CO,2020,1/1/20,January 2020 was very cold and snowy.
+185,Black Canyon of the Gunnison NP,CO,2020,1/1/20,North Rim closed due to snow
+186,Rocky Mountain NP,CO,2020,2/1/20,"February 2020 was a Leap Year. 
 Weather was cold and snowy, and the park was busy."
-Black Canyon of the Gunnison NP,CO,2020,2/1/2020,North Rim closed for winter due to snow
-Great Sand Dunes NP & PRES,CO,2020,3/1/2020,Statewide stay at home order issued on March 25th through April 26th to slow the spread of the COVID-19 virus.
-Mesa Verde NP,CO,2020,3/1/2020,"Park facilities closed in mid-March, full park cclosed on 3/26 due to Covid-19 pandemic."
-Rocky Mountain NP,CO,2020,3/1/2020,"At the request of the local health department, RMNP closed at 7 pm  Friday, March 20, 2020. It closed to all park visitors 24-hours a day/7-days a week and there was no access permitted to Rocky Mountain National Park until the park began phased reopening on May 27, 2020."
-Black Canyon of the Gunnison NP,CO,2020,3/1/2020,North Rim Drive closed due to snow. South Rim VC closed on 3/16/20 due to Covid-19.
-Great Sand Dunes NP & PRES,CO,2020,4/1/2020,"Pinon Flats campground was closed for the month of April due to COVID-19.
+187,Black Canyon of the Gunnison NP,CO,2020,2/1/20,North Rim closed for winter due to snow
+188,Great Sand Dunes NP & PRES,CO,2020,3/1/20,Statewide stay at home order issued on March 25th through April 26th to slow the spread of the COVID-19 virus.
+189,Mesa Verde NP,CO,2020,3/1/20,"Park facilities closed in mid-March, full park cclosed on 3/26 due to Covid-19 pandemic."
+190,Rocky Mountain NP,CO,2020,3/1/20,"At the request of the local health department, RMNP closed at 7 pm  Friday, March 20, 2020. It closed to all park visitors 24-hours a day/7-days a week and there was no access permitted to Rocky Mountain National Park until the park began phased reopening on May 27, 2020."
+191,Black Canyon of the Gunnison NP,CO,2020,3/1/20,North Rim Drive closed due to snow. South Rim VC closed on 3/16/20 due to Covid-19.
+192,Great Sand Dunes NP & PRES,CO,2020,4/1/20,"Pinon Flats campground was closed for the month of April due to COVID-19.
 Great Sand Dunes NP&P was closed to visitors from April 18th through April 30th due to COVID-19"
-Mesa Verde NP,CO,2020,4/1/2020,Park closed due to COVID-19 outbreak.
-Rocky Mountain NP,CO,2020,4/1/2020,"At the request of the local health department, RMNP closed at 7 pm  Friday, March 20, 2020. It closed to all park visitors 24-hours a day/7-days a week and there was no access permitted to Rocky Mountain National Park until the park began phased reopening on May 27, 2020. There were no visitors in RMNP in April."
-Black Canyon of the Gunnison NP,CO,2020,4/1/2020,"North Rim road closed all of April due to Covid-19. South Rim VC, South Rim inner canyon use and campground closed due to Covid-19"
-Great Sand Dunes NP & PRES,CO,2020,5/1/2020,"Park closed to visitors 4/17/2020 to 6/2/2020 due to COVID-19.
+193,Mesa Verde NP,CO,2020,4/1/20,Park closed due to COVID-19 outbreak.
+194,Rocky Mountain NP,CO,2020,4/1/20,"At the request of the local health department, RMNP closed at 7 pm  Friday, March 20, 2020. It closed to all park visitors 24-hours a day/7-days a week and there was no access permitted to Rocky Mountain National Park until the park began phased reopening on May 27, 2020. There were no visitors in RMNP in April."
+195,Black Canyon of the Gunnison NP,CO,2020,4/1/20,"North Rim road closed all of April due to Covid-19. South Rim VC, South Rim inner canyon use and campground closed due to Covid-19"
+196,Great Sand Dunes NP & PRES,CO,2020,5/1/20,"Park closed to visitors 4/17/2020 to 6/2/2020 due to COVID-19.
 
 Pinon Flats campground closed from 4/1/2020 to 6/16/2020 due to COVID-19."
-Mesa Verde NP,CO,2020,5/1/2020,Park closed due to COVID-19 until 5/24/2020.
-Rocky Mountain NP,CO,2020,5/1/2020,"At the request of the local health department, RMNP closed at 7 pm  Friday, March 20, 2020. It closed to all park visitors 24-hours a day/7-days a week and there was no access permitted to Rocky Mountain National Park until the park began phased reopening on May 27, 2020."
-Black Canyon of the Gunnison NP,CO,2020,5/1/2020,"Covid-19 caused the following closures in May 2020: 1. All campgrounds, all inner canyon overnight use, the South Rim VC from 5/1-5/14, the North Rim Ranger Station and the South Rim Entrance Station affecting the bus count."
-Great Sand Dunes NP & PRES,CO,2020,6/1/2020,"Piñon Flats Campground was closed from April 1st to June 16th, due to COVID-19.
+197,Mesa Verde NP,CO,2020,5/1/20,Park closed due to COVID-19 until 5/24/2020.
+198,Rocky Mountain NP,CO,2020,5/1/20,"At the request of the local health department, RMNP closed at 7 pm  Friday, March 20, 2020. It closed to all park visitors 24-hours a day/7-days a week and there was no access permitted to Rocky Mountain National Park until the park began phased reopening on May 27, 2020."
+199,Black Canyon of the Gunnison NP,CO,2020,5/1/20,"Covid-19 caused the following closures in May 2020: 1. All campgrounds, all inner canyon overnight use, the South Rim VC from 5/1-5/14, the North Rim Ranger Station and the South Rim Entrance Station affecting the bus count."
+200,Great Sand Dunes NP & PRES,CO,2020,6/1/20,"Piñon Flats Campground was closed from April 1st to June 16th, due to COVID-19.
 Great Sand Dunes National Park & Preserve was closed to visitors April 18th to June 3rd, due to COVID-19."
-Mesa Verde NP,CO,2020,6/1/2020,"Tours shut down due to COVID, backcountry trails closed due to extreme fire danger, Wetherill mesa closed."
-Black Canyon of the Gunnison NP,CO,2020,6/1/2020,Covid-19 had the North Rim Ranger Station closed and the South Rim Entrance Station affecting the bus count in June 2020.
-Great Sand Dunes NP & PRES,CO,2020,7/1/2020,Group Sites at Pinon Flats Campground were closed for the month of July due to COVID-19.
-Mesa Verde NP,CO,2020,7/1/2020,Visitation continues to be affected by tour and Wetherill Mesa closures due to COVID.
-Rocky Mountain NP,CO,2020,7/1/2020,"Due to the Covid-19 pandemic, at the request of the local health department and local officials to increase park access while providing the public a reasonable opportunity to comply with health guidelines, the park temporarily implemented a Timed Entry System effective June 4 to manage numbers and flow of vehicles coming into the park. A reservation is required to enter all areas of RMNP, including Trail Ridge Road (US Hwy 34), when arriving by vehicle between the hours of 6 am and 5 pm.
+201,Mesa Verde NP,CO,2020,6/1/20,"Tours shut down due to COVID, backcountry trails closed due to extreme fire danger, Wetherill mesa closed."
+202,Black Canyon of the Gunnison NP,CO,2020,6/1/20,Covid-19 had the North Rim Ranger Station closed and the South Rim Entrance Station affecting the bus count in June 2020.
+203,Great Sand Dunes NP & PRES,CO,2020,7/1/20,Group Sites at Pinon Flats Campground were closed for the month of July due to COVID-19.
+204,Mesa Verde NP,CO,2020,7/1/20,Visitation continues to be affected by tour and Wetherill Mesa closures due to COVID.
+205,Rocky Mountain NP,CO,2020,7/1/20,"Due to the Covid-19 pandemic, at the request of the local health department and local officials to increase park access while providing the public a reasonable opportunity to comply with health guidelines, the park temporarily implemented a Timed Entry System effective June 4 to manage numbers and flow of vehicles coming into the park. A reservation is required to enter all areas of RMNP, including Trail Ridge Road (US Hwy 34), when arriving by vehicle between the hours of 6 am and 5 pm.
 
 The timed entry permit system allocates approximately 60 percent of the park’s maximum parking capacity which works out to 13,500 visitors per day, or 4,800 vehicles. Due to the number of visitors who enter outside the reservation system, our actual visitation this month is approximately 75 percent of the maximum parking capacity.  
 
 Major road construction is occurring on a 3-mile section of US 36 just west of Bear Lake Road junction to east of Deer Ridge Junction. This section of road is closed from 7 pm to 7 am Sunday nights through Friday mornings."
-Black Canyon of the Gunnison NP,CO,2020,7/1/2020,No bus count due to South Rim VC closed out of Covid-19 safety precautions.
-Rocky Mountain NP,CO,2020,8/1/2020,"Due to the Covid-19 pandemic, at the request of the local health department and local officials to increase park access while providing the public a reasonable opportunity to comply with health guidelines, the park temporarily implemented a Timed Entry System effective June 4 to manage numbers and flow of vehicles coming into the park. A reservation is required to enter all areas of RMNP, including Trail Ridge Road (US Hwy 34), when arriving by vehicle between the hours of 6 am and 5 pm.
+206,Black Canyon of the Gunnison NP,CO,2020,7/1/20,No bus count due to South Rim VC closed out of Covid-19 safety precautions.
+207,Rocky Mountain NP,CO,2020,8/1/20,"Due to the Covid-19 pandemic, at the request of the local health department and local officials to increase park access while providing the public a reasonable opportunity to comply with health guidelines, the park temporarily implemented a Timed Entry System effective June 4 to manage numbers and flow of vehicles coming into the park. A reservation is required to enter all areas of RMNP, including Trail Ridge Road (US Hwy 34), when arriving by vehicle between the hours of 6 am and 5 pm.
 
 The timed entry permit system allocates approximately 60 percent of the park’s maximum parking capacity which works out to 13,500 visitors per day, or 4,800 vehicles. Due to the number of visitors who enter outside the reservation system, our actual visitation this month is approximately 75 percent of the maximum parking capacity.  
 
 Major road construction is occurring on a 3-mile section of US 36 just west of Bear Lake Road junction to east of Deer Ridge Junction. This section of road is closed from 7 pm to 7 am Sunday nights through Friday mornings."
-Black Canyon of the Gunnison NP,CO,2020,8/1/2020,No bus tours coming through Park due to Covid-19
-Great Sand Dunes NP & PRES,CO,2020,9/1/2020,"Group campsites closed for entire month due to COVID-19.
+208,Black Canyon of the Gunnison NP,CO,2020,8/1/20,No bus tours coming through Park due to Covid-19
+209,Great Sand Dunes NP & PRES,CO,2020,9/1/20,"Group campsites closed for entire month due to COVID-19.
 Campground closed from 9/8 to 9/17 due to winter storm damage."
-Rocky Mountain NP,CO,2020,9/1/2020,"Some major events occurred in September and October in Rocky Mountain National Park, including historic wildfires, the covid pandemic, the end of the temporary Timed Entry system on October 13, and some significant and timely operations including the end of season for campgrounds and road construction. 
+210,Rocky Mountain NP,CO,2020,9/1/20,"Some major events occurred in September and October in Rocky Mountain National Park, including historic wildfires, the covid pandemic, the end of the temporary Timed Entry system on October 13, and some significant and timely operations including the end of season for campgrounds and road construction. 
      Due to the Covid-19 pandemic, at the request of the local health department and local officials to increase park access while providing the public a reasonable opportunity to comply with health guidelines, the park temporarily implemented a Timed Entry System effective June 4 to manage numbers and flow of vehicles coming into the park. A reservation was required to enter all areas of RMNP, including Trail Ridge Road (US Hwy 34), when arriving by vehicle between the hours of 6 am and 5 pm. The Timed Entry system allocated approximately 60 percent of the park’s maximum parking capacity which worked out to approximately 13,500 visitors per day, or 4,800 vehicles. The Timed Entry system ended on October 13.
      In September, Glacier Basin Campground closed for the season 9/15/20. Major road construction occurred on a 3-mile section of US 36 just west of Bear Lake Road junction to east of Deer Ridge Junction. This section of road closed portions of weekdays for roadwork."
-Black Canyon of the Gunnison NP,CO,2020,9/1/2020,No bus tours due to Covid-19
-Great Sand Dunes NP & PRES,CO,2020,10/1/2020,"Group campsites closed due to COVID-19.
+211,Black Canyon of the Gunnison NP,CO,2020,9/1/20,No bus tours due to Covid-19
+212,Great Sand Dunes NP & PRES,CO,2020,10/1/20,"Group campsites closed due to COVID-19.
 Two campsites closed for entire month due to storm damage."
-Mesa Verde NP,CO,2020,10/1/2020,Lodge and campground closed earlier than normal due to COVID.
-Rocky Mountain NP,CO,2020,10/1/2020,"Some major events occurred in October in RMNP, including historic wildfires, the covid pandemic, the end of the temporary Timed Entry system on Oct 13, and some significant and timely operations including the end of season for campgrounds and road construction. The Timed Entry system, which allocated approximately 60% of the park’s maximum parking capacity which worked out to approximately 13,500 visitors per day, or 4,800 vehicles, ended Oct 13. 
+213,Mesa Verde NP,CO,2020,10/1/20,Lodge and campground closed earlier than normal due to COVID.
+214,Rocky Mountain NP,CO,2020,10/1/20,"Some major events occurred in October in RMNP, including historic wildfires, the covid pandemic, the end of the temporary Timed Entry system on Oct 13, and some significant and timely operations including the end of season for campgrounds and road construction. The Timed Entry system, which allocated approximately 60% of the park’s maximum parking capacity which worked out to approximately 13,500 visitors per day, or 4,800 vehicles, ended Oct 13. 
 Construction work continued on US 36 between Bear Lake Road Junction and Deer Ridge Junction. Moraine Park Campground switched from summer to winter operations on Oct. 14. 
 The Cameron Peak Wildfire caused closures in many areas of the NW, N, & NE areas of RMNP including Old Fall River Rd. These closures began in mid-August. RMNP was closed due to the East Troublesome Wildfire 10/21/2020 through 11/5/2020. Due to the East Troublesome Fire, the Town of Grand Lake was evacuated the night of Wed, Oct 21, and the Town of Estes Park began evacuations on Thurs, Oct 22. Both towns remained evacuated for several days. When the entire park closed on Oct 22 due to the East Troublesome Fire, major snowstorms and continued winter weather conditions at higher elevations followed. Because of these conditions, when the park reopened on Nov 6, Trail Ridge Road did not reopen for through travel and officially closed for the season on Nov 17. Approx 30,000 acres or 9% of RMNP have been impacted by the two fires. Some areas of the park remain closed."
-Black Canyon of the Gunnison NP,CO,2020,10/1/2020,No bus tours due to COVID. Outdoor only VC access due to COVID
-Rocky Mountain NP,CO,2020,11/1/2020,"RMNP was closed due to the East Troublesome Wildfire 10/21/2020 through 11/5/2020. When the park reopened on Nov 6, reopened areas were on the east side of the park and included roads, parking areas and trails in Wild Basin, Longs Peak, Lily Lake, Twin Sisters, Lumpy Ridge, and US 34 through the Fall River Entrance. On Nov 14, additional areas were reopened, including the Beaver Meadows Entrance Station.
+215,Black Canyon of the Gunnison NP,CO,2020,10/1/20,No bus tours due to COVID. Outdoor only VC access due to COVID
+216,Rocky Mountain NP,CO,2020,11/1/20,"RMNP was closed due to the East Troublesome Wildfire 10/21/2020 through 11/5/2020. When the park reopened on Nov 6, reopened areas were on the east side of the park and included roads, parking areas and trails in Wild Basin, Longs Peak, Lily Lake, Twin Sisters, Lumpy Ridge, and US 34 through the Fall River Entrance. On Nov 14, additional areas were reopened, including the Beaver Meadows Entrance Station.
 The East Inlet Trail and the East Shore Trail on the west side of Rocky Mountain National Park reopened on Nov 13. All other west side areas, including the Grand Lake Entrance, remained closed to all use for the month of November.
 Moraine Park Campground would have been open to winter camping, but was closed all month. Many backcountry areas were closed to camping also.
 High numbers for Lily Lake and Longs Peak are likely due to large areas of the park being closed due to the wildfires, plus milder weather and visitors wishing to get outside (Covid).
 The ongoing road construction project between Beaver Meadows Entrance Station and Deer Ridge Junction resumed with delays."
-Black Canyon of the Gunnison NP,CO,2020,11/1/2020,North Rim Ranger Station closed in both the inside and outdoor contact station for entire month of Nov. South Rim Entrance Station closed for Nov. also.
-Rocky Mountain NP,CO,2020,12/1/2020,"RMNP was closed due to the East Troublesome Wildfire 10/21/2020 through 11/5/2020. Parts of the park began reopening on 11/6/20.
+217,Black Canyon of the Gunnison NP,CO,2020,11/1/20,North Rim Ranger Station closed in both the inside and outdoor contact station for entire month of Nov. South Rim Entrance Station closed for Nov. also.
+218,Rocky Mountain NP,CO,2020,12/1/20,"RMNP was closed due to the East Troublesome Wildfire 10/21/2020 through 11/5/2020. Parts of the park began reopening on 11/6/20.
 12/10/20 US Highway 34 from the Grand Lake Entrance to the Colorado River Trailhead reopened; Trail Ridge Road is closed at the Colorado River Trailhead for the winter. Several trails and other secondary park roads also reopened on 12/10/20 and 12/22/20, although some trails remain closed due to the fires. 
 The Fire Ban that was put in place 8/14/20 was lifted. 
 High numbers for Lily Lake and Longs Peak are likely due to large areas of the park being closed due to the wildfires, plus milder weather and visitors wishing to get outside (Covid)."
-Black Canyon of the Gunnison NP,CO,2020,12/1/2020,North Rim closed due to snow
+219,Black Canyon of the Gunnison NP,CO,2020,12/1/20,North Rim closed due to snow

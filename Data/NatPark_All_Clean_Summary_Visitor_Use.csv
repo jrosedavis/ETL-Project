@@ -1,529 +1,529 @@
-﻿Park,State,Year,Month,Recreation_ Visitors,Non_Recreation_Visitors,Recreation_Visitor_Hours,Non_Recreation_Hours,Concession_Lodging,Tent_Campers,RV_Campers,Backcountry_Campers,Misc_Campers,Total_Overnight_Stays
-Black Canyon of the Gunnison NP,CO,2010,January,"2,519",0,"6,898",0,0,19,8,0,0,27
-Black Canyon of the Gunnison NP,CO,2010,February,"3,034",0,"9,193",0,0,35,13,0,0,48
-Black Canyon of the Gunnison NP,CO,2010,March,"3,199",0,"8,741",0,0,35,20,0,0,55
-Black Canyon of the Gunnison NP,CO,2010,April,"4,421",0,"17,747",0,0,169,160,32,0,361
-Black Canyon of the Gunnison NP,CO,2010,May,"21,259",0,"128,429",0,0,"1,159",715,107,0,"1,981"
-Black Canyon of the Gunnison NP,CO,2010,June,"24,477",0,"163,138",0,0,"1,172","1,518",184,0,"2,874"
-Black Canyon of the Gunnison NP,CO,2010,July,"35,398",0,"228,706",0,0,"2,162","1,648",143,0,"3,953"
-Black Canyon of the Gunnison NP,CO,2010,August,"27,367",0,"165,614",0,0,"1,095","1,293",196,0,"2,584"
-Black Canyon of the Gunnison NP,CO,2010,September,"24,297",0,"161,738",0,0,"1,455","1,001",320,0,"2,776"
-Black Canyon of the Gunnison NP,CO,2010,October,"21,331",0,"75,893",0,0,803,630,159,0,"1,592"
-Black Canyon of the Gunnison NP,CO,2010,November,"3,646",0,"9,242",0,0,50,75,5,0,130
-Black Canyon of the Gunnison NP,CO,2010,December,"5,396",0,"10,577",0,0,11,8,0,0,19
-Black Canyon of the Gunnison NP,CO,2011,January,"3,289",0,"10,454",0,0,61,25,4,0,90
-Black Canyon of the Gunnison NP,CO,2011,February,"3,207",0,"9,542",0,0,26,20,3,0,49
-Black Canyon of the Gunnison NP,CO,2011,March,"4,012",0,"11,106",0,0,83,31,5,0,119
-Black Canyon of the Gunnison NP,CO,2011,April,"4,885",0,"18,646",0,0,180,138,7,0,325
-Black Canyon of the Gunnison NP,CO,2011,May,"12,722",0,"101,447",0,0,"1,047",808,80,0,"1,935"
-Black Canyon of the Gunnison NP,CO,2011,June,"24,589",0,"184,682",0,0,"1,928","1,656",93,0,"3,677"
-Black Canyon of the Gunnison NP,CO,2011,July,"28,381",0,"223,287",0,0,"2,606","1,983",135,0,"4,724"
-Black Canyon of the Gunnison NP,CO,2011,August,"39,032",0,"229,224",0,0,"1,991","1,491",95,0,"3,577"
-Black Canyon of the Gunnison NP,CO,2011,September,"26,905",0,"173,286",0,0,"1,651","1,146",92,0,"2,889"
-Black Canyon of the Gunnison NP,CO,2011,October,"12,297",0,"41,912",0,0,338,234,107,0,679
-Black Canyon of the Gunnison NP,CO,2011,November,"5,031",0,"9,718",0,0,0,22,6,0,28
-Black Canyon of the Gunnison NP,CO,2011,December,"3,986",0,"11,463",0,0,8,14,4,0,26
-Black Canyon of the Gunnison NP,CO,2012,January,509,0,"4,749",0,0,6,0,0,0,6
-Black Canyon of the Gunnison NP,CO,2012,February,717,0,"6,746",0,0,7,0,0,0,7
-Black Canyon of the Gunnison NP,CO,2012,March,"4,388",0,"12,779",0,0,61,31,0,0,92
-Black Canyon of the Gunnison NP,CO,2012,April,"9,150",0,"35,450",0,0,267,328,45,0,640
-Black Canyon of the Gunnison NP,CO,2012,May,"24,991",0,"164,437",0,0,"1,281","1,287",109,0,"2,677"
-Black Canyon of the Gunnison NP,CO,2012,June,"41,757",0,"252,216",0,0,"2,206","1,697",143,0,"4,046"
-Black Canyon of the Gunnison NP,CO,2012,July,"37,371",0,"239,254",0,0,"2,301","1,863",119,0,"4,283"
-Black Canyon of the Gunnison NP,CO,2012,August,"26,047",0,"177,184",0,0,"1,735","1,443",141,0,"3,319"
-Black Canyon of the Gunnison NP,CO,2012,September,"23,919",0,"157,743",0,0,"1,262","1,344",81,0,"2,687"
-Black Canyon of the Gunnison NP,CO,2012,October,"12,742",0,"67,620",0,0,917,942,28,0,"1,887"
-Black Canyon of the Gunnison NP,CO,2012,November,"7,126",0,"13,413",0,0,14,25,0,0,39
-Black Canyon of the Gunnison NP,CO,2012,December,"3,853",0,"9,958",0,0,0,19,0,0,19
-Black Canyon of the Gunnison NP,CO,2013,January,"4,046",0,"14,006",0,0,0,17,4,0,21
-Black Canyon of the Gunnison NP,CO,2013,February,"3,410",0,"15,856",0,0,96,31,0,0,127
-Black Canyon of the Gunnison NP,CO,2013,March,"6,698",0,"17,814",0,0,74,31,0,0,105
-Black Canyon of the Gunnison NP,CO,2013,April,"8,606",0,"24,570",0,0,206,72,13,0,291
-Black Canyon of the Gunnison NP,CO,2013,May,"23,708",0,"158,096",0,0,"1,325","1,137",105,0,"2,567"
-Black Canyon of the Gunnison NP,CO,2013,June,"21,927",0,"184,494",0,0,"2,122","1,850",175,0,"4,146"
-Black Canyon of the Gunnison NP,CO,2013,July,"37,010",0,"248,675",0,0,"2,611","1,975",95,0,"4,681"
-Black Canyon of the Gunnison NP,CO,2013,August,"33,279",0,"210,625",0,0,"2,004","1,542",90,0,"3,636"
-Black Canyon of the Gunnison NP,CO,2013,September,"23,945",0,"159,130",0,0,"1,351","1,463",56,0,"2,870"
-Black Canyon of the Gunnison NP,CO,2013,October,"5,789",0,"19,585",0,0,152,168,37,0,357
-Black Canyon of the Gunnison NP,CO,2013,November,"3,296",0,"7,721",0,0,0,14,0,0,14
-Black Canyon of the Gunnison NP,CO,2013,December,"4,138",0,"12,083",0,0,8,6,0,0,14
-Black Canyon of the Gunnison NP,CO,2014,January,"3,469",0,"10,578",0,0,6,0,0,0,6
-Black Canyon of the Gunnison NP,CO,2014,February,"4,031",0,"12,736",0,0,15,0,0,0,15
-Black Canyon of the Gunnison NP,CO,2014,March,"4,302",0,"8,812",0,0,26,0,0,0,26
-Black Canyon of the Gunnison NP,CO,2014,April,"6,761",0,"26,579",0,0,272,206,27,0,504
-Black Canyon of the Gunnison NP,CO,2014,May,"21,157",0,"139,449",0,0,"1,338",835,89,0,"2,262"
-Black Canyon of the Gunnison NP,CO,2014,June,"28,536",0,"193,000",0,0,"1,994","1,376",45,0,"3,415"
-Black Canyon of the Gunnison NP,CO,2014,July,"42,253",0,"238,187",0,0,"1,977","1,466",77,0,"3,521"
-Black Canyon of the Gunnison NP,CO,2014,August,"25,712",0,"186,949",0,0,"1,819","1,384",60,0,"3,263"
-Black Canyon of the Gunnison NP,CO,2014,September,"24,788",0,"121,631",0,0,737,358,54,0,"1,149"
-Black Canyon of the Gunnison NP,CO,2014,October,"13,432",0,"86,912",0,0,"1,257","1,473",33,0,"2,764"
-Black Canyon of the Gunnison NP,CO,2014,November,"4,925",0,"18,939",0,0,230,271,3,0,504
-Black Canyon of the Gunnison NP,CO,2014,December,"3,679",0,"7,965",0,0,14,0,2,0,16
-Black Canyon of the Gunnison NP,CO,2015,January,"4,600",0,"9,659",0,0,8,0,0,0,8
-Black Canyon of the Gunnison NP,CO,2015,February,"4,136",0,"8,495",0,0,15,7,0,0,22
-Black Canyon of the Gunnison NP,CO,2015,March,"5,968",0,"13,332",0,0,55,20,10,0,84
-Black Canyon of the Gunnison NP,CO,2015,April,"8,896",0,"33,898",0,0,377,145,98,0,619
-Black Canyon of the Gunnison NP,CO,2015,May,"23,176",0,"141,456",0,0,"1,121",879,159,0,"2,158"
-Black Canyon of the Gunnison NP,CO,2015,June,"33,141",0,"216,096",0,0,"1,948","1,575",259,0,"3,781"
-Black Canyon of the Gunnison NP,CO,2015,July,"45,328",0,"297,871",0,0,"2,970","2,682",77,0,"5,729"
-Black Canyon of the Gunnison NP,CO,2015,August,"27,197",0,"203,460",0,0,"2,276","1,720",224,0,"4,219"
-Black Canyon of the Gunnison NP,CO,2015,September,"29,878",0,"191,431",0,0,"1,958",917,172,0,"3,047"
-Black Canyon of the Gunnison NP,CO,2015,October,"16,626",0,"84,382",0,0,"1,585",638,91,0,"2,314"
-Black Canyon of the Gunnison NP,CO,2015,November,"5,550",0,"14,029",0,0,166,36,0,0,202
-Black Canyon of the Gunnison NP,CO,2015,December,"4,670",0,"12,317",0,0,11,0,0,0,11
-Black Canyon of the Gunnison NP,CO,2016,January,"5,510",0,"15,326",0,0,19,3,0,0,22
-Black Canyon of the Gunnison NP,CO,2016,February,"3,932",0,"9,623",0,0,20,0,0,0,20
-Black Canyon of the Gunnison NP,CO,2016,March,"2,850",0,"6,544",0,0,57,11,8,0,76
-Black Canyon of the Gunnison NP,CO,2016,April,"9,871",0,"35,774",0,0,545,110,81,0,736
-Black Canyon of the Gunnison NP,CO,2016,May,"28,055",0,"223,087",0,0,"2,758","1,556",232,0,"4,546"
-Black Canyon of the Gunnison NP,CO,2016,June,"34,433",0,"258,900",0,0,"2,780","1,899",545,0,"5,223"
-Black Canyon of the Gunnison NP,CO,2016,July,"47,029",0,"342,944",0,0,"4,197","2,429",373,0,"6,999"
-Black Canyon of the Gunnison NP,CO,2016,August,"34,384",0,"282,735",0,0,"3,856","2,162",344,0,"6,361"
-Black Canyon of the Gunnison NP,CO,2016,September,"38,169",0,"248,054",0,0,"1,930","1,819",249,0,"3,998"
-Black Canyon of the Gunnison NP,CO,2016,October,"19,113",0,"120,141",0,0,"2,299","1,326",90,0,"3,715"
-Black Canyon of the Gunnison NP,CO,2016,November,"8,955",0,"39,423",0,0,584,557,14,0,"1,155"
-Black Canyon of the Gunnison NP,CO,2016,December,"5,717",0,"12,988",0,0,25,6,0,0,30
-Black Canyon of the Gunnison NP,CO,2017,January,"6,925",0,"16,887",0,0,19,8,0,0,28
-Black Canyon of the Gunnison NP,CO,2017,February,"3,361",0,"7,902",0,0,24,7,0,0,31
-Black Canyon of the Gunnison NP,CO,2017,March,"7,147",0,"19,739",0,0,217,35,22,0,274
-Black Canyon of the Gunnison NP,CO,2017,April,"11,292",0,"53,152",0,0,804,307,65,0,"1,175"
-Black Canyon of the Gunnison NP,CO,2017,May,"29,218",0,"218,627",0,0,"2,290","1,602",253,0,"4,145"
-Black Canyon of the Gunnison NP,CO,2017,June,"40,616",0,"307,848",0,0,"3,895","2,309",217,0,"6,421"
-Black Canyon of the Gunnison NP,CO,2017,July,"44,532",0,"327,968",0,0,"3,868","2,549",420,0,"6,836"
-Black Canyon of the Gunnison NP,CO,2017,August,"40,788",0,"287,857",0,0,"3,205","2,017",385,0,"5,607"
-Black Canyon of the Gunnison NP,CO,2017,September,"45,983",0,"308,465",0,0,"2,776","2,741",156,0,"5,673"
-Black Canyon of the Gunnison NP,CO,2017,October,"54,766",0,"145,802",0,0,"1,367",493,170,0,"2,029"
-Black Canyon of the Gunnison NP,CO,2017,November,"19,473",0,"43,862",0,0,277,136,15,0,428
-Black Canyon of the Gunnison NP,CO,2017,December,"3,042",0,"8,445",0,0,53,53,5,0,110
-Black Canyon of the Gunnison NP,CO,2018,January,"7,600",0,"15,059",0,0,8,11,0,0,19
-Black Canyon of the Gunnison NP,CO,2018,February,"5,231",0,"13,097",0,0,15,20,0,0,35
-Black Canyon of the Gunnison NP,CO,2018,March,"7,687",0,"20,016",0,0,195,31,2,0,228
-Black Canyon of the Gunnison NP,CO,2018,April,"11,728",0,"50,301",0,0,718,228,150,0,"1,096"
-Black Canyon of the Gunnison NP,CO,2018,May,"48,554",0,"344,951",0,0,"3,240","2,728",313,0,"6,281"
-Black Canyon of the Gunnison NP,CO,2018,June,"42,306",0,"320,474",0,0,"3,479","2,475",543,0,"6,497"
-Black Canyon of the Gunnison NP,CO,2018,July,"44,962",0,"344,365",0,0,"4,265","2,576",413,0,"7,254"
-Black Canyon of the Gunnison NP,CO,2018,August,"46,511",0,"318,031",0,0,"3,548","2,212",283,0,"6,044"
-Black Canyon of the Gunnison NP,CO,2018,September,"46,915",0,"259,107",0,0,"1,549","1,227",275,0,"3,051"
-Black Canyon of the Gunnison NP,CO,2018,October,"22,062",0,"84,034",0,0,"1,311",607,109,0,"2,027"
-Black Canyon of the Gunnison NP,CO,2018,November,"21,674",0,"69,982",0,0,"1,169",410,0,0,"1,579"
-Black Canyon of the Gunnison NP,CO,2018,December,"3,732",0,"8,304",0,0,30,6,0,0,36
-Black Canyon of the Gunnison NP,CO,2019,January,"4,921",0,"8,886",0,0,3,0,0,0,3
-Black Canyon of the Gunnison NP,CO,2019,February,"6,369",0,"17,066",0,0,11,0,2,0,13
-Black Canyon of the Gunnison NP,CO,2019,March,"12,180",0,"26,934",0,0,64,20,0,0,83
-Black Canyon of the Gunnison NP,CO,2019,April,"25,077",0,"59,350",0,0,140,394,68,0,602
-Black Canyon of the Gunnison NP,CO,2019,May,"75,198",0,"409,684",0,0,"2,780","1,836",244,0,"4,860"
-Black Canyon of the Gunnison NP,CO,2019,June,"75,289",0,"435,444",0,0,"3,550","2,502",576,0,"6,628"
-Black Canyon of the Gunnison NP,CO,2019,July,"51,368",0,"342,640",0,0,"3,585","2,127",441,0,"6,153"
-Black Canyon of the Gunnison NP,CO,2019,August,"80,046",0,"430,953",0,0,"3,526","2,004",267,0,"5,797"
-Black Canyon of the Gunnison NP,CO,2019,September,"48,420",0,"267,642",0,0,"1,659","1,666",164,0,"3,489"
-Black Canyon of the Gunnison NP,CO,2019,October,"25,828",0,"127,525",0,0,"2,037","1,397",93,0,"3,527"
-Black Canyon of the Gunnison NP,CO,2019,November,"22,684",0,"54,417",0,0,427,269,6,0,701
-Black Canyon of the Gunnison NP,CO,2019,December,"5,438",0,"13,962",0,0,14,58,0,0,72
-Black Canyon of the Gunnison NP,CO,2020,January,"8,107",0,"19,759",0,0,3,14,0,0,17
-Black Canyon of the Gunnison NP,CO,2020,February,"9,112",0,"21,408",0,0,7,13,2,0,22
-Black Canyon of the Gunnison NP,CO,2020,March,"5,849",0,"11,305",0,0,7,13,0,0,20
-Black Canyon of the Gunnison NP,CO,2020,April,"19,803",0,"34,708",0,0,0,0,0,0,0
-Black Canyon of the Gunnison NP,CO,2020,May,"25,976",0,"107,752",0,0,0,0,0,0,0
-Black Canyon of the Gunnison NP,CO,2020,June,"27,583",0,"265,350",0,0,"3,514","1,901",721,0,"6,137"
-Black Canyon of the Gunnison NP,CO,2020,July,"61,521",0,"426,274",0,0,"4,953","2,366",631,0,"7,951"
-Black Canyon of the Gunnison NP,CO,2020,August,"58,097",0,"387,074",0,0,"4,427","1,887",525,0,"6,839"
-Black Canyon of the Gunnison NP,CO,2020,September,"48,257",0,"334,776",0,0,"3,249","2,548",281,0,"6,077"
-Black Canyon of the Gunnison NP,CO,2020,October,"47,739",0,"188,031",0,0,"2,024","1,913",223,0,"4,160"
-Black Canyon of the Gunnison NP,CO,2020,November,"23,249",0,"59,586",0,0,526,299,36,0,861
-Black Canyon of the Gunnison NP,CO,2020,December,"6,327",0,"18,785",0,0,58,25,0,0,83
-Great Sand Dunes NP & PRES,CO,2010,January,"1,328",35,"4,067",35,0,63,40,0,0,103
-Great Sand Dunes NP & PRES,CO,2010,February,"2,110",35,"5,262",35,0,59,13,3,0,75
-Great Sand Dunes NP & PRES,CO,2010,March,"9,530",35,"20,978",35,0,0,0,145,0,145
-Great Sand Dunes NP & PRES,CO,2010,April,"9,083",35,"39,486",35,0,729,294,37,491,"1,551"
-Great Sand Dunes NP & PRES,CO,2010,May,"44,932",45,"340,210",45,0,"4,316","2,373",575,"1,588","8,852"
-Great Sand Dunes NP & PRES,CO,2010,June,"56,799",45,"416,644",45,0,"5,838","2,789",409,"1,607","10,643"
-Great Sand Dunes NP & PRES,CO,2010,July,"60,734",45,"401,125",45,0,"5,808","2,492",303,"1,225","9,828"
-Great Sand Dunes NP & PRES,CO,2010,August,"46,552",45,"333,377",45,0,"5,359","1,973",231,901,"8,464"
-Great Sand Dunes NP & PRES,CO,2010,September,"28,728",45,"241,093",45,0,"3,412","2,257",222,561,"6,452"
-Great Sand Dunes NP & PRES,CO,2010,October,"16,344",35,"75,579",35,0,"1,469","1,096",217,331,"3,113"
-Great Sand Dunes NP & PRES,CO,2010,November,"4,759",35,"16,448",35,0,307,168,27,0,502
-Great Sand Dunes NP & PRES,CO,2010,December,"2,385",35,"6,117",35,0,63,33,2,0,98
-Great Sand Dunes NP & PRES,CO,2011,January,"1,428",35,"3,422",35,0,26,7,10,0,43
-Great Sand Dunes NP & PRES,CO,2011,February,"2,316",35,"5,643",35,0,50,20,4,0,74
-Great Sand Dunes NP & PRES,CO,2011,March,"9,919",35,"38,658",35,0,848,403,135,0,"1,386"
-Great Sand Dunes NP & PRES,CO,2011,April,"9,453",35,"45,064",35,0,"1,007",495,179,245,"1,926"
-Great Sand Dunes NP & PRES,CO,2011,May,"43,793",45,"321,124",45,0,"3,967","2,142",560,"1,646","8,315"
-Great Sand Dunes NP & PRES,CO,2011,June,"58,163",45,"403,337",45,0,"5,742","2,581",235,"1,549","10,107"
-Great Sand Dunes NP & PRES,CO,2011,July,"62,020",45,"407,914",45,0,"5,983","2,350",658,"1,018","10,009"
-Great Sand Dunes NP & PRES,CO,2011,August,"44,320",45,"262,445",45,0,"3,244","2,855",0,0,"6,099"
-Great Sand Dunes NP & PRES,CO,2011,September,"26,900",45,"226,331",45,0,"3,260","1,818",210,771,"6,059"
-Great Sand Dunes NP & PRES,CO,2011,October,"14,625",35,"61,952",35,0,"1,003",908,158,312,"2,381"
-Great Sand Dunes NP & PRES,CO,2011,November,"4,718",35,"13,689",35,0,191,86,36,0,313
-Great Sand Dunes NP & PRES,CO,2011,December,"2,403",35,"6,356",35,0,79,23,16,0,118
-Great Sand Dunes NP & PRES,CO,2012,January,"1,596",35,"4,610",35,0,56,30,17,0,103
-Great Sand Dunes NP & PRES,CO,2012,February,"1,856",35,"4,693",35,0,30,26,15,0,71
-Great Sand Dunes NP & PRES,CO,2012,March,"11,076",35,"45,324",35,0,"1,122",386,185,0,"1,693"
-Great Sand Dunes NP & PRES,CO,2012,April,"9,905",35,"54,530",35,0,"1,399",647,161,321,"2,528"
-Great Sand Dunes NP & PRES,CO,2012,May,"37,522",45,"239,853",45,0,"2,858","1,221",613,"1,146","5,838"
-Great Sand Dunes NP & PRES,CO,2012,June,"49,878",45,"353,710",45,0,"4,363","2,795",484,"1,289","8,931"
-Great Sand Dunes NP & PRES,CO,2012,July,"51,518",45,"333,778",45,0,"4,930","2,178",430,587,"8,125"
-Great Sand Dunes NP & PRES,CO,2012,August,"42,154",45,"214,613",45,0,"2,627","1,125",366,471,"4,589"
-Great Sand Dunes NP & PRES,CO,2012,September,"27,384",45,"176,281",45,0,"2,439","1,132",218,488,"4,277"
-Great Sand Dunes NP & PRES,CO,2012,October,"14,126",35,"63,878",35,0,"1,475",799,73,238,"2,585"
-Great Sand Dunes NP & PRES,CO,2012,November,"5,408",35,"17,693",35,0,320,145,33,0,498
-Great Sand Dunes NP & PRES,CO,2012,December,"2,251",35,"5,888",35,0,63,20,18,0,101
-Great Sand Dunes NP & PRES,CO,2013,January,"1,399",35,"3,418",35,0,30,13,2,0,45
-Great Sand Dunes NP & PRES,CO,2013,February,"1,059",35,"2,988",35,0,33,23,7,0,63
-Great Sand Dunes NP & PRES,CO,2013,March,"10,845",35,"34,876",35,0,584,224,147,0,956
-Great Sand Dunes NP & PRES,CO,2013,April,"10,486",35,"50,508",35,0,"1,125",373,120,525,"2,143"
-Great Sand Dunes NP & PRES,CO,2013,May,"34,661",45,"222,449",45,0,"2,597","1,109",562,"1,137","5,405"
-Great Sand Dunes NP & PRES,CO,2013,June,"47,565",45,"378,483",45,0,"5,716","2,449",474,"1,343","9,981"
-Great Sand Dunes NP & PRES,CO,2013,July,"51,852",45,"263,943",45,0,"3,287","1,096",301,957,"5,640"
-Great Sand Dunes NP & PRES,CO,2013,August,"40,309",45,"236,416",45,0,"2,980","1,251",428,844,"5,503"
-Great Sand Dunes NP & PRES,CO,2013,September,"30,624",45,"125,932",45,0,"1,092",531,146,533,"2,303"
-Great Sand Dunes NP & PRES,CO,2013,October,"6,776",35,"26,790",35,0,505,257,85,122,969
-Great Sand Dunes NP & PRES,CO,2013,November,"4,953",35,"10,182",35,0,0,0,24,0,24
-Great Sand Dunes NP & PRES,CO,2013,December,"2,312",35,"4,679",35,0,0,0,4,0,4
-Great Sand Dunes NP & PRES,CO,2014,January,"1,404",35,"2,946",35,0,0,0,10,0,10
-Great Sand Dunes NP & PRES,CO,2014,February,"1,095",35,"2,301",35,0,0,0,8,0,8
-Great Sand Dunes NP & PRES,CO,2014,March,"9,348",35,"21,800",35,0,0,0,243,0,243
-Great Sand Dunes NP & PRES,CO,2014,April,"10,868",35,"53,739",35,0,"1,099",673,124,430,"2,326"
-Great Sand Dunes NP & PRES,CO,2014,May,"30,445",45,"304,147",45,0,"3,864","2,409",741,"1,575","8,589"
-Great Sand Dunes NP & PRES,CO,2014,June,"49,808",45,"383,370",45,0,"5,032","3,056",613,"1,296","9,997"
-Great Sand Dunes NP & PRES,CO,2014,July,"55,238",45,"379,209",45,0,"5,217","2,782",426,"1,026","9,451"
-Great Sand Dunes NP & PRES,CO,2014,August,"52,500",45,"363,962",45,0,"5,475","2,373",668,605,"9,120"
-Great Sand Dunes NP & PRES,CO,2014,September,"32,678",45,"245,924",45,0,"3,237","2,402",344,396,"6,380"
-Great Sand Dunes NP & PRES,CO,2014,October,"22,024",35,"98,102",35,0,"1,957","1,485",201,290,"3,933"
-Great Sand Dunes NP & PRES,CO,2014,November,"4,202",35,"8,722",35,0,0,0,23,0,23
-Great Sand Dunes NP & PRES,CO,2014,December,"2,164",35,"4,382",35,0,0,0,4,0,4
-Great Sand Dunes NP & PRES,CO,2015,January,"1,354",35,"2,778",35,0,0,0,7,0,7
-Great Sand Dunes NP & PRES,CO,2015,February,"1,003",35,"2,283",35,0,0,0,20,0,20
-Great Sand Dunes NP & PRES,CO,2015,March,"8,221",35,"19,713",35,0,0,0,246,0,246
-Great Sand Dunes NP & PRES,CO,2015,April,"10,587",35,"75,533",35,0,"1,789","1,238",287,644,"3,957"
-Great Sand Dunes NP & PRES,CO,2015,May,"40,804",45,"354,498",45,0,"4,676","2,673",695,"1,597","9,641"
-Great Sand Dunes NP & PRES,CO,2015,June,"60,712",45,"415,250",45,0,"5,726","2,521",803,"1,343","10,393"
-Great Sand Dunes NP & PRES,CO,2015,July,"56,935",45,"406,004",45,0,"6,032","2,551",533,"1,172","10,288"
-Great Sand Dunes NP & PRES,CO,2015,August,"54,096",45,"377,811",45,0,"5,726","2,495",493,766,"9,479"
-Great Sand Dunes NP & PRES,CO,2015,September,"36,735",45,"217,891",45,0,"2,574","1,709",356,435,"5,074"
-Great Sand Dunes NP & PRES,CO,2015,October,"23,159",35,"109,790",35,0,"2,211","1,841",284,305,"4,641"
-Great Sand Dunes NP & PRES,CO,2015,November,"3,861",35,"7,943",35,0,0,0,17,0,17
-Great Sand Dunes NP & PRES,CO,2015,December,"2,046",35,"4,259",35,0,0,0,13,0,13
-Great Sand Dunes NP & PRES,CO,2016,January,"1,503",35,"3,283",35,0,0,0,20,0,20
-Great Sand Dunes NP & PRES,CO,2016,February,"3,485",35,"7,604",35,0,0,0,46,0,46
-Great Sand Dunes NP & PRES,CO,2016,March,"10,009",35,"23,013",35,0,0,0,245,0,245
-Great Sand Dunes NP & PRES,CO,2016,April,"13,851",35,"80,846",35,0,"1,723","1,247",187,705,"3,862"
-Great Sand Dunes NP & PRES,CO,2016,May,"50,657",45,"366,230",45,0,"4,709","2,653",693,"1,296","9,351"
-Great Sand Dunes NP & PRES,CO,2016,June,"77,174",45,"471,509",45,0,"5,230","3,135","1,157","1,657","11,180"
-Great Sand Dunes NP & PRES,CO,2016,July,"79,425",45,"472,544",45,0,"6,188","2,445",785,"1,601","11,019"
-Great Sand Dunes NP & PRES,CO,2016,August,"59,329",45,"387,430",45,0,"5,551","2,409",548,957,"9,465"
-Great Sand Dunes NP & PRES,CO,2016,September,"47,478",45,"347,974",45,0,"4,627","3,214",461,591,"8,893"
-Great Sand Dunes NP & PRES,CO,2016,October,"30,776",35,"144,738",35,0,"2,729","2,429",246,647,"6,051"
-Great Sand Dunes NP & PRES,CO,2016,November,"10,574",35,"22,514",35,0,0,0,107,0,107
-Great Sand Dunes NP & PRES,CO,2016,December,"4,047",35,"8,274",35,0,0,0,13,0,13
-Great Sand Dunes NP & PRES,CO,2017,January,"3,173",35,"6,609",35,0,0,0,21,0,21
-Great Sand Dunes NP & PRES,CO,2017,February,"6,547",35,"13,356",35,0,0,0,21,0,21
-Great Sand Dunes NP & PRES,CO,2017,March,"24,744",35,"51,669",35,0,0,0,168,0,168
-Great Sand Dunes NP & PRES,CO,2017,April,"23,064",35,"100,274",35,0,"1,818","1,422",240,451,"3,932"
-Great Sand Dunes NP & PRES,CO,2017,May,"67,737",45,"397,242",45,0,"4,363","2,983",818,"1,071","9,235"
-Great Sand Dunes NP & PRES,CO,2017,June,"96,529",45,"474,809",45,0,"5,280","2,640",892,"1,111","9,923"
-Great Sand Dunes NP & PRES,CO,2017,July,"97,242",45,"499,707",45,0,"6,593","2,554",617,970,"10,735"
-Great Sand Dunes NP & PRES,CO,2017,August,"73,579",45,"340,651",45,0,"3,778","1,482",670,899,"6,829"
-Great Sand Dunes NP & PRES,CO,2017,September,"47,673",45,"263,545",45,0,"2,739","2,043",514,640,"5,936"
-Great Sand Dunes NP & PRES,CO,2017,October,"29,763",35,"124,897",35,0,"2,211","1,848",211,481,"4,751"
-Great Sand Dunes NP & PRES,CO,2017,November,"10,510",35,"22,317",35,0,0,0,103,0,103
-Great Sand Dunes NP & PRES,CO,2017,December,"6,374",35,"13,259",35,0,0,0,38,0,38
-Great Sand Dunes NP & PRES,CO,2018,January,"3,551",35,"7,834",35,0,0,0,57,0,57
-Great Sand Dunes NP & PRES,CO,2018,February,"5,579",35,"11,986",35,0,0,0,66,0,66
-Great Sand Dunes NP & PRES,CO,2018,March,"26,387",35,"56,514",35,0,0,0,291,0,291
-Great Sand Dunes NP & PRES,CO,2018,April,"20,899",35,"104,196",35,0,"2,000","1,538",261,753,"4,552"
-Great Sand Dunes NP & PRES,CO,2018,May,"63,953",45,"459,447",45,0,"4,953","3,594","1,018","2,130","11,695"
-Great Sand Dunes NP & PRES,CO,2018,June,"77,494",45,"454,161",45,0,"5,240","3,277",735,"1,275","10,527"
-Great Sand Dunes NP & PRES,CO,2018,July,"79,486",45,"456,315",45,0,"6,260","2,541",563,"1,097","10,461"
-Great Sand Dunes NP & PRES,CO,2018,August,"71,774",45,"430,398",45,0,"5,686","2,838",682,904,"10,110"
-Great Sand Dunes NP & PRES,CO,2018,September,"49,941",45,"347,875",45,0,"3,759","3,617",480,880,"8,736"
-Great Sand Dunes NP & PRES,CO,2018,October,"29,007",35,"127,308",35,0,"1,934","2,260",256,605,"5,055"
-Great Sand Dunes NP & PRES,CO,2018,November,"10,430",35,"21,522",35,0,0,0,51,0,51
-Great Sand Dunes NP & PRES,CO,2018,December,"4,404",35,"9,001",35,0,0,0,15,0,15
-Great Sand Dunes NP & PRES,CO,2019,January,"4,404",35,"8,835",35,0,0,0,2,0,2
-Great Sand Dunes NP & PRES,CO,2019,February,"5,154",35,"10,487",35,0,0,0,15,0,15
-Great Sand Dunes NP & PRES,CO,2019,March,"19,541",35,"41,801",35,0,0,0,202,0,202
-Great Sand Dunes NP & PRES,CO,2019,April,"25,183",35,"116,321",35,0,"1,970","1,884",304,636,"4,794"
-Great Sand Dunes NP & PRES,CO,2019,May,"68,473",45,"431,309",45,0,"4,333","3,901",847,"1,344","10,424"
-Great Sand Dunes NP & PRES,CO,2019,June,"122,086",45,"577,481",45,0,"5,072","3,432","1,378","1,902","11,784"
-Great Sand Dunes NP & PRES,CO,2019,July,"103,293",45,"496,618",45,0,"5,643","3,043",699,815,"10,200"
-Great Sand Dunes NP & PRES,CO,2019,August,"81,085",45,"473,547",45,0,"5,834","2,960",715,"1,444","10,954"
-Great Sand Dunes NP & PRES,CO,2019,September,"52,946",45,"390,775",45,0,"4,501","4,023",479,"1,015","10,018"
-Great Sand Dunes NP & PRES,CO,2019,October,"32,180",35,"141,686",35,0,"2,023","2,624",236,733,"5,615"
-Great Sand Dunes NP & PRES,CO,2019,November,"8,606",35,"17,710",35,0,0,0,38,0,38
-Great Sand Dunes NP & PRES,CO,2019,December,"4,595",35,"9,438",35,0,0,0,18,0,18
-Great Sand Dunes NP & PRES,CO,2020,January,"5,232",35,"10,672",35,0,0,0,15,0,15
-Great Sand Dunes NP & PRES,CO,2020,February,"5,820",35,"11,944",35,0,0,0,22,0,22
-Great Sand Dunes NP & PRES,CO,2020,March,"19,560",35,"40,598",35,0,0,0,108,0,108
-Great Sand Dunes NP & PRES,CO,2020,April,"5,227",35,"11,683",35,0,0,0,99,0,99
-Great Sand Dunes NP & PRES,CO,2020,May,0,45,0,45,0,0,0,0,0,0
-Great Sand Dunes NP & PRES,CO,2020,June,"78,191",45,"283,629",45,0,"2,472","1,508",512,0,"4,492"
-Great Sand Dunes NP & PRES,CO,2020,July,"102,800",45,"484,740",45,0,"6,016","2,788","1,035",0,"9,839"
-Great Sand Dunes NP & PRES,CO,2020,August,"97,370",45,"479,240",45,0,"6,154","2,640","1,257",0,"10,052"
-Great Sand Dunes NP & PRES,CO,2020,September,"66,495",45,"317,343",45,0,"3,359","2,234",922,0,"6,516"
-Great Sand Dunes NP & PRES,CO,2020,October,"53,468",35,"218,097",35,0,"3,782","3,755",550,0,"8,087"
-Great Sand Dunes NP & PRES,CO,2020,November,"17,734",35,"38,172",35,0,0,0,210,0,210
-Great Sand Dunes NP & PRES,CO,2020,December,"9,635",35,"21,754",35,0,0,0,180,0,180
-Mesa Verde NP,CO,2010,January,"4,212",206,"18,953",206,0,0,0,0,0,0
-Mesa Verde NP,CO,2010,February,"4,549",300,"20,469",300,0,0,0,0,0,0
-Mesa Verde NP,CO,2010,March,"12,112",684,"54,503",684,0,0,0,0,0,0
-Mesa Verde NP,CO,2010,April,"26,390",594,"135,763",594,945,0,0,0,0,945
-Mesa Verde NP,CO,2010,May,"54,833","1,403","484,122","1,403","6,520","3,153","3,450",0,65,"13,188"
-Mesa Verde NP,CO,2010,June,"111,802",929,"858,751",929,"8,913","5,393","5,383",0,70,"19,759"
-Mesa Verde NP,CO,2010,July,"116,017",581,"920,642",581,"10,525","6,928","4,645",0,45,"22,143"
-Mesa Verde NP,CO,2010,August,"101,458",632,"790,247",632,"9,438","5,545","3,550",0,5,"18,538"
-Mesa Verde NP,CO,2010,September,"69,169",501,"618,222",501,"7,800","5,080","4,138",0,36,"17,054"
-Mesa Verde NP,CO,2010,October,"40,243",414,"250,736",414,"1,900",895,900,0,174,"3,869"
-Mesa Verde NP,CO,2010,November,"10,758",330,"48,412",330,0,0,0,0,0,0
-Mesa Verde NP,CO,2010,December,"8,169",333,"36,759",333,0,0,0,0,0,0
-Mesa Verde NP,CO,2011,January,"5,788",329,"26,047",329,0,0,0,0,0,0
-Mesa Verde NP,CO,2011,February,"5,323",306,"23,955",306,0,0,0,0,0,0
-Mesa Verde NP,CO,2011,March,"14,311",341,"64,398",341,0,0,0,0,0,0
-Mesa Verde NP,CO,2011,April,"24,325",602,"131,494",602,"1,224",0,0,0,0,"1,224"
-Mesa Verde NP,CO,2011,May,"59,077","1,011","470,606","1,011","5,948","3,038","2,315",0,75,"11,376"
-Mesa Verde NP,CO,2011,June,"113,928",618,"765,314",618,"3,915","6,915","3,153",0,53,"14,036"
-Mesa Verde NP,CO,2011,July,"120,840",642,"791,803",642,"4,017","7,068","2,643",0,52,"13,780"
-Mesa Verde NP,CO,2011,August,"103,413",662,"658,545",662,"3,802","5,090","1,833",0,8,"10,733"
-Mesa Verde NP,CO,2011,September,"70,453",471,"583,672",471,"7,814","3,395","3,580",0,24,"14,813"
-Mesa Verde NP,CO,2011,October,"37,264",234,"256,399",234,"2,585",983,"1,355",0,6,"4,929"
-Mesa Verde NP,CO,2011,November,"9,906",206,"44,577",206,0,0,0,0,0,0
-Mesa Verde NP,CO,2011,December,"7,701",306,"34,655",306,0,0,0,0,0,0
-Mesa Verde NP,CO,2012,January,"6,288",328,"28,298",328,0,0,0,0,0,0
-Mesa Verde NP,CO,2012,February,"5,771",328,"25,970",328,0,0,0,0,0,0
-Mesa Verde NP,CO,2012,March,"14,411",296,"64,850",296,0,0,0,0,0,0
-Mesa Verde NP,CO,2012,April,"25,245",444,"115,403",444,0,100,0,0,0,100
-Mesa Verde NP,CO,2012,May,"51,503","1,346","409,786","1,346","3,909","3,170","2,805",0,6,"9,890"
-Mesa Verde NP,CO,2012,June,"85,908","1,818","635,492","1,818","3,919","5,575","4,250",0,84,"13,828"
-Mesa Verde NP,CO,2012,July,"98,574","2,067","673,335","2,067","4,062","5,342","3,318",0,42,"12,764"
-Mesa Verde NP,CO,2012,August,"81,558","1,266","565,956","1,266","3,717","4,322","2,985",0,28,"11,052"
-Mesa Verde NP,CO,2012,September,"60,439","1,269","477,023","1,269","4,033","3,198","4,140",0,21,"11,392"
-Mesa Verde NP,CO,2012,October,"40,982",316,"270,819",316,"2,129",998,"1,658",0,16,"4,801"
-Mesa Verde NP,CO,2012,November,"10,620",100,"47,788",100,0,0,0,0,0,0
-Mesa Verde NP,CO,2012,December,"7,561",69,"34,023",69,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,January,"5,758",8,"25,910",8,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,February,"5,573",0,"25,079",0,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,March,"13,963",350,"62,832",350,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,April,"23,005",730,"103,521",730,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,May,"52,250",810,"441,731",810,"3,305","3,928","4,168",0,78,"11,478"
-Mesa Verde NP,CO,2013,June,"87,746",826,"644,895",826,"3,860","5,988","3,992",0,51,"13,891"
-Mesa Verde NP,CO,2013,July,"99,900","1,200","628,335","1,200","3,716","5,212",970,0,34,"9,932"
-Mesa Verde NP,CO,2013,August,"82,980","1,563","559,726","1,563","3,625","5,568","1,152",0,6,"10,351"
-Mesa Verde NP,CO,2013,September,"60,415",736,"423,942",736,"3,946","3,370","1,118",0,15,"8,448"
-Mesa Verde NP,CO,2013,October,"9,002",64,"40,507",64,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,November,"11,471",42,"51,619",42,0,0,0,0,0,0
-Mesa Verde NP,CO,2013,December,"8,174",15,"36,781",15,0,0,0,0,0,0
-Mesa Verde NP,CO,2014,January,"6,199",0,"27,896",0,0,0,0,0,0,0
-Mesa Verde NP,CO,2014,February,"6,531",0,"29,391",0,0,0,0,0,0,0
-Mesa Verde NP,CO,2014,March,"17,391",40,"78,259",40,0,0,0,0,0,0
-Mesa Verde NP,CO,2014,April,"29,800",332,"158,023",332,"1,034",295,0,0,0,"1,329"
-Mesa Verde NP,CO,2014,May,"53,608",376,"443,357",376,"3,373","6,665","1,095",0,96,"11,229"
-Mesa Verde NP,CO,2014,June,"91,640",478,"672,805",478,"3,733","9,558","1,122",0,55,"14,468"
-Mesa Verde NP,CO,2014,July,"103,586",862,"707,121",862,"3,690","8,578","1,082",0,38,"13,388"
-Mesa Verde NP,CO,2014,August,"89,201",926,"616,848",926,"3,659","7,138","1,148",0,25,"11,969"
-Mesa Verde NP,CO,2014,September,"50,725",826,"428,736",826,"4,067","5,918","1,115",0,38,"11,138"
-Mesa Verde NP,CO,2014,October,"36,961",501,"301,072",501,"4,731","2,248",412,0,95,"7,486"
-Mesa Verde NP,CO,2014,November,"10,522",56,"47,347",56,0,0,0,0,0,0
-Mesa Verde NP,CO,2014,December,"5,399",24,"24,295",24,0,0,0,0,0,0
-Mesa Verde NP,CO,2015,January,"5,813",174,"26,159",174,0,0,0,0,0,0
-Mesa Verde NP,CO,2015,February,"5,759",188,"25,915",188,0,0,0,0,0,0
-Mesa Verde NP,CO,2015,March,"14,616",342,"65,772",342,0,0,0,0,0,0
-Mesa Verde NP,CO,2015,April,"31,721",190,"162,841",190,764,352,0,0,0,"1,116"
-Mesa Verde NP,CO,2015,May,"55,079","1,324","482,891","1,324","3,970","7,845","1,148",0,95,"13,058"
-Mesa Verde NP,CO,2015,June,"97,331","1,662","716,052","1,662","3,763","10,500","1,125",0,60,"15,448"
-Mesa Verde NP,CO,2015,July,"114,814","1,484","798,551","1,484","3,687","10,775","1,158",0,41,"15,660"
-Mesa Verde NP,CO,2015,August,"90,545","1,593","641,659","1,593","3,609","8,220","1,162",0,20,"13,012"
-Mesa Verde NP,CO,2015,September,"67,970","1,846","547,271","1,846","4,064","8,210","1,118",0,20,"13,412"
-Mesa Verde NP,CO,2015,October,"43,659","1,030","317,408","1,030","2,162","3,898",648,0,12,"6,719"
-Mesa Verde NP,CO,2015,November,"11,230",320,"50,535",320,0,0,0,0,0,0
-Mesa Verde NP,CO,2015,December,"8,788",318,"39,544",318,0,0,0,0,0,0
-Mesa Verde NP,CO,2016,January,"6,222",180,"28,001",180,0,0,0,0,0,0
-Mesa Verde NP,CO,2016,February,"7,899",188,"35,545",188,0,0,0,0,0,0
-Mesa Verde NP,CO,2016,March,"20,491",453,"92,211",453,0,0,0,0,0,0
-Mesa Verde NP,CO,2016,April,"28,457","1,023","149,622","1,023",958,240,0,0,0,"1,198"
-Mesa Verde NP,CO,2016,May,"58,043","1,977","514,552","1,977","3,807","9,015","1,148",0,106,"14,076"
-Mesa Verde NP,CO,2016,June,"104,543","3,042","884,119","3,042","8,448","7,560","6,825",0,149,"22,982"
-Mesa Verde NP,CO,2016,July,"119,412","3,090","765,045","3,090","3,851","7,638","1,155",0,6,"12,650"
-Mesa Verde NP,CO,2016,August,"93,570","2,637","640,395","2,637","3,472","7,595","1,115",0,3,"12,185"
-Mesa Verde NP,CO,2016,September,"72,553","2,834","583,959","2,834","4,046","9,125","1,120",0,13,"14,304"
-Mesa Verde NP,CO,2016,October,"50,419","1,161","347,312","1,161","2,218","3,752",710,0,10,"6,690"
-Mesa Verde NP,CO,2016,November,"14,510",312,"65,293",312,0,0,0,0,0,0
-Mesa Verde NP,CO,2016,December,"7,408",260,"33,335",260,0,0,0,0,0,0
-Mesa Verde NP,CO,2017,January,"5,601",84,"25,206",84,0,0,0,0,0,0
-Mesa Verde NP,CO,2017,February,"5,737",0,"25,815",0,0,0,0,0,0,0
-Mesa Verde NP,CO,2017,March,"21,016",254,"94,570",254,0,0,0,0,0,0
-Mesa Verde NP,CO,2017,April,"34,568",632,"188,623",632,"1,162",402,272,0,0,"1,837"
-Mesa Verde NP,CO,2017,May,"64,239","1,672","529,618","1,672","3,086","9,015","1,148",0,115,"13,364"
-Mesa Verde NP,CO,2017,June,"111,130","1,941","698,942","1,941","3,836","6,022","1,115",0,74,"11,048"
-Mesa Verde NP,CO,2017,July,"119,918","2,028","792,575","2,028","3,696","5,155","5,178",0,24,"14,052"
-Mesa Verde NP,CO,2017,August,"96,470","1,683","593,623","1,683","3,463","4,232","1,155",0,11,"8,862"
-Mesa Verde NP,CO,2017,September,"77,036",718,"578,780",718,"3,975","3,645","5,232",0,43,"12,896"
-Mesa Verde NP,CO,2017,October,"51,351",0,"352,240",0,"2,604","1,408","2,708",0,12,"6,731"
-Mesa Verde NP,CO,2017,November,"14,824",0,"66,706",0,0,0,0,0,0,0
-Mesa Verde NP,CO,2017,December,"11,898",0,"53,543",0,0,0,0,0,0,0
-Mesa Verde NP,CO,2018,January,"8,309",88,"37,392",88,0,0,0,0,0,0
-Mesa Verde NP,CO,2018,February,"7,400",75,"33,300",75,0,0,0,0,0,0
-Mesa Verde NP,CO,2018,March,"21,048",288,"94,715",288,0,0,0,0,0,0
-Mesa Verde NP,CO,2018,April,"34,517",582,"220,188",582,"1,175","1,980",448,0,1,"3,604"
-Mesa Verde NP,CO,2018,May,"64,623","1,232","551,604","1,232","3,350","4,488","6,572",0,79,"14,489"
-Mesa Verde NP,CO,2018,June,"99,530","1,590","740,700","1,590","3,676","11,320","1,122",0,149,"16,268"
-Mesa Verde NP,CO,2018,July,"106,001","1,732","725,539","1,732","3,580","5,885","4,288",0,55,"13,808"
-Mesa Verde NP,CO,2018,August,"84,092","2,402","582,724","2,402","3,406","4,325","3,502",0,117,"11,350"
-Mesa Verde NP,CO,2018,September,"70,929","1,392","574,539","1,392","4,077","4,128","5,960",0,22,"14,186"
-Mesa Verde NP,CO,2018,October,"45,178",552,"316,510",552,"2,394","1,308","2,570",0,18,"6,290"
-Mesa Verde NP,CO,2018,November,"13,382",146,"60,220",146,0,0,0,0,0,0
-Mesa Verde NP,CO,2018,December,"8,411",146,"37,850",146,0,0,0,0,0,0
-Mesa Verde NP,CO,2019,January,95,15,428,15,0,0,0,0,0,0
-Mesa Verde NP,CO,2019,February,"3,414",105,"15,361",105,0,0,0,0,0,0
-Mesa Verde NP,CO,2019,March,"14,992",288,"67,462",288,0,0,0,0,0,0
-Mesa Verde NP,CO,2019,April,"32,428",276,"216,226",276,"1,283",798,"1,825",0,0,"3,906"
-Mesa Verde NP,CO,2019,May,"60,665",6,"501,555",6,"3,297","3,422","5,918",0,61,"12,698"
-Mesa Verde NP,CO,2019,June,"108,231","1,125","810,555","1,125","4,022","12,585","1,270",0,96,"17,973"
-Mesa Verde NP,CO,2019,July,"113,166","2,752","793,001","2,752","3,883","6,072","5,768",0,41,"15,764"
-Mesa Verde NP,CO,2019,August,"87,133","1,580","612,165","1,580","3,267","4,678","4,252",0,29,"12,226"
-Mesa Verde NP,CO,2019,September,"70,865","2,058","538,959","2,058","3,267","4,678","4,252",0,29,"12,226"
-Mesa Verde NP,CO,2019,October,"47,270","1,198","333,035","1,198","2,470","1,388","2,825",0,2,"6,684"
-Mesa Verde NP,CO,2019,November,"10,201",384,"45,906",384,0,0,0,0,0,0
-Mesa Verde NP,CO,2019,December,"7,743",294,"34,844",294,0,0,0,0,0,0
-Mesa Verde NP,CO,2020,January,"6,872",20,"30,924",20,0,0,0,0,0,0
-Mesa Verde NP,CO,2020,February,"7,422",2,"33,400",2,0,0,0,0,0,0
-Mesa Verde NP,CO,2020,March,"10,193",210,"45,869",210,0,0,0,0,0,0
-Mesa Verde NP,CO,2020,April,0,0,0,0,0,0,0,0,0,0
-Mesa Verde NP,CO,2020,May,"3,029",338,"33,522",338,120,358,628,0,0,"1,105"
-Mesa Verde NP,CO,2020,June,"48,110","1,394","349,173","1,394","1,050","2,990","3,330",0,1,"7,371"
-Mesa Verde NP,CO,2020,July,"49,824","1,374","373,607","1,374","1,551","3,422","3,318",0,9,"8,300"
-Mesa Verde NP,CO,2020,August,"56,923","1,524","373,334","1,524","1,297","2,670","2,535",0,8,"6,510"
-Mesa Verde NP,CO,2020,September,"44,557","1,412","358,844","1,412","1,706","3,090","3,998",0,3,"8,796"
-Mesa Verde NP,CO,2020,October,"37,794",642,"172,412",642,0,130,0,0,0,130
-Mesa Verde NP,CO,2020,November,"13,803",375,"62,114",375,0,0,0,0,0,0
-Mesa Verde NP,CO,2020,December,"8,950",228,"40,273",228,0,0,0,0,0,0
-Rocky Mountain NP,CO,2010,January,"64,618","9,833","393,246","1,049",0,147,69,130,0,346
-Rocky Mountain NP,CO,2010,February,"44,576","6,835","269,887",693,0,66,30,56,0,152
-Rocky Mountain NP,CO,2010,March,"70,117","6,778","431,504",776,0,267,162,246,0,675
-Rocky Mountain NP,CO,2010,April,"69,097","6,737","426,759",743,0,354,273,134,0,761
-Rocky Mountain NP,CO,2010,May,"180,710","11,780","1,191,876","2,373",0,"3,576","1,932",922,296,"6,726"
-Rocky Mountain NP,CO,2010,June,"441,738","22,443","3,205,162","5,883",0,"19,710","9,006","4,599","1,356","34,671"
-Rocky Mountain NP,CO,2010,July,"668,418","30,683","4,861,515","8,441",0,"27,129","11,130","12,452","2,477","53,188"
-Rocky Mountain NP,CO,2010,August,"574,638","29,990","4,131,333","9,115",0,"22,176","9,702","9,687","1,154","42,719"
-Rocky Mountain NP,CO,2010,September,"461,942","22,514","3,260,753","6,181",0,"14,526","11,277","4,135",631,"30,569"
-Rocky Mountain NP,CO,2010,October,"245,770","10,845","1,533,403","2,503",0,"1,314","1,512",833,15,"3,674"
-Rocky Mountain NP,CO,2010,November,"67,862","7,714","415,713",909,0,207,189,138,0,534
-Rocky Mountain NP,CO,2010,December,"66,335","6,474","401,004",693,0,42,72,73,0,187
-Rocky Mountain NP,CO,2011,January,"68,641","8,131","415,495",913,0,45,42,141,0,228
-Rocky Mountain NP,CO,2011,February,"50,540","6,085","306,473",633,0,42,18,142,0,202
-Rocky Mountain NP,CO,2011,March,"73,760","7,229","455,586",812,0,321,156,337,0,814
-Rocky Mountain NP,CO,2011,April,"77,183","5,940","476,040",680,0,372,357,80,0,809
-Rocky Mountain NP,CO,2011,May,"163,587","10,025","1,056,880","2,233",0,"2,346","1,542",512,310,"4,710"
-Rocky Mountain NP,CO,2011,June,"500,733","27,264","3,651,999","6,269",0,"21,768","11,184","3,841","3,682","40,475"
-Rocky Mountain NP,CO,2011,July,"743,741","29,070","5,444,286","8,312",0,"30,792","13,530","10,720","6,323","61,365"
-Rocky Mountain NP,CO,2011,August,"620,534","25,498","4,590,212","8,756",0,"28,212","12,030","10,257","3,689","54,188"
-Rocky Mountain NP,CO,2011,September,"483,780","22,179","3,426,583","6,154",0,"15,663","11,646","4,274","1,161","32,744"
-Rocky Mountain NP,CO,2011,October,"264,617","9,157","1,661,128","2,368",0,"1,608","2,307",662,12,"4,589"
-Rocky Mountain NP,CO,2011,November,"68,076","6,514","414,071",813,0,102,69,142,38,351
-Rocky Mountain NP,CO,2011,December,"61,749","11,581","374,283","1,102",0,66,63,108,0,237
-Rocky Mountain NP,CO,2012,January,"68,537",90,"416,340",270,0,72,114,91,43,320
-Rocky Mountain NP,CO,2012,February,"62,036",50,"378,169",150,0,69,75,214,14,372
-Rocky Mountain NP,CO,2012,March,"104,374",80,"647,348",240,0,474,441,364,40,"1,319"
-Rocky Mountain NP,CO,2012,April,"117,053",70,"741,982",210,0,"1,170",954,306,49,"2,479"
-Rocky Mountain NP,CO,2012,May,"228,950",490,"1,487,588","1,470",0,"3,543","1,818","1,686",71,"7,118"
-Rocky Mountain NP,CO,2012,June,"500,206","1,400","3,540,022","4,200",0,"18,210","7,863","6,069","1,532","33,674"
-Rocky Mountain NP,CO,2012,July,"651,722","2,050","4,535,854","6,150",0,"22,761","8,184","6,071","2,079","39,095"
-Rocky Mountain NP,CO,2012,August,"589,131","2,300","4,195,989","6,900",0,"22,233","8,292","9,646","1,154","41,325"
-Rocky Mountain NP,CO,2012,September,"527,172","1,500","3,633,525","4,500",0,"14,445","10,146","4,303",512,"29,406"
-Rocky Mountain NP,CO,2012,October,"219,946",560,"1,375,132","1,680",0,"1,200","1,695",554,17,"3,466"
-Rocky Mountain NP,CO,2012,November,"93,714",100,"569,533",300,0,174,129,150,0,453
-Rocky Mountain NP,CO,2012,December,"66,776",60,"403,855",180,0,42,54,104,0,200
-Rocky Mountain NP,CO,2013,January,"78,022",90,"471,091",270,0,66,36,83,0,185
-Rocky Mountain NP,CO,2013,February,"68,831",50,"416,647",150,0,54,33,124,18,229
-Rocky Mountain NP,CO,2013,March,"89,691",80,"551,314",240,0,336,84,322,81,823
-Rocky Mountain NP,CO,2013,April,"90,379",70,"558,514",210,0,447,399,120,49,"1,015"
-Rocky Mountain NP,CO,2013,May,"239,184",490,"1,569,343","1,470",0,"4,611","2,649",919,211,"8,390"
-Rocky Mountain NP,CO,2013,June,"602,508","1,400","4,167,143","4,200",0,"19,152","8,601","5,199","1,554","34,506"
-Rocky Mountain NP,CO,2013,July,"712,583","2,050","5,007,420","6,150",0,"24,144","9,234","10,782","1,585","45,745"
-Rocky Mountain NP,CO,2013,August,"621,852","2,300","4,427,192","6,900",0,"23,517","9,189","9,775","1,024","43,505"
-Rocky Mountain NP,CO,2013,September,"253,467","1,500","1,738,915","4,500",0,"6,870","4,434","2,215",113,"13,632"
-Rocky Mountain NP,CO,2013,October,"66,275",560,"414,447","1,680",0,348,606,93,3,"1,050"
-Rocky Mountain NP,CO,2013,November,"86,379",100,"525,314",300,0,168,150,108,14,440
-Rocky Mountain NP,CO,2013,December,"81,970",60,"495,949",180,0,69,57,130,2,258
-Rocky Mountain NP,CO,2014,January,"77,633",90,"470,265",270,0,78,102,88,11,279
-Rocky Mountain NP,CO,2014,February,"76,881",50,"464,585",150,0,18,51,130,7,206
-Rocky Mountain NP,CO,2014,March,"99,077",80,"603,068",240,0,57,165,313,3,538
-Rocky Mountain NP,CO,2014,April,"97,100",70,"593,435",210,0,189,315,173,0,677
-Rocky Mountain NP,CO,2014,May,"220,532",490,"1,471,370","1,470",0,"3,336","4,374","1,149",402,"9,261"
-Rocky Mountain NP,CO,2014,June,"538,725","1,400","3,930,109","4,200",0,"24,207","10,818","5,731","2,854","43,610"
-Rocky Mountain NP,CO,2014,July,"693,685","2,050","5,137,438","6,150",0,"33,303","12,252","11,488","3,915","60,958"
-Rocky Mountain NP,CO,2014,August,"616,826","2,300","4,565,422","6,900",0,"29,505","11,559","10,180","2,785","54,029"
-Rocky Mountain NP,CO,2014,September,"537,694","1,500","3,740,549","4,500",0,"17,517","9,975","4,155",502,"32,149"
-Rocky Mountain NP,CO,2014,October,"305,651",560,"1,916,051","1,680",0,"3,366","1,002",766,0,"5,134"
-Rocky Mountain NP,CO,2014,November,"90,915",100,"557,028",300,0,621,0,100,0,721
-Rocky Mountain NP,CO,2014,December,"80,032",60,"484,083",180,0,0,195,48,0,243
-Rocky Mountain NP,CO,2015,January,"98,928",90,"602,466",270,0,312,0,244,0,556
-Rocky Mountain NP,CO,2015,February,"85,123",50,"520,067",150,0,0,429,154,0,583
-Rocky Mountain NP,CO,2015,March,"134,304",80,"824,179",240,0,0,780,367,0,"1,147"
-Rocky Mountain NP,CO,2015,April,"116,959",70,"726,653",210,0,"1,308",0,248,0,"1,556"
-Rocky Mountain NP,CO,2015,May,"259,711",490,"1,710,570","1,470",0,"5,118","2,856","1,388",157,"9,519"
-Rocky Mountain NP,CO,2015,June,"608,796","1,400","4,443,976","4,200",0,"26,655","12,375","7,152","3,268","49,450"
-Rocky Mountain NP,CO,2015,July,"858,426","2,050","6,220,761","6,150",0,"34,548","13,335","14,438","4,567","66,888"
-Rocky Mountain NP,CO,2015,August,"765,579","2,300","5,608,244","6,900",0,"33,294","12,834","13,446","3,849","63,423"
-Rocky Mountain NP,CO,2015,September,"644,350","1,500","4,456,483","4,500",0,"18,615","10,710","6,815",759,"36,899"
-Rocky Mountain NP,CO,2015,October,"371,558",560,"2,436,577","1,680",0,"3,981","7,308","1,663",0,"12,952"
-Rocky Mountain NP,CO,2015,November,"118,398",100,"722,019",300,0,327,246,150,4,727
-Rocky Mountain NP,CO,2015,December,"93,784",60,"568,882",180,0,96,54,236,0,386
-Rocky Mountain NP,CO,2016,January,"115,207",90,"696,296",270,0,114,72,130,0,316
-Rocky Mountain NP,CO,2016,February,"105,125",50,"641,662",150,0,321,195,166,0,682
-Rocky Mountain NP,CO,2016,March,"135,053",80,"824,849",240,0,384,165,359,0,908
-Rocky Mountain NP,CO,2016,April,"129,967",70,"799,144",210,0,699,339,171,0,"1,209"
-Rocky Mountain NP,CO,2016,May,"285,868",490,"1,852,712","1,470",0,"4,350","2,454","1,790",0,"8,594"
-Rocky Mountain NP,CO,2016,June,"700,990","1,400","4,920,626","4,200",0,"25,437","11,037","8,069",125,"44,668"
-Rocky Mountain NP,CO,2016,July,"912,507","2,050","6,562,113","6,150",0,"34,533","13,191","15,453","4,765","67,942"
-Rocky Mountain NP,CO,2016,August,"772,849","2,300","5,523,779","6,900",0,"30,228","15,285","9,719",186,"55,418"
-Rocky Mountain NP,CO,2016,September,"711,110","1,500","4,920,788","4,500",0,"21,546","12,210","7,063",64,"40,883"
-Rocky Mountain NP,CO,2016,October,"398,525",560,"2,484,284","1,680",0,"2,268","1,737","1,816",0,"5,821"
-Rocky Mountain NP,CO,2016,November,"158,553",100,"979,383",300,0,891,552,311,0,"1,754"
-Rocky Mountain NP,CO,2016,December,"91,831",60,"558,504",180,0,210,84,176,0,470
-Rocky Mountain NP,CO,2017,January,"95,602",90,"581,214",270,0,204,132,95,44,475
-Rocky Mountain NP,CO,2017,February,"98,832",50,"599,822",150,0,168,111,148,0,427
-Rocky Mountain NP,CO,2017,March,"145,110",80,"891,621",240,0,681,198,431,0,"1,310"
-Rocky Mountain NP,CO,2017,April,"158,360",70,"988,927",210,0,"1,248",843,325,7,"2,423"
-Rocky Mountain NP,CO,2017,May,"263,222",490,"1,779,875","1,470",0,"7,158","3,378","1,777",221,"12,534"
-Rocky Mountain NP,CO,2017,June,"741,247","1,400","5,297,116","4,200",0,"27,714","13,623","8,330","3,435","53,102"
-Rocky Mountain NP,CO,2017,July,"885,478","2,050","6,390,211","6,150",0,"33,708","13,332","14,786","5,508","67,334"
-Rocky Mountain NP,CO,2017,August,"782,625","2,300","5,652,470","6,900",0,"31,401","13,074","11,498","3,822","59,795"
-Rocky Mountain NP,CO,2017,September,"681,160","1,500","4,697,054","4,500",0,"20,076","11,508","6,496",51,"38,131"
-Rocky Mountain NP,CO,2017,October,"332,526",560,"2,047,271","1,680",0,"1,218","1,032","1,007",0,"3,257"
-Rocky Mountain NP,CO,2017,November,"140,223",100,"853,960",300,0,351,252,186,0,789
-Rocky Mountain NP,CO,2017,December,"112,830",60,"685,156",180,0,252,144,115,0,511
-Rocky Mountain NP,CO,2018,January,"111,422",90,"675,409",270,0,195,135,99,1,430
-Rocky Mountain NP,CO,2018,February,"84,245",50,"511,633",150,0,96,165,124,0,385
-Rocky Mountain NP,CO,2018,March,"156,434",80,"956,876",240,0,549,318,275,0,"1,142"
-Rocky Mountain NP,CO,2018,April,"151,975",70,"933,368",210,0,603,471,271,0,"1,345"
-Rocky Mountain NP,CO,2018,May,"305,993",490,"2,058,453","1,470",0,"7,206","4,674","1,974",52,"13,906"
-Rocky Mountain NP,CO,2018,June,"720,822","1,400","5,207,236","4,200",0,"29,595","13,404","8,877","3,268","55,144"
-Rocky Mountain NP,CO,2018,July,"931,929","2,050","6,589,347","6,150",0,"31,968","15,276","14,787",330,"62,361"
-Rocky Mountain NP,CO,2018,August,"798,306","2,300","5,710,795","6,900",0,"23,136","22,056","12,177",191,"57,560"
-Rocky Mountain NP,CO,2018,September,"784,480","1,500","5,341,248","4,500",0,"20,856","11,727","7,003",62,"39,648"
-Rocky Mountain NP,CO,2018,October,"312,757",560,"1,983,181","1,680",0,"3,213","2,352","1,100",0,"6,665"
-Rocky Mountain NP,CO,2018,November,"125,349",100,"764,815",300,0,339,339,117,0,795
-Rocky Mountain NP,CO,2018,December,"106,781",60,"647,551",180,0,168,99,36,126,429
-Rocky Mountain NP,CO,2019,January,"118,152",90,"709,329",270,0,12,12,2,0,26
-Rocky Mountain NP,CO,2019,February,"99,873",50,"604,533",150,0,144,99,0,88,331
-Rocky Mountain NP,CO,2019,March,"146,414",80,"890,469",240,0,465,150,134,0,749
-Rocky Mountain NP,CO,2019,April,"160,259",70,"997,124",210,0,"1,134",918,171,0,"2,223"
-Rocky Mountain NP,CO,2019,May,"280,351",490,"1,864,409","1,470",0,"6,570","3,735","1,068",21,"11,394"
-Rocky Mountain NP,CO,2019,June,"698,224","1,400","4,791,603","4,200",0,"12,912","18,225","6,307",197,"37,641"
-Rocky Mountain NP,CO,2019,July,"973,992","2,050","6,830,898","6,150",0,"34,785","12,660","13,934",305,"61,684"
-Rocky Mountain NP,CO,2019,August,"830,039","2,300","5,870,248","6,900",0,"30,726","13,026","11,653",221,"55,626"
-Rocky Mountain NP,CO,2019,September,"752,320","1,500","5,146,674","4,500",0,"20,634","12,162","6,706",45,"39,547"
-Rocky Mountain NP,CO,2019,October,"374,003",560,"2,390,212","1,680",0,"4,770","3,312","1,055",0,"9,137"
-Rocky Mountain NP,CO,2019,November,"123,376",100,"752,382",300,0,387,270,101,0,758
-Rocky Mountain NP,CO,2019,December,"113,050",60,"687,482",180,0,252,240,82,0,574
-Rocky Mountain NP,CO,2020,January,"126,866",90,"768,346",270,0,198,186,63,0,447
-Rocky Mountain NP,CO,2020,February,"110,667",50,"671,220",150,0,159,225,67,0,451
-Rocky Mountain NP,CO,2020,March,"97,690",80,"596,411",240,0,438,126,78,0,642
-Rocky Mountain NP,CO,2020,April,0,70,0,210,0,0,0,0,0,0
-Rocky Mountain NP,CO,2020,May,"63,051",490,"380,288","1,470",0,0,0,124,0,124
-Rocky Mountain NP,CO,2020,June,"491,355","1,400","3,318,209","4,200",0,"7,725","8,130","7,275",0,"23,130"
-Rocky Mountain NP,CO,2020,July,"723,478","2,050","4,842,803","6,150",0,"6,381","11,949","13,041",0,"31,371"
-Rocky Mountain NP,CO,2020,August,"580,368","2,300","3,963,040","6,900",0,"7,506","10,212","12,334",0,"30,052"
-Rocky Mountain NP,CO,2020,September,"500,019","1,500","3,316,384","4,500",0,"7,776","5,253","6,738",0,"19,767"
-Rocky Mountain NP,CO,2020,October,"297,665",560,"1,839,907","1,680",0,984,756,"1,630",0,"3,370"
-Rocky Mountain NP,CO,2020,November,"157,875",100,"948,387",300,0,0,0,71,0,71
-Rocky Mountain NP,CO,2020,December,"156,165",60,"944,415",180,0,183,180,101,0,464
+﻿ID,Park,State,Year,Month,Recreation_ Visitors,Non_Recreation_Visitors,Recreation_Visitor_Hours,Non_Recreation_Hours,Concession_Lodging,Tent_Campers,RV_Campers,Backcountry_Campers,Misc_Campers,Total_Overnight_Stays
+1,Black Canyon of the Gunnison NP,CO,2010,January,"2,519",0,"6,898",0,0,19,8,0,0,27
+2,Black Canyon of the Gunnison NP,CO,2010,February,"3,034",0,"9,193",0,0,35,13,0,0,48
+3,Black Canyon of the Gunnison NP,CO,2010,March,"3,199",0,"8,741",0,0,35,20,0,0,55
+4,Black Canyon of the Gunnison NP,CO,2010,April,"4,421",0,"17,747",0,0,169,160,32,0,361
+5,Black Canyon of the Gunnison NP,CO,2010,May,"21,259",0,"128,429",0,0,"1,159",715,107,0,"1,981"
+6,Black Canyon of the Gunnison NP,CO,2010,June,"24,477",0,"163,138",0,0,"1,172","1,518",184,0,"2,874"
+7,Black Canyon of the Gunnison NP,CO,2010,July,"35,398",0,"228,706",0,0,"2,162","1,648",143,0,"3,953"
+8,Black Canyon of the Gunnison NP,CO,2010,August,"27,367",0,"165,614",0,0,"1,095","1,293",196,0,"2,584"
+9,Black Canyon of the Gunnison NP,CO,2010,September,"24,297",0,"161,738",0,0,"1,455","1,001",320,0,"2,776"
+10,Black Canyon of the Gunnison NP,CO,2010,October,"21,331",0,"75,893",0,0,803,630,159,0,"1,592"
+11,Black Canyon of the Gunnison NP,CO,2010,November,"3,646",0,"9,242",0,0,50,75,5,0,130
+12,Black Canyon of the Gunnison NP,CO,2010,December,"5,396",0,"10,577",0,0,11,8,0,0,19
+13,Black Canyon of the Gunnison NP,CO,2011,January,"3,289",0,"10,454",0,0,61,25,4,0,90
+14,Black Canyon of the Gunnison NP,CO,2011,February,"3,207",0,"9,542",0,0,26,20,3,0,49
+15,Black Canyon of the Gunnison NP,CO,2011,March,"4,012",0,"11,106",0,0,83,31,5,0,119
+16,Black Canyon of the Gunnison NP,CO,2011,April,"4,885",0,"18,646",0,0,180,138,7,0,325
+17,Black Canyon of the Gunnison NP,CO,2011,May,"12,722",0,"101,447",0,0,"1,047",808,80,0,"1,935"
+18,Black Canyon of the Gunnison NP,CO,2011,June,"24,589",0,"184,682",0,0,"1,928","1,656",93,0,"3,677"
+19,Black Canyon of the Gunnison NP,CO,2011,July,"28,381",0,"223,287",0,0,"2,606","1,983",135,0,"4,724"
+20,Black Canyon of the Gunnison NP,CO,2011,August,"39,032",0,"229,224",0,0,"1,991","1,491",95,0,"3,577"
+21,Black Canyon of the Gunnison NP,CO,2011,September,"26,905",0,"173,286",0,0,"1,651","1,146",92,0,"2,889"
+22,Black Canyon of the Gunnison NP,CO,2011,October,"12,297",0,"41,912",0,0,338,234,107,0,679
+23,Black Canyon of the Gunnison NP,CO,2011,November,"5,031",0,"9,718",0,0,0,22,6,0,28
+24,Black Canyon of the Gunnison NP,CO,2011,December,"3,986",0,"11,463",0,0,8,14,4,0,26
+25,Black Canyon of the Gunnison NP,CO,2012,January,509,0,"4,749",0,0,6,0,0,0,6
+26,Black Canyon of the Gunnison NP,CO,2012,February,717,0,"6,746",0,0,7,0,0,0,7
+27,Black Canyon of the Gunnison NP,CO,2012,March,"4,388",0,"12,779",0,0,61,31,0,0,92
+28,Black Canyon of the Gunnison NP,CO,2012,April,"9,150",0,"35,450",0,0,267,328,45,0,640
+29,Black Canyon of the Gunnison NP,CO,2012,May,"24,991",0,"164,437",0,0,"1,281","1,287",109,0,"2,677"
+30,Black Canyon of the Gunnison NP,CO,2012,June,"41,757",0,"252,216",0,0,"2,206","1,697",143,0,"4,046"
+31,Black Canyon of the Gunnison NP,CO,2012,July,"37,371",0,"239,254",0,0,"2,301","1,863",119,0,"4,283"
+32,Black Canyon of the Gunnison NP,CO,2012,August,"26,047",0,"177,184",0,0,"1,735","1,443",141,0,"3,319"
+33,Black Canyon of the Gunnison NP,CO,2012,September,"23,919",0,"157,743",0,0,"1,262","1,344",81,0,"2,687"
+34,Black Canyon of the Gunnison NP,CO,2012,October,"12,742",0,"67,620",0,0,917,942,28,0,"1,887"
+35,Black Canyon of the Gunnison NP,CO,2012,November,"7,126",0,"13,413",0,0,14,25,0,0,39
+36,Black Canyon of the Gunnison NP,CO,2012,December,"3,853",0,"9,958",0,0,0,19,0,0,19
+37,Black Canyon of the Gunnison NP,CO,2013,January,"4,046",0,"14,006",0,0,0,17,4,0,21
+38,Black Canyon of the Gunnison NP,CO,2013,February,"3,410",0,"15,856",0,0,96,31,0,0,127
+39,Black Canyon of the Gunnison NP,CO,2013,March,"6,698",0,"17,814",0,0,74,31,0,0,105
+40,Black Canyon of the Gunnison NP,CO,2013,April,"8,606",0,"24,570",0,0,206,72,13,0,291
+41,Black Canyon of the Gunnison NP,CO,2013,May,"23,708",0,"158,096",0,0,"1,325","1,137",105,0,"2,567"
+42,Black Canyon of the Gunnison NP,CO,2013,June,"21,927",0,"184,494",0,0,"2,122","1,850",175,0,"4,146"
+43,Black Canyon of the Gunnison NP,CO,2013,July,"37,010",0,"248,675",0,0,"2,611","1,975",95,0,"4,681"
+44,Black Canyon of the Gunnison NP,CO,2013,August,"33,279",0,"210,625",0,0,"2,004","1,542",90,0,"3,636"
+45,Black Canyon of the Gunnison NP,CO,2013,September,"23,945",0,"159,130",0,0,"1,351","1,463",56,0,"2,870"
+46,Black Canyon of the Gunnison NP,CO,2013,October,"5,789",0,"19,585",0,0,152,168,37,0,357
+47,Black Canyon of the Gunnison NP,CO,2013,November,"3,296",0,"7,721",0,0,0,14,0,0,14
+48,Black Canyon of the Gunnison NP,CO,2013,December,"4,138",0,"12,083",0,0,8,6,0,0,14
+49,Black Canyon of the Gunnison NP,CO,2014,January,"3,469",0,"10,578",0,0,6,0,0,0,6
+50,Black Canyon of the Gunnison NP,CO,2014,February,"4,031",0,"12,736",0,0,15,0,0,0,15
+51,Black Canyon of the Gunnison NP,CO,2014,March,"4,302",0,"8,812",0,0,26,0,0,0,26
+52,Black Canyon of the Gunnison NP,CO,2014,April,"6,761",0,"26,579",0,0,272,206,27,0,504
+53,Black Canyon of the Gunnison NP,CO,2014,May,"21,157",0,"139,449",0,0,"1,338",835,89,0,"2,262"
+54,Black Canyon of the Gunnison NP,CO,2014,June,"28,536",0,"193,000",0,0,"1,994","1,376",45,0,"3,415"
+55,Black Canyon of the Gunnison NP,CO,2014,July,"42,253",0,"238,187",0,0,"1,977","1,466",77,0,"3,521"
+56,Black Canyon of the Gunnison NP,CO,2014,August,"25,712",0,"186,949",0,0,"1,819","1,384",60,0,"3,263"
+57,Black Canyon of the Gunnison NP,CO,2014,September,"24,788",0,"121,631",0,0,737,358,54,0,"1,149"
+58,Black Canyon of the Gunnison NP,CO,2014,October,"13,432",0,"86,912",0,0,"1,257","1,473",33,0,"2,764"
+59,Black Canyon of the Gunnison NP,CO,2014,November,"4,925",0,"18,939",0,0,230,271,3,0,504
+60,Black Canyon of the Gunnison NP,CO,2014,December,"3,679",0,"7,965",0,0,14,0,2,0,16
+61,Black Canyon of the Gunnison NP,CO,2015,January,"4,600",0,"9,659",0,0,8,0,0,0,8
+62,Black Canyon of the Gunnison NP,CO,2015,February,"4,136",0,"8,495",0,0,15,7,0,0,22
+63,Black Canyon of the Gunnison NP,CO,2015,March,"5,968",0,"13,332",0,0,55,20,10,0,84
+64,Black Canyon of the Gunnison NP,CO,2015,April,"8,896",0,"33,898",0,0,377,145,98,0,619
+65,Black Canyon of the Gunnison NP,CO,2015,May,"23,176",0,"141,456",0,0,"1,121",879,159,0,"2,158"
+66,Black Canyon of the Gunnison NP,CO,2015,June,"33,141",0,"216,096",0,0,"1,948","1,575",259,0,"3,781"
+67,Black Canyon of the Gunnison NP,CO,2015,July,"45,328",0,"297,871",0,0,"2,970","2,682",77,0,"5,729"
+68,Black Canyon of the Gunnison NP,CO,2015,August,"27,197",0,"203,460",0,0,"2,276","1,720",224,0,"4,219"
+69,Black Canyon of the Gunnison NP,CO,2015,September,"29,878",0,"191,431",0,0,"1,958",917,172,0,"3,047"
+70,Black Canyon of the Gunnison NP,CO,2015,October,"16,626",0,"84,382",0,0,"1,585",638,91,0,"2,314"
+71,Black Canyon of the Gunnison NP,CO,2015,November,"5,550",0,"14,029",0,0,166,36,0,0,202
+72,Black Canyon of the Gunnison NP,CO,2015,December,"4,670",0,"12,317",0,0,11,0,0,0,11
+73,Black Canyon of the Gunnison NP,CO,2016,January,"5,510",0,"15,326",0,0,19,3,0,0,22
+74,Black Canyon of the Gunnison NP,CO,2016,February,"3,932",0,"9,623",0,0,20,0,0,0,20
+75,Black Canyon of the Gunnison NP,CO,2016,March,"2,850",0,"6,544",0,0,57,11,8,0,76
+76,Black Canyon of the Gunnison NP,CO,2016,April,"9,871",0,"35,774",0,0,545,110,81,0,736
+77,Black Canyon of the Gunnison NP,CO,2016,May,"28,055",0,"223,087",0,0,"2,758","1,556",232,0,"4,546"
+78,Black Canyon of the Gunnison NP,CO,2016,June,"34,433",0,"258,900",0,0,"2,780","1,899",545,0,"5,223"
+79,Black Canyon of the Gunnison NP,CO,2016,July,"47,029",0,"342,944",0,0,"4,197","2,429",373,0,"6,999"
+80,Black Canyon of the Gunnison NP,CO,2016,August,"34,384",0,"282,735",0,0,"3,856","2,162",344,0,"6,361"
+81,Black Canyon of the Gunnison NP,CO,2016,September,"38,169",0,"248,054",0,0,"1,930","1,819",249,0,"3,998"
+82,Black Canyon of the Gunnison NP,CO,2016,October,"19,113",0,"120,141",0,0,"2,299","1,326",90,0,"3,715"
+83,Black Canyon of the Gunnison NP,CO,2016,November,"8,955",0,"39,423",0,0,584,557,14,0,"1,155"
+84,Black Canyon of the Gunnison NP,CO,2016,December,"5,717",0,"12,988",0,0,25,6,0,0,30
+85,Black Canyon of the Gunnison NP,CO,2017,January,"6,925",0,"16,887",0,0,19,8,0,0,28
+86,Black Canyon of the Gunnison NP,CO,2017,February,"3,361",0,"7,902",0,0,24,7,0,0,31
+87,Black Canyon of the Gunnison NP,CO,2017,March,"7,147",0,"19,739",0,0,217,35,22,0,274
+88,Black Canyon of the Gunnison NP,CO,2017,April,"11,292",0,"53,152",0,0,804,307,65,0,"1,175"
+89,Black Canyon of the Gunnison NP,CO,2017,May,"29,218",0,"218,627",0,0,"2,290","1,602",253,0,"4,145"
+90,Black Canyon of the Gunnison NP,CO,2017,June,"40,616",0,"307,848",0,0,"3,895","2,309",217,0,"6,421"
+91,Black Canyon of the Gunnison NP,CO,2017,July,"44,532",0,"327,968",0,0,"3,868","2,549",420,0,"6,836"
+92,Black Canyon of the Gunnison NP,CO,2017,August,"40,788",0,"287,857",0,0,"3,205","2,017",385,0,"5,607"
+93,Black Canyon of the Gunnison NP,CO,2017,September,"45,983",0,"308,465",0,0,"2,776","2,741",156,0,"5,673"
+94,Black Canyon of the Gunnison NP,CO,2017,October,"54,766",0,"145,802",0,0,"1,367",493,170,0,"2,029"
+95,Black Canyon of the Gunnison NP,CO,2017,November,"19,473",0,"43,862",0,0,277,136,15,0,428
+96,Black Canyon of the Gunnison NP,CO,2017,December,"3,042",0,"8,445",0,0,53,53,5,0,110
+97,Black Canyon of the Gunnison NP,CO,2018,January,"7,600",0,"15,059",0,0,8,11,0,0,19
+98,Black Canyon of the Gunnison NP,CO,2018,February,"5,231",0,"13,097",0,0,15,20,0,0,35
+99,Black Canyon of the Gunnison NP,CO,2018,March,"7,687",0,"20,016",0,0,195,31,2,0,228
+100,Black Canyon of the Gunnison NP,CO,2018,April,"11,728",0,"50,301",0,0,718,228,150,0,"1,096"
+101,Black Canyon of the Gunnison NP,CO,2018,May,"48,554",0,"344,951",0,0,"3,240","2,728",313,0,"6,281"
+102,Black Canyon of the Gunnison NP,CO,2018,June,"42,306",0,"320,474",0,0,"3,479","2,475",543,0,"6,497"
+103,Black Canyon of the Gunnison NP,CO,2018,July,"44,962",0,"344,365",0,0,"4,265","2,576",413,0,"7,254"
+104,Black Canyon of the Gunnison NP,CO,2018,August,"46,511",0,"318,031",0,0,"3,548","2,212",283,0,"6,044"
+105,Black Canyon of the Gunnison NP,CO,2018,September,"46,915",0,"259,107",0,0,"1,549","1,227",275,0,"3,051"
+106,Black Canyon of the Gunnison NP,CO,2018,October,"22,062",0,"84,034",0,0,"1,311",607,109,0,"2,027"
+107,Black Canyon of the Gunnison NP,CO,2018,November,"21,674",0,"69,982",0,0,"1,169",410,0,0,"1,579"
+108,Black Canyon of the Gunnison NP,CO,2018,December,"3,732",0,"8,304",0,0,30,6,0,0,36
+109,Black Canyon of the Gunnison NP,CO,2019,January,"4,921",0,"8,886",0,0,3,0,0,0,3
+110,Black Canyon of the Gunnison NP,CO,2019,February,"6,369",0,"17,066",0,0,11,0,2,0,13
+111,Black Canyon of the Gunnison NP,CO,2019,March,"12,180",0,"26,934",0,0,64,20,0,0,83
+112,Black Canyon of the Gunnison NP,CO,2019,April,"25,077",0,"59,350",0,0,140,394,68,0,602
+113,Black Canyon of the Gunnison NP,CO,2019,May,"75,198",0,"409,684",0,0,"2,780","1,836",244,0,"4,860"
+114,Black Canyon of the Gunnison NP,CO,2019,June,"75,289",0,"435,444",0,0,"3,550","2,502",576,0,"6,628"
+115,Black Canyon of the Gunnison NP,CO,2019,July,"51,368",0,"342,640",0,0,"3,585","2,127",441,0,"6,153"
+116,Black Canyon of the Gunnison NP,CO,2019,August,"80,046",0,"430,953",0,0,"3,526","2,004",267,0,"5,797"
+117,Black Canyon of the Gunnison NP,CO,2019,September,"48,420",0,"267,642",0,0,"1,659","1,666",164,0,"3,489"
+118,Black Canyon of the Gunnison NP,CO,2019,October,"25,828",0,"127,525",0,0,"2,037","1,397",93,0,"3,527"
+119,Black Canyon of the Gunnison NP,CO,2019,November,"22,684",0,"54,417",0,0,427,269,6,0,701
+120,Black Canyon of the Gunnison NP,CO,2019,December,"5,438",0,"13,962",0,0,14,58,0,0,72
+121,Black Canyon of the Gunnison NP,CO,2020,January,"8,107",0,"19,759",0,0,3,14,0,0,17
+122,Black Canyon of the Gunnison NP,CO,2020,February,"9,112",0,"21,408",0,0,7,13,2,0,22
+123,Black Canyon of the Gunnison NP,CO,2020,March,"5,849",0,"11,305",0,0,7,13,0,0,20
+124,Black Canyon of the Gunnison NP,CO,2020,April,"19,803",0,"34,708",0,0,0,0,0,0,0
+125,Black Canyon of the Gunnison NP,CO,2020,May,"25,976",0,"107,752",0,0,0,0,0,0,0
+126,Black Canyon of the Gunnison NP,CO,2020,June,"27,583",0,"265,350",0,0,"3,514","1,901",721,0,"6,137"
+127,Black Canyon of the Gunnison NP,CO,2020,July,"61,521",0,"426,274",0,0,"4,953","2,366",631,0,"7,951"
+128,Black Canyon of the Gunnison NP,CO,2020,August,"58,097",0,"387,074",0,0,"4,427","1,887",525,0,"6,839"
+129,Black Canyon of the Gunnison NP,CO,2020,September,"48,257",0,"334,776",0,0,"3,249","2,548",281,0,"6,077"
+130,Black Canyon of the Gunnison NP,CO,2020,October,"47,739",0,"188,031",0,0,"2,024","1,913",223,0,"4,160"
+131,Black Canyon of the Gunnison NP,CO,2020,November,"23,249",0,"59,586",0,0,526,299,36,0,861
+132,Black Canyon of the Gunnison NP,CO,2020,December,"6,327",0,"18,785",0,0,58,25,0,0,83
+133,Great Sand Dunes NP & PRES,CO,2010,January,"1,328",35,"4,067",35,0,63,40,0,0,103
+134,Great Sand Dunes NP & PRES,CO,2010,February,"2,110",35,"5,262",35,0,59,13,3,0,75
+135,Great Sand Dunes NP & PRES,CO,2010,March,"9,530",35,"20,978",35,0,0,0,145,0,145
+136,Great Sand Dunes NP & PRES,CO,2010,April,"9,083",35,"39,486",35,0,729,294,37,491,"1,551"
+137,Great Sand Dunes NP & PRES,CO,2010,May,"44,932",45,"340,210",45,0,"4,316","2,373",575,"1,588","8,852"
+138,Great Sand Dunes NP & PRES,CO,2010,June,"56,799",45,"416,644",45,0,"5,838","2,789",409,"1,607","10,643"
+139,Great Sand Dunes NP & PRES,CO,2010,July,"60,734",45,"401,125",45,0,"5,808","2,492",303,"1,225","9,828"
+140,Great Sand Dunes NP & PRES,CO,2010,August,"46,552",45,"333,377",45,0,"5,359","1,973",231,901,"8,464"
+141,Great Sand Dunes NP & PRES,CO,2010,September,"28,728",45,"241,093",45,0,"3,412","2,257",222,561,"6,452"
+142,Great Sand Dunes NP & PRES,CO,2010,October,"16,344",35,"75,579",35,0,"1,469","1,096",217,331,"3,113"
+143,Great Sand Dunes NP & PRES,CO,2010,November,"4,759",35,"16,448",35,0,307,168,27,0,502
+144,Great Sand Dunes NP & PRES,CO,2010,December,"2,385",35,"6,117",35,0,63,33,2,0,98
+145,Great Sand Dunes NP & PRES,CO,2011,January,"1,428",35,"3,422",35,0,26,7,10,0,43
+146,Great Sand Dunes NP & PRES,CO,2011,February,"2,316",35,"5,643",35,0,50,20,4,0,74
+147,Great Sand Dunes NP & PRES,CO,2011,March,"9,919",35,"38,658",35,0,848,403,135,0,"1,386"
+148,Great Sand Dunes NP & PRES,CO,2011,April,"9,453",35,"45,064",35,0,"1,007",495,179,245,"1,926"
+149,Great Sand Dunes NP & PRES,CO,2011,May,"43,793",45,"321,124",45,0,"3,967","2,142",560,"1,646","8,315"
+150,Great Sand Dunes NP & PRES,CO,2011,June,"58,163",45,"403,337",45,0,"5,742","2,581",235,"1,549","10,107"
+151,Great Sand Dunes NP & PRES,CO,2011,July,"62,020",45,"407,914",45,0,"5,983","2,350",658,"1,018","10,009"
+152,Great Sand Dunes NP & PRES,CO,2011,August,"44,320",45,"262,445",45,0,"3,244","2,855",0,0,"6,099"
+153,Great Sand Dunes NP & PRES,CO,2011,September,"26,900",45,"226,331",45,0,"3,260","1,818",210,771,"6,059"
+154,Great Sand Dunes NP & PRES,CO,2011,October,"14,625",35,"61,952",35,0,"1,003",908,158,312,"2,381"
+155,Great Sand Dunes NP & PRES,CO,2011,November,"4,718",35,"13,689",35,0,191,86,36,0,313
+156,Great Sand Dunes NP & PRES,CO,2011,December,"2,403",35,"6,356",35,0,79,23,16,0,118
+157,Great Sand Dunes NP & PRES,CO,2012,January,"1,596",35,"4,610",35,0,56,30,17,0,103
+158,Great Sand Dunes NP & PRES,CO,2012,February,"1,856",35,"4,693",35,0,30,26,15,0,71
+159,Great Sand Dunes NP & PRES,CO,2012,March,"11,076",35,"45,324",35,0,"1,122",386,185,0,"1,693"
+160,Great Sand Dunes NP & PRES,CO,2012,April,"9,905",35,"54,530",35,0,"1,399",647,161,321,"2,528"
+161,Great Sand Dunes NP & PRES,CO,2012,May,"37,522",45,"239,853",45,0,"2,858","1,221",613,"1,146","5,838"
+162,Great Sand Dunes NP & PRES,CO,2012,June,"49,878",45,"353,710",45,0,"4,363","2,795",484,"1,289","8,931"
+163,Great Sand Dunes NP & PRES,CO,2012,July,"51,518",45,"333,778",45,0,"4,930","2,178",430,587,"8,125"
+164,Great Sand Dunes NP & PRES,CO,2012,August,"42,154",45,"214,613",45,0,"2,627","1,125",366,471,"4,589"
+165,Great Sand Dunes NP & PRES,CO,2012,September,"27,384",45,"176,281",45,0,"2,439","1,132",218,488,"4,277"
+166,Great Sand Dunes NP & PRES,CO,2012,October,"14,126",35,"63,878",35,0,"1,475",799,73,238,"2,585"
+167,Great Sand Dunes NP & PRES,CO,2012,November,"5,408",35,"17,693",35,0,320,145,33,0,498
+168,Great Sand Dunes NP & PRES,CO,2012,December,"2,251",35,"5,888",35,0,63,20,18,0,101
+169,Great Sand Dunes NP & PRES,CO,2013,January,"1,399",35,"3,418",35,0,30,13,2,0,45
+170,Great Sand Dunes NP & PRES,CO,2013,February,"1,059",35,"2,988",35,0,33,23,7,0,63
+171,Great Sand Dunes NP & PRES,CO,2013,March,"10,845",35,"34,876",35,0,584,224,147,0,956
+172,Great Sand Dunes NP & PRES,CO,2013,April,"10,486",35,"50,508",35,0,"1,125",373,120,525,"2,143"
+173,Great Sand Dunes NP & PRES,CO,2013,May,"34,661",45,"222,449",45,0,"2,597","1,109",562,"1,137","5,405"
+174,Great Sand Dunes NP & PRES,CO,2013,June,"47,565",45,"378,483",45,0,"5,716","2,449",474,"1,343","9,981"
+175,Great Sand Dunes NP & PRES,CO,2013,July,"51,852",45,"263,943",45,0,"3,287","1,096",301,957,"5,640"
+176,Great Sand Dunes NP & PRES,CO,2013,August,"40,309",45,"236,416",45,0,"2,980","1,251",428,844,"5,503"
+177,Great Sand Dunes NP & PRES,CO,2013,September,"30,624",45,"125,932",45,0,"1,092",531,146,533,"2,303"
+178,Great Sand Dunes NP & PRES,CO,2013,October,"6,776",35,"26,790",35,0,505,257,85,122,969
+179,Great Sand Dunes NP & PRES,CO,2013,November,"4,953",35,"10,182",35,0,0,0,24,0,24
+180,Great Sand Dunes NP & PRES,CO,2013,December,"2,312",35,"4,679",35,0,0,0,4,0,4
+181,Great Sand Dunes NP & PRES,CO,2014,January,"1,404",35,"2,946",35,0,0,0,10,0,10
+182,Great Sand Dunes NP & PRES,CO,2014,February,"1,095",35,"2,301",35,0,0,0,8,0,8
+183,Great Sand Dunes NP & PRES,CO,2014,March,"9,348",35,"21,800",35,0,0,0,243,0,243
+184,Great Sand Dunes NP & PRES,CO,2014,April,"10,868",35,"53,739",35,0,"1,099",673,124,430,"2,326"
+185,Great Sand Dunes NP & PRES,CO,2014,May,"30,445",45,"304,147",45,0,"3,864","2,409",741,"1,575","8,589"
+186,Great Sand Dunes NP & PRES,CO,2014,June,"49,808",45,"383,370",45,0,"5,032","3,056",613,"1,296","9,997"
+187,Great Sand Dunes NP & PRES,CO,2014,July,"55,238",45,"379,209",45,0,"5,217","2,782",426,"1,026","9,451"
+188,Great Sand Dunes NP & PRES,CO,2014,August,"52,500",45,"363,962",45,0,"5,475","2,373",668,605,"9,120"
+189,Great Sand Dunes NP & PRES,CO,2014,September,"32,678",45,"245,924",45,0,"3,237","2,402",344,396,"6,380"
+190,Great Sand Dunes NP & PRES,CO,2014,October,"22,024",35,"98,102",35,0,"1,957","1,485",201,290,"3,933"
+191,Great Sand Dunes NP & PRES,CO,2014,November,"4,202",35,"8,722",35,0,0,0,23,0,23
+192,Great Sand Dunes NP & PRES,CO,2014,December,"2,164",35,"4,382",35,0,0,0,4,0,4
+193,Great Sand Dunes NP & PRES,CO,2015,January,"1,354",35,"2,778",35,0,0,0,7,0,7
+194,Great Sand Dunes NP & PRES,CO,2015,February,"1,003",35,"2,283",35,0,0,0,20,0,20
+195,Great Sand Dunes NP & PRES,CO,2015,March,"8,221",35,"19,713",35,0,0,0,246,0,246
+196,Great Sand Dunes NP & PRES,CO,2015,April,"10,587",35,"75,533",35,0,"1,789","1,238",287,644,"3,957"
+197,Great Sand Dunes NP & PRES,CO,2015,May,"40,804",45,"354,498",45,0,"4,676","2,673",695,"1,597","9,641"
+198,Great Sand Dunes NP & PRES,CO,2015,June,"60,712",45,"415,250",45,0,"5,726","2,521",803,"1,343","10,393"
+199,Great Sand Dunes NP & PRES,CO,2015,July,"56,935",45,"406,004",45,0,"6,032","2,551",533,"1,172","10,288"
+200,Great Sand Dunes NP & PRES,CO,2015,August,"54,096",45,"377,811",45,0,"5,726","2,495",493,766,"9,479"
+201,Great Sand Dunes NP & PRES,CO,2015,September,"36,735",45,"217,891",45,0,"2,574","1,709",356,435,"5,074"
+202,Great Sand Dunes NP & PRES,CO,2015,October,"23,159",35,"109,790",35,0,"2,211","1,841",284,305,"4,641"
+203,Great Sand Dunes NP & PRES,CO,2015,November,"3,861",35,"7,943",35,0,0,0,17,0,17
+204,Great Sand Dunes NP & PRES,CO,2015,December,"2,046",35,"4,259",35,0,0,0,13,0,13
+205,Great Sand Dunes NP & PRES,CO,2016,January,"1,503",35,"3,283",35,0,0,0,20,0,20
+206,Great Sand Dunes NP & PRES,CO,2016,February,"3,485",35,"7,604",35,0,0,0,46,0,46
+207,Great Sand Dunes NP & PRES,CO,2016,March,"10,009",35,"23,013",35,0,0,0,245,0,245
+208,Great Sand Dunes NP & PRES,CO,2016,April,"13,851",35,"80,846",35,0,"1,723","1,247",187,705,"3,862"
+209,Great Sand Dunes NP & PRES,CO,2016,May,"50,657",45,"366,230",45,0,"4,709","2,653",693,"1,296","9,351"
+210,Great Sand Dunes NP & PRES,CO,2016,June,"77,174",45,"471,509",45,0,"5,230","3,135","1,157","1,657","11,180"
+211,Great Sand Dunes NP & PRES,CO,2016,July,"79,425",45,"472,544",45,0,"6,188","2,445",785,"1,601","11,019"
+212,Great Sand Dunes NP & PRES,CO,2016,August,"59,329",45,"387,430",45,0,"5,551","2,409",548,957,"9,465"
+213,Great Sand Dunes NP & PRES,CO,2016,September,"47,478",45,"347,974",45,0,"4,627","3,214",461,591,"8,893"
+214,Great Sand Dunes NP & PRES,CO,2016,October,"30,776",35,"144,738",35,0,"2,729","2,429",246,647,"6,051"
+215,Great Sand Dunes NP & PRES,CO,2016,November,"10,574",35,"22,514",35,0,0,0,107,0,107
+216,Great Sand Dunes NP & PRES,CO,2016,December,"4,047",35,"8,274",35,0,0,0,13,0,13
+217,Great Sand Dunes NP & PRES,CO,2017,January,"3,173",35,"6,609",35,0,0,0,21,0,21
+218,Great Sand Dunes NP & PRES,CO,2017,February,"6,547",35,"13,356",35,0,0,0,21,0,21
+219,Great Sand Dunes NP & PRES,CO,2017,March,"24,744",35,"51,669",35,0,0,0,168,0,168
+220,Great Sand Dunes NP & PRES,CO,2017,April,"23,064",35,"100,274",35,0,"1,818","1,422",240,451,"3,932"
+221,Great Sand Dunes NP & PRES,CO,2017,May,"67,737",45,"397,242",45,0,"4,363","2,983",818,"1,071","9,235"
+222,Great Sand Dunes NP & PRES,CO,2017,June,"96,529",45,"474,809",45,0,"5,280","2,640",892,"1,111","9,923"
+223,Great Sand Dunes NP & PRES,CO,2017,July,"97,242",45,"499,707",45,0,"6,593","2,554",617,970,"10,735"
+224,Great Sand Dunes NP & PRES,CO,2017,August,"73,579",45,"340,651",45,0,"3,778","1,482",670,899,"6,829"
+225,Great Sand Dunes NP & PRES,CO,2017,September,"47,673",45,"263,545",45,0,"2,739","2,043",514,640,"5,936"
+226,Great Sand Dunes NP & PRES,CO,2017,October,"29,763",35,"124,897",35,0,"2,211","1,848",211,481,"4,751"
+227,Great Sand Dunes NP & PRES,CO,2017,November,"10,510",35,"22,317",35,0,0,0,103,0,103
+228,Great Sand Dunes NP & PRES,CO,2017,December,"6,374",35,"13,259",35,0,0,0,38,0,38
+229,Great Sand Dunes NP & PRES,CO,2018,January,"3,551",35,"7,834",35,0,0,0,57,0,57
+230,Great Sand Dunes NP & PRES,CO,2018,February,"5,579",35,"11,986",35,0,0,0,66,0,66
+231,Great Sand Dunes NP & PRES,CO,2018,March,"26,387",35,"56,514",35,0,0,0,291,0,291
+232,Great Sand Dunes NP & PRES,CO,2018,April,"20,899",35,"104,196",35,0,"2,000","1,538",261,753,"4,552"
+233,Great Sand Dunes NP & PRES,CO,2018,May,"63,953",45,"459,447",45,0,"4,953","3,594","1,018","2,130","11,695"
+234,Great Sand Dunes NP & PRES,CO,2018,June,"77,494",45,"454,161",45,0,"5,240","3,277",735,"1,275","10,527"
+235,Great Sand Dunes NP & PRES,CO,2018,July,"79,486",45,"456,315",45,0,"6,260","2,541",563,"1,097","10,461"
+236,Great Sand Dunes NP & PRES,CO,2018,August,"71,774",45,"430,398",45,0,"5,686","2,838",682,904,"10,110"
+237,Great Sand Dunes NP & PRES,CO,2018,September,"49,941",45,"347,875",45,0,"3,759","3,617",480,880,"8,736"
+238,Great Sand Dunes NP & PRES,CO,2018,October,"29,007",35,"127,308",35,0,"1,934","2,260",256,605,"5,055"
+239,Great Sand Dunes NP & PRES,CO,2018,November,"10,430",35,"21,522",35,0,0,0,51,0,51
+240,Great Sand Dunes NP & PRES,CO,2018,December,"4,404",35,"9,001",35,0,0,0,15,0,15
+241,Great Sand Dunes NP & PRES,CO,2019,January,"4,404",35,"8,835",35,0,0,0,2,0,2
+242,Great Sand Dunes NP & PRES,CO,2019,February,"5,154",35,"10,487",35,0,0,0,15,0,15
+243,Great Sand Dunes NP & PRES,CO,2019,March,"19,541",35,"41,801",35,0,0,0,202,0,202
+244,Great Sand Dunes NP & PRES,CO,2019,April,"25,183",35,"116,321",35,0,"1,970","1,884",304,636,"4,794"
+245,Great Sand Dunes NP & PRES,CO,2019,May,"68,473",45,"431,309",45,0,"4,333","3,901",847,"1,344","10,424"
+246,Great Sand Dunes NP & PRES,CO,2019,June,"122,086",45,"577,481",45,0,"5,072","3,432","1,378","1,902","11,784"
+247,Great Sand Dunes NP & PRES,CO,2019,July,"103,293",45,"496,618",45,0,"5,643","3,043",699,815,"10,200"
+248,Great Sand Dunes NP & PRES,CO,2019,August,"81,085",45,"473,547",45,0,"5,834","2,960",715,"1,444","10,954"
+249,Great Sand Dunes NP & PRES,CO,2019,September,"52,946",45,"390,775",45,0,"4,501","4,023",479,"1,015","10,018"
+250,Great Sand Dunes NP & PRES,CO,2019,October,"32,180",35,"141,686",35,0,"2,023","2,624",236,733,"5,615"
+251,Great Sand Dunes NP & PRES,CO,2019,November,"8,606",35,"17,710",35,0,0,0,38,0,38
+252,Great Sand Dunes NP & PRES,CO,2019,December,"4,595",35,"9,438",35,0,0,0,18,0,18
+253,Great Sand Dunes NP & PRES,CO,2020,January,"5,232",35,"10,672",35,0,0,0,15,0,15
+254,Great Sand Dunes NP & PRES,CO,2020,February,"5,820",35,"11,944",35,0,0,0,22,0,22
+255,Great Sand Dunes NP & PRES,CO,2020,March,"19,560",35,"40,598",35,0,0,0,108,0,108
+256,Great Sand Dunes NP & PRES,CO,2020,April,"5,227",35,"11,683",35,0,0,0,99,0,99
+257,Great Sand Dunes NP & PRES,CO,2020,May,0,45,0,45,0,0,0,0,0,0
+258,Great Sand Dunes NP & PRES,CO,2020,June,"78,191",45,"283,629",45,0,"2,472","1,508",512,0,"4,492"
+259,Great Sand Dunes NP & PRES,CO,2020,July,"102,800",45,"484,740",45,0,"6,016","2,788","1,035",0,"9,839"
+260,Great Sand Dunes NP & PRES,CO,2020,August,"97,370",45,"479,240",45,0,"6,154","2,640","1,257",0,"10,052"
+261,Great Sand Dunes NP & PRES,CO,2020,September,"66,495",45,"317,343",45,0,"3,359","2,234",922,0,"6,516"
+262,Great Sand Dunes NP & PRES,CO,2020,October,"53,468",35,"218,097",35,0,"3,782","3,755",550,0,"8,087"
+263,Great Sand Dunes NP & PRES,CO,2020,November,"17,734",35,"38,172",35,0,0,0,210,0,210
+264,Great Sand Dunes NP & PRES,CO,2020,December,"9,635",35,"21,754",35,0,0,0,180,0,180
+265,Mesa Verde NP,CO,2010,January,"4,212",206,"18,953",206,0,0,0,0,0,0
+266,Mesa Verde NP,CO,2010,February,"4,549",300,"20,469",300,0,0,0,0,0,0
+267,Mesa Verde NP,CO,2010,March,"12,112",684,"54,503",684,0,0,0,0,0,0
+268,Mesa Verde NP,CO,2010,April,"26,390",594,"135,763",594,945,0,0,0,0,945
+269,Mesa Verde NP,CO,2010,May,"54,833","1,403","484,122","1,403","6,520","3,153","3,450",0,65,"13,188"
+270,Mesa Verde NP,CO,2010,June,"111,802",929,"858,751",929,"8,913","5,393","5,383",0,70,"19,759"
+271,Mesa Verde NP,CO,2010,July,"116,017",581,"920,642",581,"10,525","6,928","4,645",0,45,"22,143"
+272,Mesa Verde NP,CO,2010,August,"101,458",632,"790,247",632,"9,438","5,545","3,550",0,5,"18,538"
+273,Mesa Verde NP,CO,2010,September,"69,169",501,"618,222",501,"7,800","5,080","4,138",0,36,"17,054"
+274,Mesa Verde NP,CO,2010,October,"40,243",414,"250,736",414,"1,900",895,900,0,174,"3,869"
+275,Mesa Verde NP,CO,2010,November,"10,758",330,"48,412",330,0,0,0,0,0,0
+276,Mesa Verde NP,CO,2010,December,"8,169",333,"36,759",333,0,0,0,0,0,0
+277,Mesa Verde NP,CO,2011,January,"5,788",329,"26,047",329,0,0,0,0,0,0
+278,Mesa Verde NP,CO,2011,February,"5,323",306,"23,955",306,0,0,0,0,0,0
+279,Mesa Verde NP,CO,2011,March,"14,311",341,"64,398",341,0,0,0,0,0,0
+280,Mesa Verde NP,CO,2011,April,"24,325",602,"131,494",602,"1,224",0,0,0,0,"1,224"
+281,Mesa Verde NP,CO,2011,May,"59,077","1,011","470,606","1,011","5,948","3,038","2,315",0,75,"11,376"
+282,Mesa Verde NP,CO,2011,June,"113,928",618,"765,314",618,"3,915","6,915","3,153",0,53,"14,036"
+283,Mesa Verde NP,CO,2011,July,"120,840",642,"791,803",642,"4,017","7,068","2,643",0,52,"13,780"
+284,Mesa Verde NP,CO,2011,August,"103,413",662,"658,545",662,"3,802","5,090","1,833",0,8,"10,733"
+285,Mesa Verde NP,CO,2011,September,"70,453",471,"583,672",471,"7,814","3,395","3,580",0,24,"14,813"
+286,Mesa Verde NP,CO,2011,October,"37,264",234,"256,399",234,"2,585",983,"1,355",0,6,"4,929"
+287,Mesa Verde NP,CO,2011,November,"9,906",206,"44,577",206,0,0,0,0,0,0
+288,Mesa Verde NP,CO,2011,December,"7,701",306,"34,655",306,0,0,0,0,0,0
+289,Mesa Verde NP,CO,2012,January,"6,288",328,"28,298",328,0,0,0,0,0,0
+290,Mesa Verde NP,CO,2012,February,"5,771",328,"25,970",328,0,0,0,0,0,0
+291,Mesa Verde NP,CO,2012,March,"14,411",296,"64,850",296,0,0,0,0,0,0
+292,Mesa Verde NP,CO,2012,April,"25,245",444,"115,403",444,0,100,0,0,0,100
+293,Mesa Verde NP,CO,2012,May,"51,503","1,346","409,786","1,346","3,909","3,170","2,805",0,6,"9,890"
+294,Mesa Verde NP,CO,2012,June,"85,908","1,818","635,492","1,818","3,919","5,575","4,250",0,84,"13,828"
+295,Mesa Verde NP,CO,2012,July,"98,574","2,067","673,335","2,067","4,062","5,342","3,318",0,42,"12,764"
+296,Mesa Verde NP,CO,2012,August,"81,558","1,266","565,956","1,266","3,717","4,322","2,985",0,28,"11,052"
+297,Mesa Verde NP,CO,2012,September,"60,439","1,269","477,023","1,269","4,033","3,198","4,140",0,21,"11,392"
+298,Mesa Verde NP,CO,2012,October,"40,982",316,"270,819",316,"2,129",998,"1,658",0,16,"4,801"
+299,Mesa Verde NP,CO,2012,November,"10,620",100,"47,788",100,0,0,0,0,0,0
+300,Mesa Verde NP,CO,2012,December,"7,561",69,"34,023",69,0,0,0,0,0,0
+301,Mesa Verde NP,CO,2013,January,"5,758",8,"25,910",8,0,0,0,0,0,0
+302,Mesa Verde NP,CO,2013,February,"5,573",0,"25,079",0,0,0,0,0,0,0
+303,Mesa Verde NP,CO,2013,March,"13,963",350,"62,832",350,0,0,0,0,0,0
+304,Mesa Verde NP,CO,2013,April,"23,005",730,"103,521",730,0,0,0,0,0,0
+305,Mesa Verde NP,CO,2013,May,"52,250",810,"441,731",810,"3,305","3,928","4,168",0,78,"11,478"
+306,Mesa Verde NP,CO,2013,June,"87,746",826,"644,895",826,"3,860","5,988","3,992",0,51,"13,891"
+307,Mesa Verde NP,CO,2013,July,"99,900","1,200","628,335","1,200","3,716","5,212",970,0,34,"9,932"
+308,Mesa Verde NP,CO,2013,August,"82,980","1,563","559,726","1,563","3,625","5,568","1,152",0,6,"10,351"
+309,Mesa Verde NP,CO,2013,September,"60,415",736,"423,942",736,"3,946","3,370","1,118",0,15,"8,448"
+310,Mesa Verde NP,CO,2013,October,"9,002",64,"40,507",64,0,0,0,0,0,0
+311,Mesa Verde NP,CO,2013,November,"11,471",42,"51,619",42,0,0,0,0,0,0
+312,Mesa Verde NP,CO,2013,December,"8,174",15,"36,781",15,0,0,0,0,0,0
+313,Mesa Verde NP,CO,2014,January,"6,199",0,"27,896",0,0,0,0,0,0,0
+314,Mesa Verde NP,CO,2014,February,"6,531",0,"29,391",0,0,0,0,0,0,0
+315,Mesa Verde NP,CO,2014,March,"17,391",40,"78,259",40,0,0,0,0,0,0
+316,Mesa Verde NP,CO,2014,April,"29,800",332,"158,023",332,"1,034",295,0,0,0,"1,329"
+317,Mesa Verde NP,CO,2014,May,"53,608",376,"443,357",376,"3,373","6,665","1,095",0,96,"11,229"
+318,Mesa Verde NP,CO,2014,June,"91,640",478,"672,805",478,"3,733","9,558","1,122",0,55,"14,468"
+319,Mesa Verde NP,CO,2014,July,"103,586",862,"707,121",862,"3,690","8,578","1,082",0,38,"13,388"
+320,Mesa Verde NP,CO,2014,August,"89,201",926,"616,848",926,"3,659","7,138","1,148",0,25,"11,969"
+321,Mesa Verde NP,CO,2014,September,"50,725",826,"428,736",826,"4,067","5,918","1,115",0,38,"11,138"
+322,Mesa Verde NP,CO,2014,October,"36,961",501,"301,072",501,"4,731","2,248",412,0,95,"7,486"
+323,Mesa Verde NP,CO,2014,November,"10,522",56,"47,347",56,0,0,0,0,0,0
+324,Mesa Verde NP,CO,2014,December,"5,399",24,"24,295",24,0,0,0,0,0,0
+325,Mesa Verde NP,CO,2015,January,"5,813",174,"26,159",174,0,0,0,0,0,0
+326,Mesa Verde NP,CO,2015,February,"5,759",188,"25,915",188,0,0,0,0,0,0
+327,Mesa Verde NP,CO,2015,March,"14,616",342,"65,772",342,0,0,0,0,0,0
+328,Mesa Verde NP,CO,2015,April,"31,721",190,"162,841",190,764,352,0,0,0,"1,116"
+329,Mesa Verde NP,CO,2015,May,"55,079","1,324","482,891","1,324","3,970","7,845","1,148",0,95,"13,058"
+330,Mesa Verde NP,CO,2015,June,"97,331","1,662","716,052","1,662","3,763","10,500","1,125",0,60,"15,448"
+331,Mesa Verde NP,CO,2015,July,"114,814","1,484","798,551","1,484","3,687","10,775","1,158",0,41,"15,660"
+332,Mesa Verde NP,CO,2015,August,"90,545","1,593","641,659","1,593","3,609","8,220","1,162",0,20,"13,012"
+333,Mesa Verde NP,CO,2015,September,"67,970","1,846","547,271","1,846","4,064","8,210","1,118",0,20,"13,412"
+334,Mesa Verde NP,CO,2015,October,"43,659","1,030","317,408","1,030","2,162","3,898",648,0,12,"6,719"
+335,Mesa Verde NP,CO,2015,November,"11,230",320,"50,535",320,0,0,0,0,0,0
+336,Mesa Verde NP,CO,2015,December,"8,788",318,"39,544",318,0,0,0,0,0,0
+337,Mesa Verde NP,CO,2016,January,"6,222",180,"28,001",180,0,0,0,0,0,0
+338,Mesa Verde NP,CO,2016,February,"7,899",188,"35,545",188,0,0,0,0,0,0
+339,Mesa Verde NP,CO,2016,March,"20,491",453,"92,211",453,0,0,0,0,0,0
+340,Mesa Verde NP,CO,2016,April,"28,457","1,023","149,622","1,023",958,240,0,0,0,"1,198"
+341,Mesa Verde NP,CO,2016,May,"58,043","1,977","514,552","1,977","3,807","9,015","1,148",0,106,"14,076"
+342,Mesa Verde NP,CO,2016,June,"104,543","3,042","884,119","3,042","8,448","7,560","6,825",0,149,"22,982"
+343,Mesa Verde NP,CO,2016,July,"119,412","3,090","765,045","3,090","3,851","7,638","1,155",0,6,"12,650"
+344,Mesa Verde NP,CO,2016,August,"93,570","2,637","640,395","2,637","3,472","7,595","1,115",0,3,"12,185"
+345,Mesa Verde NP,CO,2016,September,"72,553","2,834","583,959","2,834","4,046","9,125","1,120",0,13,"14,304"
+346,Mesa Verde NP,CO,2016,October,"50,419","1,161","347,312","1,161","2,218","3,752",710,0,10,"6,690"
+347,Mesa Verde NP,CO,2016,November,"14,510",312,"65,293",312,0,0,0,0,0,0
+348,Mesa Verde NP,CO,2016,December,"7,408",260,"33,335",260,0,0,0,0,0,0
+349,Mesa Verde NP,CO,2017,January,"5,601",84,"25,206",84,0,0,0,0,0,0
+350,Mesa Verde NP,CO,2017,February,"5,737",0,"25,815",0,0,0,0,0,0,0
+351,Mesa Verde NP,CO,2017,March,"21,016",254,"94,570",254,0,0,0,0,0,0
+352,Mesa Verde NP,CO,2017,April,"34,568",632,"188,623",632,"1,162",402,272,0,0,"1,837"
+353,Mesa Verde NP,CO,2017,May,"64,239","1,672","529,618","1,672","3,086","9,015","1,148",0,115,"13,364"
+354,Mesa Verde NP,CO,2017,June,"111,130","1,941","698,942","1,941","3,836","6,022","1,115",0,74,"11,048"
+355,Mesa Verde NP,CO,2017,July,"119,918","2,028","792,575","2,028","3,696","5,155","5,178",0,24,"14,052"
+356,Mesa Verde NP,CO,2017,August,"96,470","1,683","593,623","1,683","3,463","4,232","1,155",0,11,"8,862"
+357,Mesa Verde NP,CO,2017,September,"77,036",718,"578,780",718,"3,975","3,645","5,232",0,43,"12,896"
+358,Mesa Verde NP,CO,2017,October,"51,351",0,"352,240",0,"2,604","1,408","2,708",0,12,"6,731"
+359,Mesa Verde NP,CO,2017,November,"14,824",0,"66,706",0,0,0,0,0,0,0
+360,Mesa Verde NP,CO,2017,December,"11,898",0,"53,543",0,0,0,0,0,0,0
+361,Mesa Verde NP,CO,2018,January,"8,309",88,"37,392",88,0,0,0,0,0,0
+362,Mesa Verde NP,CO,2018,February,"7,400",75,"33,300",75,0,0,0,0,0,0
+363,Mesa Verde NP,CO,2018,March,"21,048",288,"94,715",288,0,0,0,0,0,0
+364,Mesa Verde NP,CO,2018,April,"34,517",582,"220,188",582,"1,175","1,980",448,0,1,"3,604"
+365,Mesa Verde NP,CO,2018,May,"64,623","1,232","551,604","1,232","3,350","4,488","6,572",0,79,"14,489"
+366,Mesa Verde NP,CO,2018,June,"99,530","1,590","740,700","1,590","3,676","11,320","1,122",0,149,"16,268"
+367,Mesa Verde NP,CO,2018,July,"106,001","1,732","725,539","1,732","3,580","5,885","4,288",0,55,"13,808"
+368,Mesa Verde NP,CO,2018,August,"84,092","2,402","582,724","2,402","3,406","4,325","3,502",0,117,"11,350"
+369,Mesa Verde NP,CO,2018,September,"70,929","1,392","574,539","1,392","4,077","4,128","5,960",0,22,"14,186"
+370,Mesa Verde NP,CO,2018,October,"45,178",552,"316,510",552,"2,394","1,308","2,570",0,18,"6,290"
+371,Mesa Verde NP,CO,2018,November,"13,382",146,"60,220",146,0,0,0,0,0,0
+372,Mesa Verde NP,CO,2018,December,"8,411",146,"37,850",146,0,0,0,0,0,0
+373,Mesa Verde NP,CO,2019,January,95,15,428,15,0,0,0,0,0,0
+374,Mesa Verde NP,CO,2019,February,"3,414",105,"15,361",105,0,0,0,0,0,0
+375,Mesa Verde NP,CO,2019,March,"14,992",288,"67,462",288,0,0,0,0,0,0
+376,Mesa Verde NP,CO,2019,April,"32,428",276,"216,226",276,"1,283",798,"1,825",0,0,"3,906"
+377,Mesa Verde NP,CO,2019,May,"60,665",6,"501,555",6,"3,297","3,422","5,918",0,61,"12,698"
+378,Mesa Verde NP,CO,2019,June,"108,231","1,125","810,555","1,125","4,022","12,585","1,270",0,96,"17,973"
+379,Mesa Verde NP,CO,2019,July,"113,166","2,752","793,001","2,752","3,883","6,072","5,768",0,41,"15,764"
+380,Mesa Verde NP,CO,2019,August,"87,133","1,580","612,165","1,580","3,267","4,678","4,252",0,29,"12,226"
+381,Mesa Verde NP,CO,2019,September,"70,865","2,058","538,959","2,058","3,267","4,678","4,252",0,29,"12,226"
+382,Mesa Verde NP,CO,2019,October,"47,270","1,198","333,035","1,198","2,470","1,388","2,825",0,2,"6,684"
+383,Mesa Verde NP,CO,2019,November,"10,201",384,"45,906",384,0,0,0,0,0,0
+384,Mesa Verde NP,CO,2019,December,"7,743",294,"34,844",294,0,0,0,0,0,0
+385,Mesa Verde NP,CO,2020,January,"6,872",20,"30,924",20,0,0,0,0,0,0
+386,Mesa Verde NP,CO,2020,February,"7,422",2,"33,400",2,0,0,0,0,0,0
+387,Mesa Verde NP,CO,2020,March,"10,193",210,"45,869",210,0,0,0,0,0,0
+388,Mesa Verde NP,CO,2020,April,0,0,0,0,0,0,0,0,0,0
+389,Mesa Verde NP,CO,2020,May,"3,029",338,"33,522",338,120,358,628,0,0,"1,105"
+390,Mesa Verde NP,CO,2020,June,"48,110","1,394","349,173","1,394","1,050","2,990","3,330",0,1,"7,371"
+391,Mesa Verde NP,CO,2020,July,"49,824","1,374","373,607","1,374","1,551","3,422","3,318",0,9,"8,300"
+392,Mesa Verde NP,CO,2020,August,"56,923","1,524","373,334","1,524","1,297","2,670","2,535",0,8,"6,510"
+393,Mesa Verde NP,CO,2020,September,"44,557","1,412","358,844","1,412","1,706","3,090","3,998",0,3,"8,796"
+394,Mesa Verde NP,CO,2020,October,"37,794",642,"172,412",642,0,130,0,0,0,130
+395,Mesa Verde NP,CO,2020,November,"13,803",375,"62,114",375,0,0,0,0,0,0
+396,Mesa Verde NP,CO,2020,December,"8,950",228,"40,273",228,0,0,0,0,0,0
+397,Rocky Mountain NP,CO,2010,January,"64,618","9,833","393,246","1,049",0,147,69,130,0,346
+398,Rocky Mountain NP,CO,2010,February,"44,576","6,835","269,887",693,0,66,30,56,0,152
+399,Rocky Mountain NP,CO,2010,March,"70,117","6,778","431,504",776,0,267,162,246,0,675
+400,Rocky Mountain NP,CO,2010,April,"69,097","6,737","426,759",743,0,354,273,134,0,761
+401,Rocky Mountain NP,CO,2010,May,"180,710","11,780","1,191,876","2,373",0,"3,576","1,932",922,296,"6,726"
+402,Rocky Mountain NP,CO,2010,June,"441,738","22,443","3,205,162","5,883",0,"19,710","9,006","4,599","1,356","34,671"
+403,Rocky Mountain NP,CO,2010,July,"668,418","30,683","4,861,515","8,441",0,"27,129","11,130","12,452","2,477","53,188"
+404,Rocky Mountain NP,CO,2010,August,"574,638","29,990","4,131,333","9,115",0,"22,176","9,702","9,687","1,154","42,719"
+405,Rocky Mountain NP,CO,2010,September,"461,942","22,514","3,260,753","6,181",0,"14,526","11,277","4,135",631,"30,569"
+406,Rocky Mountain NP,CO,2010,October,"245,770","10,845","1,533,403","2,503",0,"1,314","1,512",833,15,"3,674"
+407,Rocky Mountain NP,CO,2010,November,"67,862","7,714","415,713",909,0,207,189,138,0,534
+408,Rocky Mountain NP,CO,2010,December,"66,335","6,474","401,004",693,0,42,72,73,0,187
+409,Rocky Mountain NP,CO,2011,January,"68,641","8,131","415,495",913,0,45,42,141,0,228
+410,Rocky Mountain NP,CO,2011,February,"50,540","6,085","306,473",633,0,42,18,142,0,202
+411,Rocky Mountain NP,CO,2011,March,"73,760","7,229","455,586",812,0,321,156,337,0,814
+412,Rocky Mountain NP,CO,2011,April,"77,183","5,940","476,040",680,0,372,357,80,0,809
+413,Rocky Mountain NP,CO,2011,May,"163,587","10,025","1,056,880","2,233",0,"2,346","1,542",512,310,"4,710"
+414,Rocky Mountain NP,CO,2011,June,"500,733","27,264","3,651,999","6,269",0,"21,768","11,184","3,841","3,682","40,475"
+415,Rocky Mountain NP,CO,2011,July,"743,741","29,070","5,444,286","8,312",0,"30,792","13,530","10,720","6,323","61,365"
+416,Rocky Mountain NP,CO,2011,August,"620,534","25,498","4,590,212","8,756",0,"28,212","12,030","10,257","3,689","54,188"
+417,Rocky Mountain NP,CO,2011,September,"483,780","22,179","3,426,583","6,154",0,"15,663","11,646","4,274","1,161","32,744"
+418,Rocky Mountain NP,CO,2011,October,"264,617","9,157","1,661,128","2,368",0,"1,608","2,307",662,12,"4,589"
+419,Rocky Mountain NP,CO,2011,November,"68,076","6,514","414,071",813,0,102,69,142,38,351
+420,Rocky Mountain NP,CO,2011,December,"61,749","11,581","374,283","1,102",0,66,63,108,0,237
+421,Rocky Mountain NP,CO,2012,January,"68,537",90,"416,340",270,0,72,114,91,43,320
+422,Rocky Mountain NP,CO,2012,February,"62,036",50,"378,169",150,0,69,75,214,14,372
+423,Rocky Mountain NP,CO,2012,March,"104,374",80,"647,348",240,0,474,441,364,40,"1,319"
+424,Rocky Mountain NP,CO,2012,April,"117,053",70,"741,982",210,0,"1,170",954,306,49,"2,479"
+425,Rocky Mountain NP,CO,2012,May,"228,950",490,"1,487,588","1,470",0,"3,543","1,818","1,686",71,"7,118"
+426,Rocky Mountain NP,CO,2012,June,"500,206","1,400","3,540,022","4,200",0,"18,210","7,863","6,069","1,532","33,674"
+427,Rocky Mountain NP,CO,2012,July,"651,722","2,050","4,535,854","6,150",0,"22,761","8,184","6,071","2,079","39,095"
+428,Rocky Mountain NP,CO,2012,August,"589,131","2,300","4,195,989","6,900",0,"22,233","8,292","9,646","1,154","41,325"
+429,Rocky Mountain NP,CO,2012,September,"527,172","1,500","3,633,525","4,500",0,"14,445","10,146","4,303",512,"29,406"
+430,Rocky Mountain NP,CO,2012,October,"219,946",560,"1,375,132","1,680",0,"1,200","1,695",554,17,"3,466"
+431,Rocky Mountain NP,CO,2012,November,"93,714",100,"569,533",300,0,174,129,150,0,453
+432,Rocky Mountain NP,CO,2012,December,"66,776",60,"403,855",180,0,42,54,104,0,200
+433,Rocky Mountain NP,CO,2013,January,"78,022",90,"471,091",270,0,66,36,83,0,185
+434,Rocky Mountain NP,CO,2013,February,"68,831",50,"416,647",150,0,54,33,124,18,229
+435,Rocky Mountain NP,CO,2013,March,"89,691",80,"551,314",240,0,336,84,322,81,823
+436,Rocky Mountain NP,CO,2013,April,"90,379",70,"558,514",210,0,447,399,120,49,"1,015"
+437,Rocky Mountain NP,CO,2013,May,"239,184",490,"1,569,343","1,470",0,"4,611","2,649",919,211,"8,390"
+438,Rocky Mountain NP,CO,2013,June,"602,508","1,400","4,167,143","4,200",0,"19,152","8,601","5,199","1,554","34,506"
+439,Rocky Mountain NP,CO,2013,July,"712,583","2,050","5,007,420","6,150",0,"24,144","9,234","10,782","1,585","45,745"
+440,Rocky Mountain NP,CO,2013,August,"621,852","2,300","4,427,192","6,900",0,"23,517","9,189","9,775","1,024","43,505"
+441,Rocky Mountain NP,CO,2013,September,"253,467","1,500","1,738,915","4,500",0,"6,870","4,434","2,215",113,"13,632"
+442,Rocky Mountain NP,CO,2013,October,"66,275",560,"414,447","1,680",0,348,606,93,3,"1,050"
+443,Rocky Mountain NP,CO,2013,November,"86,379",100,"525,314",300,0,168,150,108,14,440
+444,Rocky Mountain NP,CO,2013,December,"81,970",60,"495,949",180,0,69,57,130,2,258
+445,Rocky Mountain NP,CO,2014,January,"77,633",90,"470,265",270,0,78,102,88,11,279
+446,Rocky Mountain NP,CO,2014,February,"76,881",50,"464,585",150,0,18,51,130,7,206
+447,Rocky Mountain NP,CO,2014,March,"99,077",80,"603,068",240,0,57,165,313,3,538
+448,Rocky Mountain NP,CO,2014,April,"97,100",70,"593,435",210,0,189,315,173,0,677
+449,Rocky Mountain NP,CO,2014,May,"220,532",490,"1,471,370","1,470",0,"3,336","4,374","1,149",402,"9,261"
+450,Rocky Mountain NP,CO,2014,June,"538,725","1,400","3,930,109","4,200",0,"24,207","10,818","5,731","2,854","43,610"
+451,Rocky Mountain NP,CO,2014,July,"693,685","2,050","5,137,438","6,150",0,"33,303","12,252","11,488","3,915","60,958"
+452,Rocky Mountain NP,CO,2014,August,"616,826","2,300","4,565,422","6,900",0,"29,505","11,559","10,180","2,785","54,029"
+453,Rocky Mountain NP,CO,2014,September,"537,694","1,500","3,740,549","4,500",0,"17,517","9,975","4,155",502,"32,149"
+454,Rocky Mountain NP,CO,2014,October,"305,651",560,"1,916,051","1,680",0,"3,366","1,002",766,0,"5,134"
+455,Rocky Mountain NP,CO,2014,November,"90,915",100,"557,028",300,0,621,0,100,0,721
+456,Rocky Mountain NP,CO,2014,December,"80,032",60,"484,083",180,0,0,195,48,0,243
+457,Rocky Mountain NP,CO,2015,January,"98,928",90,"602,466",270,0,312,0,244,0,556
+458,Rocky Mountain NP,CO,2015,February,"85,123",50,"520,067",150,0,0,429,154,0,583
+459,Rocky Mountain NP,CO,2015,March,"134,304",80,"824,179",240,0,0,780,367,0,"1,147"
+460,Rocky Mountain NP,CO,2015,April,"116,959",70,"726,653",210,0,"1,308",0,248,0,"1,556"
+461,Rocky Mountain NP,CO,2015,May,"259,711",490,"1,710,570","1,470",0,"5,118","2,856","1,388",157,"9,519"
+462,Rocky Mountain NP,CO,2015,June,"608,796","1,400","4,443,976","4,200",0,"26,655","12,375","7,152","3,268","49,450"
+463,Rocky Mountain NP,CO,2015,July,"858,426","2,050","6,220,761","6,150",0,"34,548","13,335","14,438","4,567","66,888"
+464,Rocky Mountain NP,CO,2015,August,"765,579","2,300","5,608,244","6,900",0,"33,294","12,834","13,446","3,849","63,423"
+465,Rocky Mountain NP,CO,2015,September,"644,350","1,500","4,456,483","4,500",0,"18,615","10,710","6,815",759,"36,899"
+466,Rocky Mountain NP,CO,2015,October,"371,558",560,"2,436,577","1,680",0,"3,981","7,308","1,663",0,"12,952"
+467,Rocky Mountain NP,CO,2015,November,"118,398",100,"722,019",300,0,327,246,150,4,727
+468,Rocky Mountain NP,CO,2015,December,"93,784",60,"568,882",180,0,96,54,236,0,386
+469,Rocky Mountain NP,CO,2016,January,"115,207",90,"696,296",270,0,114,72,130,0,316
+470,Rocky Mountain NP,CO,2016,February,"105,125",50,"641,662",150,0,321,195,166,0,682
+471,Rocky Mountain NP,CO,2016,March,"135,053",80,"824,849",240,0,384,165,359,0,908
+472,Rocky Mountain NP,CO,2016,April,"129,967",70,"799,144",210,0,699,339,171,0,"1,209"
+473,Rocky Mountain NP,CO,2016,May,"285,868",490,"1,852,712","1,470",0,"4,350","2,454","1,790",0,"8,594"
+474,Rocky Mountain NP,CO,2016,June,"700,990","1,400","4,920,626","4,200",0,"25,437","11,037","8,069",125,"44,668"
+475,Rocky Mountain NP,CO,2016,July,"912,507","2,050","6,562,113","6,150",0,"34,533","13,191","15,453","4,765","67,942"
+476,Rocky Mountain NP,CO,2016,August,"772,849","2,300","5,523,779","6,900",0,"30,228","15,285","9,719",186,"55,418"
+477,Rocky Mountain NP,CO,2016,September,"711,110","1,500","4,920,788","4,500",0,"21,546","12,210","7,063",64,"40,883"
+478,Rocky Mountain NP,CO,2016,October,"398,525",560,"2,484,284","1,680",0,"2,268","1,737","1,816",0,"5,821"
+479,Rocky Mountain NP,CO,2016,November,"158,553",100,"979,383",300,0,891,552,311,0,"1,754"
+480,Rocky Mountain NP,CO,2016,December,"91,831",60,"558,504",180,0,210,84,176,0,470
+481,Rocky Mountain NP,CO,2017,January,"95,602",90,"581,214",270,0,204,132,95,44,475
+482,Rocky Mountain NP,CO,2017,February,"98,832",50,"599,822",150,0,168,111,148,0,427
+483,Rocky Mountain NP,CO,2017,March,"145,110",80,"891,621",240,0,681,198,431,0,"1,310"
+484,Rocky Mountain NP,CO,2017,April,"158,360",70,"988,927",210,0,"1,248",843,325,7,"2,423"
+485,Rocky Mountain NP,CO,2017,May,"263,222",490,"1,779,875","1,470",0,"7,158","3,378","1,777",221,"12,534"
+486,Rocky Mountain NP,CO,2017,June,"741,247","1,400","5,297,116","4,200",0,"27,714","13,623","8,330","3,435","53,102"
+487,Rocky Mountain NP,CO,2017,July,"885,478","2,050","6,390,211","6,150",0,"33,708","13,332","14,786","5,508","67,334"
+488,Rocky Mountain NP,CO,2017,August,"782,625","2,300","5,652,470","6,900",0,"31,401","13,074","11,498","3,822","59,795"
+489,Rocky Mountain NP,CO,2017,September,"681,160","1,500","4,697,054","4,500",0,"20,076","11,508","6,496",51,"38,131"
+490,Rocky Mountain NP,CO,2017,October,"332,526",560,"2,047,271","1,680",0,"1,218","1,032","1,007",0,"3,257"
+491,Rocky Mountain NP,CO,2017,November,"140,223",100,"853,960",300,0,351,252,186,0,789
+492,Rocky Mountain NP,CO,2017,December,"112,830",60,"685,156",180,0,252,144,115,0,511
+493,Rocky Mountain NP,CO,2018,January,"111,422",90,"675,409",270,0,195,135,99,1,430
+494,Rocky Mountain NP,CO,2018,February,"84,245",50,"511,633",150,0,96,165,124,0,385
+495,Rocky Mountain NP,CO,2018,March,"156,434",80,"956,876",240,0,549,318,275,0,"1,142"
+496,Rocky Mountain NP,CO,2018,April,"151,975",70,"933,368",210,0,603,471,271,0,"1,345"
+497,Rocky Mountain NP,CO,2018,May,"305,993",490,"2,058,453","1,470",0,"7,206","4,674","1,974",52,"13,906"
+498,Rocky Mountain NP,CO,2018,June,"720,822","1,400","5,207,236","4,200",0,"29,595","13,404","8,877","3,268","55,144"
+499,Rocky Mountain NP,CO,2018,July,"931,929","2,050","6,589,347","6,150",0,"31,968","15,276","14,787",330,"62,361"
+500,Rocky Mountain NP,CO,2018,August,"798,306","2,300","5,710,795","6,900",0,"23,136","22,056","12,177",191,"57,560"
+501,Rocky Mountain NP,CO,2018,September,"784,480","1,500","5,341,248","4,500",0,"20,856","11,727","7,003",62,"39,648"
+502,Rocky Mountain NP,CO,2018,October,"312,757",560,"1,983,181","1,680",0,"3,213","2,352","1,100",0,"6,665"
+503,Rocky Mountain NP,CO,2018,November,"125,349",100,"764,815",300,0,339,339,117,0,795
+504,Rocky Mountain NP,CO,2018,December,"106,781",60,"647,551",180,0,168,99,36,126,429
+505,Rocky Mountain NP,CO,2019,January,"118,152",90,"709,329",270,0,12,12,2,0,26
+506,Rocky Mountain NP,CO,2019,February,"99,873",50,"604,533",150,0,144,99,0,88,331
+507,Rocky Mountain NP,CO,2019,March,"146,414",80,"890,469",240,0,465,150,134,0,749
+508,Rocky Mountain NP,CO,2019,April,"160,259",70,"997,124",210,0,"1,134",918,171,0,"2,223"
+509,Rocky Mountain NP,CO,2019,May,"280,351",490,"1,864,409","1,470",0,"6,570","3,735","1,068",21,"11,394"
+510,Rocky Mountain NP,CO,2019,June,"698,224","1,400","4,791,603","4,200",0,"12,912","18,225","6,307",197,"37,641"
+511,Rocky Mountain NP,CO,2019,July,"973,992","2,050","6,830,898","6,150",0,"34,785","12,660","13,934",305,"61,684"
+512,Rocky Mountain NP,CO,2019,August,"830,039","2,300","5,870,248","6,900",0,"30,726","13,026","11,653",221,"55,626"
+513,Rocky Mountain NP,CO,2019,September,"752,320","1,500","5,146,674","4,500",0,"20,634","12,162","6,706",45,"39,547"
+514,Rocky Mountain NP,CO,2019,October,"374,003",560,"2,390,212","1,680",0,"4,770","3,312","1,055",0,"9,137"
+515,Rocky Mountain NP,CO,2019,November,"123,376",100,"752,382",300,0,387,270,101,0,758
+516,Rocky Mountain NP,CO,2019,December,"113,050",60,"687,482",180,0,252,240,82,0,574
+517,Rocky Mountain NP,CO,2020,January,"126,866",90,"768,346",270,0,198,186,63,0,447
+518,Rocky Mountain NP,CO,2020,February,"110,667",50,"671,220",150,0,159,225,67,0,451
+519,Rocky Mountain NP,CO,2020,March,"97,690",80,"596,411",240,0,438,126,78,0,642
+520,Rocky Mountain NP,CO,2020,April,0,70,0,210,0,0,0,0,0,0
+521,Rocky Mountain NP,CO,2020,May,"63,051",490,"380,288","1,470",0,0,0,124,0,124
+522,Rocky Mountain NP,CO,2020,June,"491,355","1,400","3,318,209","4,200",0,"7,725","8,130","7,275",0,"23,130"
+523,Rocky Mountain NP,CO,2020,July,"723,478","2,050","4,842,803","6,150",0,"6,381","11,949","13,041",0,"31,371"
+524,Rocky Mountain NP,CO,2020,August,"580,368","2,300","3,963,040","6,900",0,"7,506","10,212","12,334",0,"30,052"
+525,Rocky Mountain NP,CO,2020,September,"500,019","1,500","3,316,384","4,500",0,"7,776","5,253","6,738",0,"19,767"
+526,Rocky Mountain NP,CO,2020,October,"297,665",560,"1,839,907","1,680",0,984,756,"1,630",0,"3,370"
+527,Rocky Mountain NP,CO,2020,November,"157,875",100,"948,387",300,0,0,0,71,0,71
+528,Rocky Mountain NP,CO,2020,December,"156,165",60,"944,415",180,0,183,180,101,0,464
