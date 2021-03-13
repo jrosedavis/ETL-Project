@@ -67,7 +67,9 @@ ADD Primary Key ("FacilityID");
 
 -- drop table reservations
 
-select * from reservations
+SELECT * FROM reservations 
+WHERE "SiteType" = 'TENT ONLY NONELECTRIC' ;
+
 
 select count(*) from reservations
 
@@ -89,10 +91,36 @@ select * from nps_comments
 
 select count(*) from nps_comments
 
-select * from reservations where reservations.FacilityID=254082;
 
+-- Kevin wants to go tent camping with 15 family members. Where can he camp in Colorado?
 
+SELECT * FROM reservations 
+WHERE "NumberOfPeople" >= 15 and "SiteType" = 'TENT ONLY NONELECTRIC';
 
+-- Sara loves tent camping, but only with a group of friends! She wants to know if there is a location at Sand Dunes where she can tent camp.
+select "Park","FacilityID", "SiteType"
+from reservations
+where "SiteType"='GROUP TENT ONLY AREA NONELECTRIC' 
+AND "FacilityID" IN
+	(select  "FacilityID"
+	 from geocode_info
+	 where  "RegionDescription"='Great Sand Dunes NP & PRES')
+Group BY "Park", "FacilityID", "SiteType"
 
+-- Leah hates crowds but loves camping. She wants to find out which campground is the least busy at rocky mountian national park.
+select "Park","FacilityID", count("OrderNumber") 
+from reservations
+where "FacilityID" IN
+	(select  "FacilityID"
+	 from geocode_info
+	 where  "RegionDescription"='Rocky Mountain NP')
+Group BY "Park", "FacilityID"
+Order BY count("OrderNumber") ASC
+
+-- Adrienne has decided to go to Mesa Verde national park. She wants to know what people are saying about that park?
+Select "Park", "CollectedDate", "Comments"
+FROM nps_comments
+Where "Park"='Mesa Verde NP'
+Order By "CollectedDate" DESC
 
 
