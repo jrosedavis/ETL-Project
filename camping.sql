@@ -21,9 +21,11 @@ CREATE TABLE "reservations" (
 );
 
 ALTER TABLE reservations
-ADD Primary Key ("OrderNumber")
+ADD Primary Key ("OrderNumber");
+
 ​
 CREATE TABLE "nps_summary" (
+	"ID" serial  primary key,
     "Park" varchar   NOT NULL,
     "State" varchar   ,
     "Year" int   NOT NULL,
@@ -37,10 +39,11 @@ CREATE TABLE "nps_summary" (
     "RV_Campers" int   ,
     "Backcountry_Campers" int   ,
     "Misc_Campers" int  ,
-    "Total_Overnight_Stays" int  
+    "Total_Overnight_Stays" int 
 );
 
 CREATE TABLE "nps_comments" (
+	"ID" serial  primary key,
     "Park" varchar   ,
     "State" varchar   ,
     "Year" int   ,
@@ -59,24 +62,8 @@ CREATE TABLE "geocode_info" (
     "County" varchar   
 );
 
-​
-ALTER TABLE "reservations" ADD CONSTRAINT "fk_reservations_Park" FOREIGN KEY("Park")
-REFERENCES "nps_comments" ("Park");
-​
-ALTER TABLE "reservations" ADD CONSTRAINT "fk_reservations_FacilityState" FOREIGN KEY("FacilityState")
-REFERENCES "nps_summary" ("State");
-​
-ALTER TABLE "nps_comments" ADD CONSTRAINT "fk_nps_comments_Park" FOREIGN KEY("Park")
-REFERENCES "nps_summary" ("Park");
-​
-ALTER TABLE "nps_comments" ADD CONSTRAINT "fk_nps_comments_State" FOREIGN KEY("State")
-REFERENCES "reservations" ("FacilityState");
-​
-ALTER TABLE "nps_summary" ADD CONSTRAINT "fk_nps_summary_Park" FOREIGN KEY("Park")
-REFERENCES "reservations" ("Park");
-​
-ALTER TABLE "nps_summary" ADD CONSTRAINT "fk_nps_summary_Year" FOREIGN KEY("State", "Year")
-REFERENCES "nps_comments" ("State", "Year");
+ALTER TABLE geocode_info
+ADD Primary Key ("FacilityID");
 
 -- drop table reservations
 
@@ -90,7 +77,7 @@ select * from nps_summary
 
 select count(*) from nps_summary
 
-drop table geocode_info
+-- drop table geocode_info
 
 select * from geocode_info
 
@@ -101,3 +88,11 @@ select count(*) from geocode_info
 select * from nps_comments
 
 select count(*) from nps_comments
+
+select * from reservations where reservations.FacilityID=254082;
+
+
+
+
+
+
