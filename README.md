@@ -2,8 +2,7 @@
 
 ![image.PNG](images/image.png?raw=true "Title")
 
-Austin Olea, David Jimenez, Elizabeth Conway,
-Jenni Davis, & Susan Farago
+Jenni Davis, Susan Farago, David Jimenez, Elizabeth Conway, & Austin Olea
 
 For more information, please refer to ETL Project Final Report!
 
