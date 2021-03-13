@@ -1,6 +1,6 @@
 # ETL Project Proposal
 
-![forest.PNG](images/forest.PNG?raw=true "Title")
+![image.PNG](images/image.png?raw=true "Title")
 
 Austin Olea, David Jimenez, Elizabeth Conway,
 Jenni Davis, & Susan Farago
