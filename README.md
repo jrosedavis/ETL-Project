@@ -4,7 +4,7 @@
 
 Jenni Davis, Susan Farago, David Jimenez, Elizabeth Conway, & Austin Olea
 
-For more information, please refer to ETL Project Final Report!
+[For more information, please refer to ETL Project Final Report!](https://github.com/econway0321/ETL-Project/blob/main/ETL%20Project%20Final%20Report.pdf)
 
 ## Summary
 
